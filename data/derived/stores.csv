@@ -1,0 +1,992 @@
+run_id,place,page,framing,order,name,said,status
+2026-11:ar:nocar,ar,Arkansas,nocar,1,Walmart,yes,ok
+2026-11:ar:nocar,ar,Arkansas,nocar,2,Aldi,yes,ok
+2026-11:ar:nocar,ar,Arkansas,nocar,3,Instacart,yes,platform
+2026-11:ar:nocar,ar,Arkansas,nocar,4,Kroger,yes,ok
+2026-11:ar:nocar,ar,Arkansas,nocar,5,Amazon,yes,ok
+2026-11:sd:where,sd,South Dakota,where,1,Hy-Vee,yes,usda_listed
+2026-11:sd:where,sd,South Dakota,where,2,Walmart,yes,ok
+2026-11:sd:where,sd,South Dakota,where,3,ALDI,yes,ok
+2026-11:sd:where,sd,South Dakota,where,4,Instacart,yes,platform
+2026-11:sd:where,sd,South Dakota,where,5,Target,yes,usda_listed
+2026-11:sd:where,sd,South Dakota,where,6,Sam's Club,yes,usda_listed
+2026-11:sd:where,sd,South Dakota,where,7,Costco,yes,ok
+2026-11:sd:where,sd,South Dakota,where,8,Amazon,yes,ok
+2026-11:sd:where,sd,South Dakota,where,9,Thrive Market,yes,usda_listed
+2026-11:sd:where,sd,South Dakota,where,10,DoorDash,yes,platform
+2026-11:sd:where,sd,South Dakota,where,11,Uber Eats,yes,platform
+2026-11:ok:nocar,ok,Oklahoma,nocar,1,Walmart,yes,ok
+2026-11:ok:nocar,ok,Oklahoma,nocar,2,Kroger Delivery,yes,unverified
+2026-11:ok:nocar,ok,Oklahoma,nocar,3,ALDI,yes,ok
+2026-11:ok:nocar,ok,Oklahoma,nocar,4,DoorDash,yes,platform
+2026-11:ok:nocar,ok,Oklahoma,nocar,5,Instacart,yes,platform
+2026-11:ga:nocar,ga,Georgia,nocar,1,Walmart,yes,ok
+2026-11:ga:nocar,ga,Georgia,nocar,2,Kroger,yes,ok
+2026-11:ga:nocar,ga,Georgia,nocar,3,Instacart,yes,platform
+2026-11:ga:nocar,ga,Georgia,nocar,4,ALDI,yes,ok
+2026-11:mo:nocar,mo,Missouri,nocar,1,Walmart,yes,ok
+2026-11:mo:nocar,mo,Missouri,nocar,2,ALDI,yes,ok
+2026-11:mo:nocar,mo,Missouri,nocar,3,Instacart,yes,platform
+2026-11:mo:nocar,mo,Missouri,nocar,4,Amazon,yes,ok
+2026-11:or:nocar,or,Oregon,nocar,1,Walmart,yes,ok
+2026-11:or:nocar,or,Oregon,nocar,2,Organics to You,yes,usda_listed
+2026-11:or:nocar,or,Oregon,nocar,3,Fred Meyer,yes,usda_listed
+2026-11:or:nocar,or,Oregon,nocar,4,Safeway,yes,ok
+2026-11:or:nocar,or,Oregon,nocar,5,Instacart,yes,platform
+2026-11:or:nocar,or,Oregon,nocar,6,Sprouts,yes,wrong
+2026-11:dc:nocar,dc,District of Columbia,nocar,1,Walmart,yes,ok
+2026-11:dc:nocar,dc,District of Columbia,nocar,2,Amazon,yes,ok
+2026-11:dc:nocar,dc,District of Columbia,nocar,3,Amazon Fresh,yes,ok
+2026-11:dc:nocar,dc,District of Columbia,nocar,4,Giant Food,yes,usda_listed
+2026-11:dc:nocar,dc,District of Columbia,nocar,5,ALDI,yes,ok
+2026-11:dc:nocar,dc,District of Columbia,nocar,6,Instacart,yes,platform
+2026-11:dc:nocar,dc,District of Columbia,nocar,7,Safeway,unclear,ok
+2026-11:pa:nocar,pa,Pennsylvania,nocar,1,Walmart,yes,ok
+2026-11:pa:nocar,pa,Pennsylvania,nocar,2,ALDI,yes,ok
+2026-11:pa:nocar,pa,Pennsylvania,nocar,3,Instacart,yes,platform
+2026-11:pa:nocar,pa,Pennsylvania,nocar,4,Amazon Fresh,yes,ok
+2026-11:pa:nocar,pa,Pennsylvania,nocar,5,Amazon.com,yes,ok
+2026-11:pa:nocar,pa,Pennsylvania,nocar,6,GIANT Direct,yes,usda_listed
+2026-11:mn:where,mn,Minnesota,where,1,Target,yes,usda_listed
+2026-11:mn:where,mn,Minnesota,where,2,Cub Foods,yes,usda_listed
+2026-11:mn:where,mn,Minnesota,where,3,Walmart,yes,ok
+2026-11:mn:where,mn,Minnesota,where,4,Hy-Vee,yes,usda_listed
+2026-11:mn:where,mn,Minnesota,where,5,Lunds & Byerlys,yes,usda_listed
+2026-11:mn:where,mn,Minnesota,where,6,Jerry’s Foods,yes,usda_listed
+2026-11:mn:where,mn,Minnesota,where,7,Instacart,yes,platform
+2026-11:mn:where,mn,Minnesota,where,8,ALDI,yes,ok
+2026-11:mn:where,mn,Minnesota,where,9,Costco,yes,ok
+2026-11:mn:where,mn,Minnesota,where,10,Cash Wise,yes,usda_listed
+2026-11:mn:where,mn,Minnesota,where,11,Coborn's,yes,usda_listed
+2026-11:mn:where,mn,Minnesota,where,12,DoorDash,yes,platform
+2026-11:mn:where,mn,Minnesota,where,13,Amazon,yes,ok
+2026-11:mn:where,mn,Minnesota,where,14,Amazon Fresh,yes,ok
+2026-11:mn:where,mn,Minnesota,where,15,Thrive Market,yes,usda_listed
+2026-11:il:where,il,Illinois,where,1,Jewel-Osco,yes,usda_listed
+2026-11:il:where,il,Illinois,where,2,Mariano’s,yes,usda_listed
+2026-11:il:where,il,Illinois,where,3,Walmart,yes,ok
+2026-11:il:where,il,Illinois,where,4,Target,yes,usda_listed
+2026-11:il:where,il,Illinois,where,5,Meijer,yes,usda_listed
+2026-11:il:where,il,Illinois,where,6,Amazon,yes,ok
+2026-11:il:where,il,Illinois,where,7,Amazon Fresh,yes,ok
+2026-11:il:where,il,Illinois,where,8,Sam’s Club,yes,usda_listed
+2026-11:il:where,il,Illinois,where,9,Instacart,yes,platform
+2026-11:il:where,il,Illinois,where,10,ALDI,yes,ok
+2026-11:il:where,il,Illinois,where,11,Pete’s Fresh Market,yes,unverified
+2026-11:il:where,il,Illinois,where,12,Tony’s Fresh Market,yes,usda_listed
+2026-11:il:where,il,Illinois,where,13,Cermak Fresh Market,yes,unverified
+2026-11:il:where,il,Illinois,where,14,Fairplay Neighborhood Market,yes,unverified
+2026-11:il:where,il,Illinois,where,15,Costco,yes,ok
+2026-11:il:where,il,Illinois,where,16,Food 4 Less,yes,usda_listed
+2026-11:il:where,il,Illinois,where,17,Local Market Foods,yes,usda_listed
+2026-11:il:where,il,Illinois,where,18,DoorDash,yes,platform
+2026-11:il:where,il,Illinois,where,19,Uber Eats,yes,platform
+2026-11:il:where,il,Illinois,where,20,Gopuff,yes,ok
+2026-11:il:where,il,Illinois,where,21,Safeway-family stores,yes,unverified
+2026-11:sd:nocar,sd,South Dakota,nocar,1,Walmart,yes,ok
+2026-11:sd:nocar,sd,South Dakota,nocar,2,ALDI,yes,ok
+2026-11:sd:nocar,sd,South Dakota,nocar,3,Instacart,yes,platform
+2026-11:sd:nocar,sd,South Dakota,nocar,4,Hy-Vee,yes,usda_listed
+2026-11:md:nocar,md,Maryland,nocar,1,Walmart,yes,ok
+2026-11:md:nocar,md,Maryland,nocar,2,ALDI,yes,ok
+2026-11:md:nocar,md,Maryland,nocar,3,Instacart,yes,platform
+2026-11:md:nocar,md,Maryland,nocar,4,Giant Food,yes,usda_listed
+2026-11:md:nocar,md,Maryland,nocar,5,Safeway,yes,ok
+2026-11:md:nocar,md,Maryland,nocar,6,Amazon,yes,ok
+2026-11:md:nocar,md,Maryland,nocar,7,Amazon Fresh,yes,ok
+2026-11:nc:where,nc,North Carolina,where,1,Food Lion,yes,usda_listed
+2026-11:nc:where,nc,North Carolina,where,2,Instacart,yes,platform
+2026-11:nc:where,nc,North Carolina,where,3,Harris Teeter,yes,usda_listed
+2026-11:nc:where,nc,North Carolina,where,4,Walmart,yes,ok
+2026-11:nc:where,nc,North Carolina,where,5,ALDI,yes,ok
+2026-11:nc:where,nc,North Carolina,where,6,Publix,yes,ok
+2026-11:nc:where,nc,North Carolina,where,7,Target,yes,usda_listed
+2026-11:nc:where,nc,North Carolina,where,8,Compare Foods,yes,usda_listed
+2026-11:nc:where,nc,North Carolina,where,9,BJ’s Wholesale Club,yes,usda_listed
+2026-11:nc:where,nc,North Carolina,where,10,Sprouts Farmers Market,yes,ok
+2026-11:nc:where,nc,North Carolina,where,11,The Fresh Market,yes,usda_listed
+2026-11:nc:where,nc,North Carolina,where,12,Earth Fare,yes,usda_listed
+2026-11:nc:where,nc,North Carolina,where,13,Whole Foods Market,yes,ok
+2026-11:nc:where,nc,North Carolina,where,14,Amazon,yes,ok
+2026-11:nc:where,nc,North Carolina,where,15,Amazon Fresh,yes,ok
+2026-11:nyc:nocar,nyc,New York City,nocar,1,Amazon Fresh,yes,ok
+2026-11:nyc:nocar,nyc,New York City,nocar,2,Aldi,yes,ok
+2026-11:nyc:nocar,nyc,New York City,nocar,3,Instacart,yes,platform
+2026-11:nyc:nocar,nyc,New York City,nocar,4,Walmart,yes,ok
+2026-11:nyc:nocar,nyc,New York City,nocar,5,ShopRite,yes,usda_listed
+2026-11:nyc:nocar,nyc,New York City,nocar,6,Food Bazaar,yes,usda_listed
+2026-11:nyc:nocar,nyc,New York City,nocar,7,Stop & Shop,yes,usda_listed
+2026-11:ma:where,ma,Massachusetts,where,1,Stop & Shop,yes,usda_listed
+2026-11:ma:where,ma,Massachusetts,where,2,Star Market,yes,usda_listed
+2026-11:ma:where,ma,Massachusetts,where,3,Shaw's,yes,usda_listed
+2026-11:ma:where,ma,Massachusetts,where,4,Daily Table,yes,unverified
+2026-11:ma:where,ma,Massachusetts,where,5,Wegmans,yes,usda_listed
+2026-11:ma:where,ma,Massachusetts,where,6,Amazon,yes,ok
+2026-11:ma:where,ma,Massachusetts,where,7,Amazon Fresh,yes,ok
+2026-11:ma:where,ma,Massachusetts,where,8,Whole Foods Market,yes,ok
+2026-11:ma:where,ma,Massachusetts,where,9,Walmart,yes,ok
+2026-11:ma:where,ma,Massachusetts,where,10,Target,yes,usda_listed
+2026-11:ma:where,ma,Massachusetts,where,11,BJ's Wholesale Club,yes,usda_listed
+2026-11:ma:where,ma,Massachusetts,where,12,Instacart,yes,platform
+2026-11:ma:where,ma,Massachusetts,where,13,ALDI,yes,ok
+2026-11:ma:where,ma,Massachusetts,where,14,Roche Bros.,yes,usda_listed
+2026-11:ma:where,ma,Massachusetts,where,15,Brothers Marketplace,yes,usda_listed
+2026-11:ma:where,ma,Massachusetts,where,16,Price Rite Marketplace,yes,usda_listed
+2026-11:ma:where,ma,Massachusetts,where,17,Hannaford,yes,usda_listed
+2026-11:ny:nocar,ny,New York,nocar,1,Walmart,yes,ok
+2026-11:ny:nocar,ny,New York,nocar,2,ALDI,yes,ok
+2026-11:ny:nocar,ny,New York,nocar,3,Instacart,yes,platform
+2026-11:ny:nocar,ny,New York,nocar,4,Tops Friendly Markets,yes,usda_listed
+2026-11:ny:nocar,ny,New York,nocar,5,DoorDash,yes,platform
+2026-11:ny:nocar,ny,New York,nocar,6,Amazon,yes,ok
+2026-11:ia:where,ia,Iowa,where,1,Hy-Vee (Hy-Vee Aisles Online),yes,usda_listed
+2026-11:ia:where,ia,Iowa,where,2,ALDI,yes,ok
+2026-11:ia:where,ia,Iowa,where,3,Instacart,yes,platform
+2026-11:ia:where,ia,Iowa,where,4,Target,yes,usda_listed
+2026-11:ia:where,ia,Iowa,where,5,Walmart,yes,ok
+2026-11:ia:where,ia,Iowa,where,6,Amazon / Amazon Grocery,yes,usda_listed
+2026-11:ia:where,ia,Iowa,where,7,Thrive Market,yes,unverified
+2026-11:ia:where,ia,Iowa,where,8,DoorDash,yes,platform
+2026-11:ia:where,ia,Iowa,where,9,Uber Eats,yes,platform
+2026-11:ia:where,ia,Iowa,where,10,Fareway,no,unverified
+2026-11:sc:nocar,sc,South Carolina,nocar,1,Walmart,yes,ok
+2026-11:sc:nocar,sc,South Carolina,nocar,2,FoodShare South Carolina,yes,unverified
+2026-11:sc:nocar,sc,South Carolina,nocar,3,Amazon,yes,ok
+2026-11:sc:nocar,sc,South Carolina,nocar,4,ALDI,yes,ok
+2026-11:sc:nocar,sc,South Carolina,nocar,5,Instacart,yes,platform
+2026-11:nd:nocar,nd,North Dakota,nocar,1,Walmart,yes,ok
+2026-11:nd:nocar,nd,North Dakota,nocar,2,ALDI,yes,ok
+2026-11:nd:nocar,nd,North Dakota,nocar,3,Instacart,yes,platform
+2026-11:nd:nocar,nd,North Dakota,nocar,4,Hornbacher’s,yes,usda_listed
+2026-11:nd:nocar,nd,North Dakota,nocar,5,Cash Wise,yes,usda_listed
+2026-11:nd:nocar,nd,North Dakota,nocar,6,Amazon,yes,ok
+2026-11:nd:nocar,nd,North Dakota,nocar,7,Amazon Fresh,unclear,ok
+2026-11:ok:where,ok,Oklahoma,where,1,Walmart,yes,ok
+2026-11:ok:where,ok,Oklahoma,where,2,Target,yes,usda_listed
+2026-11:ok:where,ok,Oklahoma,where,3,ALDI,yes,ok
+2026-11:ok:where,ok,Oklahoma,where,4,Instacart,yes,platform
+2026-11:ok:where,ok,Oklahoma,where,5,Amazon,yes,ok
+2026-11:ok:where,ok,Oklahoma,where,6,Whole Foods Market,yes,ok
+2026-11:ok:where,ok,Oklahoma,where,7,Homeland,yes,usda_listed
+2026-11:ok:where,ok,Oklahoma,where,8,Crest Foods,unclear,unverified
+2026-11:ok:where,ok,Oklahoma,where,9,Shipt,unclear,platform
+2026-11:ok:where,ok,Oklahoma,where,10,Sprouts Farmers Market,yes,ok
+2026-11:ok:where,ok,Oklahoma,where,11,DoorDash,yes,platform
+2026-11:oh:nocar,oh,Ohio,nocar,1,Walmart,yes,ok
+2026-11:oh:nocar,oh,Ohio,nocar,2,Aldi,yes,ok
+2026-11:oh:nocar,oh,Ohio,nocar,3,Instacart,yes,platform
+2026-11:oh:nocar,oh,Ohio,nocar,4,Kroger,yes,ok
+2026-11:oh:nocar,oh,Ohio,nocar,5,Local Matters,yes,unverified
+2026-11:wi:nocar,wi,Wisconsin,nocar,1,Walmart,yes,ok
+2026-11:wi:nocar,wi,Wisconsin,nocar,2,ALDI,yes,ok
+2026-11:wi:nocar,wi,Wisconsin,nocar,3,Instacart,yes,platform
+2026-11:wi:nocar,wi,Wisconsin,nocar,4,Pick ’n Save,yes,usda_listed
+2026-11:wi:nocar,wi,Wisconsin,nocar,5,Amazon,yes,ok
+2026-11:ca:where,ca,California,where,1,Walmart,yes,ok
+2026-11:ca:where,ca,California,where,2,Amazon,yes,ok
+2026-11:ca:where,ca,California,where,3,Amazon Fresh,yes,ok
+2026-11:ca:where,ca,California,where,4,Whole Foods Market,yes,ok
+2026-11:ca:where,ca,California,where,5,Ralphs,yes,usda_listed
+2026-11:ca:where,ca,California,where,6,Food 4 Less,yes,usda_listed
+2026-11:ca:where,ca,California,where,7,Vons,yes,usda_listed
+2026-11:ca:where,ca,California,where,8,Pavilions,yes,usda_listed
+2026-11:ca:where,ca,California,where,9,Target,yes,usda_listed
+2026-11:ca:where,ca,California,where,10,Cardenas Markets,yes,usda_listed
+2026-11:ca:where,ca,California,where,11,Instacart,yes,platform
+2026-11:ca:where,ca,California,where,12,ALDI,yes,ok
+2026-11:ca:where,ca,California,where,13,Sprouts Farmers Market,yes,ok
+2026-11:ca:where,ca,California,where,14,Smart & Final,yes,usda_listed
+2026-11:ca:where,ca,California,where,15,Superior Grocers,yes,usda_listed
+2026-11:ca:where,ca,California,where,16,Vallarta Supermarkets,yes,unverified
+2026-11:ca:where,ca,California,where,17,Stater Bros. Markets,yes,usda_listed
+2026-11:ca:where,ca,California,where,18,DoorDash,yes,platform
+2026-11:ca:where,ca,California,where,19,Uber Eats,yes,platform
+2026-11:nj:where,nj,New Jersey,where,1,ShopRite,yes,usda_listed
+2026-11:nj:where,nj,New Jersey,where,2,The Fresh Grocer,yes,usda_listed
+2026-11:nj:where,nj,New Jersey,where,3,Food Bazaar,yes,usda_listed
+2026-11:nj:where,nj,New Jersey,where,4,Stop & Shop,yes,usda_listed
+2026-11:nj:where,nj,New Jersey,where,5,Walmart,yes,ok
+2026-11:nj:where,nj,New Jersey,where,6,Amazon,yes,ok
+2026-11:nj:where,nj,New Jersey,where,7,Amazon Fresh,yes,ok
+2026-11:nj:where,nj,New Jersey,where,8,Target,yes,usda_listed
+2026-11:nj:where,nj,New Jersey,where,9,BJ’s Wholesale Club,yes,usda_listed
+2026-11:nj:where,nj,New Jersey,where,10,Instacart,yes,platform
+2026-11:nj:where,nj,New Jersey,where,11,ALDI,yes,ok
+2026-11:nj:where,nj,New Jersey,where,12,Wegmans,yes,usda_listed
+2026-11:nj:where,nj,New Jersey,where,13,Walgreens,yes,usda_listed
+2026-11:fl:nocar,fl,Florida,nocar,1,Walmart,yes,ok
+2026-11:fl:nocar,fl,Florida,nocar,2,Kroger,yes,banner
+2026-11:fl:nocar,fl,Florida,nocar,3,Amazon,yes,ok
+2026-11:fl:nocar,fl,Florida,nocar,4,ALDI,yes,ok
+2026-11:fl:nocar,fl,Florida,nocar,5,Instacart,yes,platform
+2026-11:ks:nocar,ks,Kansas,nocar,1,Walmart,yes,ok
+2026-11:ks:nocar,ks,Kansas,nocar,2,Amazon,yes,ok
+2026-11:ks:nocar,ks,Kansas,nocar,3,ALDI,yes,ok
+2026-11:ks:nocar,ks,Kansas,nocar,4,DoorDash,yes,platform
+2026-11:ks:nocar,ks,Kansas,nocar,5,Instacart,yes,platform
+2026-11:ks:nocar,ks,Kansas,nocar,6,Dillons,yes,usda_listed
+2026-11:de:nocar,de,Delaware,nocar,1,Walmart,yes,ok
+2026-11:de:nocar,de,Delaware,nocar,2,ALDI,yes,ok
+2026-11:de:nocar,de,Delaware,nocar,3,Instacart,yes,platform
+2026-11:de:nocar,de,Delaware,nocar,4,ShopRite,yes,usda_listed
+2026-11:de:nocar,de,Delaware,nocar,5,Amazon,yes,ok
+2026-11:de:nocar,de,Delaware,nocar,6,Amazon Fresh,yes,ok
+2026-11:me:where,me,Maine,where,1,Shaw’s,yes,usda_listed
+2026-11:me:where,me,Maine,where,2,Hannaford,yes,usda_listed
+2026-11:me:where,me,Maine,where,3,Instacart,yes,platform
+2026-11:me:where,me,Maine,where,4,Walmart,yes,ok
+2026-11:me:where,me,Maine,where,5,Target,yes,usda_listed
+2026-11:me:where,me,Maine,where,6,BJ’s Wholesale Club,yes,usda_listed
+2026-11:me:where,me,Maine,where,7,Amazon,yes,ok
+2026-11:me:where,me,Maine,where,8,ALDI,yes,ok
+2026-11:me:where,me,Maine,where,9,Gopuff,yes,ok
+2026-11:me:where,me,Maine,where,10,DashMart,yes,usda_listed
+2026-11:az:where,az,Arizona,where,1,Fry’s Food Stores,yes,usda_listed
+2026-11:az:where,az,Arizona,where,2,Safeway,yes,ok
+2026-11:az:where,az,Arizona,where,3,Albertsons,yes,usda_listed
+2026-11:az:where,az,Arizona,where,4,Bashas’,yes,usda_listed
+2026-11:az:where,az,Arizona,where,5,Food City,yes,unverified
+2026-11:az:where,az,Arizona,where,6,AJ’s Fine Foods,yes,usda_listed
+2026-11:az:where,az,Arizona,where,7,ALDI,yes,ok
+2026-11:az:where,az,Arizona,where,8,Instacart,yes,platform
+2026-11:az:where,az,Arizona,where,9,Sprouts Farmers Market,yes,ok
+2026-11:az:where,az,Arizona,where,10,Cardenas Markets,yes,usda_listed
+2026-11:az:where,az,Arizona,where,11,El Super,yes,usda_listed
+2026-11:az:where,az,Arizona,where,12,Walmart,yes,ok
+2026-11:az:where,az,Arizona,where,13,Amazon,yes,ok
+2026-11:az:where,az,Arizona,where,14,Amazon Fresh,yes,ok
+2026-11:az:where,az,Arizona,where,15,Whole Foods Market,yes,ok
+2026-11:az:where,az,Arizona,where,16,Target,yes,usda_listed
+2026-11:az:where,az,Arizona,where,17,Costco,yes,ok
+2026-11:az:where,az,Arizona,where,18,DoorDash,yes,platform
+2026-11:az:where,az,Arizona,where,19,DashMart,yes,usda_listed
+2026-11:az:where,az,Arizona,where,20,Gopuff,yes,ok
+2026-11:fl:where,fl,Florida,where,1,Walmart,yes,ok
+2026-11:fl:where,fl,Florida,where,2,Amazon & Amazon Fresh,yes,usda_listed
+2026-11:fl:where,fl,Florida,where,3,Whole Foods Market,yes,ok
+2026-11:fl:where,fl,Florida,where,4,Target,yes,usda_listed
+2026-11:fl:where,fl,Florida,where,5,BJ's Wholesale Club,yes,usda_listed
+2026-11:fl:where,fl,Florida,where,6,Instacart,yes,platform
+2026-11:fl:where,fl,Florida,where,7,Publix,yes,ok
+2026-11:fl:where,fl,Florida,where,8,ALDI,yes,ok
+2026-11:fl:where,fl,Florida,where,9,Sprouts Farmers Market,yes,ok
+2026-11:fl:where,fl,Florida,where,10,Winn-Dixie,yes,usda_listed
+2026-11:fl:where,fl,Florida,where,11,Costco,yes,ok
+2026-11:fl:where,fl,Florida,where,12,DoorDash,yes,platform
+2026-11:ga:where,ga,Georgia,where,1,Walmart,yes,ok
+2026-11:ga:where,ga,Georgia,where,2,Amazon,yes,ok
+2026-11:ga:where,ga,Georgia,where,3,Amazon Fresh,yes,ok
+2026-11:ga:where,ga,Georgia,where,4,Whole Foods,yes,ok
+2026-11:ga:where,ga,Georgia,where,5,Kroger,yes,ok
+2026-11:ga:where,ga,Georgia,where,6,Target,yes,usda_listed
+2026-11:ga:where,ga,Georgia,where,7,BJ’s Wholesale Club,yes,usda_listed
+2026-11:ga:where,ga,Georgia,where,8,Instacart,yes,platform
+2026-11:ga:where,ga,Georgia,where,9,ALDI,yes,ok
+2026-11:ga:where,ga,Georgia,where,10,Publix,yes,ok
+2026-11:ga:where,ga,Georgia,where,11,Sprouts Farmers Market,yes,ok
+2026-11:ga:where,ga,Georgia,where,12,Food Lion,yes,usda_listed
+2026-11:ga:where,ga,Georgia,where,13,Nam Dae Mun Farmers Market,yes,usda_listed
+2026-11:ga:where,ga,Georgia,where,14,Little Giant Farmers Market,yes,usda_listed
+2026-11:ga:where,ga,Georgia,where,15,DoorDash,yes,platform
+2026-11:ga:where,ga,Georgia,where,16,Gopuff,yes,ok
+2026-11:ri:where,ri,Rhode Island,where,1,Stop & Shop,yes,usda_listed
+2026-11:ri:where,ri,Rhode Island,where,2,Walmart,yes,ok
+2026-11:ri:where,ri,Rhode Island,where,3,ALDI,yes,ok
+2026-11:ri:where,ri,Rhode Island,where,4,Target,yes,usda_listed
+2026-11:ri:where,ri,Rhode Island,where,5,BJ’s Wholesale Club,yes,usda_listed
+2026-11:ri:where,ri,Rhode Island,where,6,Amazon,yes,ok
+2026-11:ri:where,ri,Rhode Island,where,7,Instacart,yes,platform
+2026-11:ri:where,ri,Rhode Island,where,8,Price Rite Marketplace,yes,usda_listed
+2026-11:ri:where,ri,Rhode Island,where,9,DoorDash,yes,platform
+2026-11:ri:where,ri,Rhode Island,where,10,Gopuff,yes,ok
+2026-11:ky:nocar,ky,Kentucky,nocar,1,Walmart,yes,ok
+2026-11:ky:nocar,ky,Kentucky,nocar,2,Kroger,yes,ok
+2026-11:ky:nocar,ky,Kentucky,nocar,3,ALDI,yes,ok
+2026-11:ky:nocar,ky,Kentucky,nocar,4,Instacart,yes,platform
+2026-11:ky:nocar,ky,Kentucky,nocar,5,Amazon,yes,ok
+2026-11:ky:nocar,ky,Kentucky,nocar,6,Amazon Fresh,yes,ok
+2026-11:tx:where,tx,Texas,where,1,H-E-B,yes,usda_listed
+2026-11:tx:where,tx,Texas,where,2,Walmart,yes,ok
+2026-11:tx:where,tx,Texas,where,3,Kroger,yes,ok
+2026-11:tx:where,tx,Texas,where,4,Target,yes,usda_listed
+2026-11:tx:where,tx,Texas,where,5,Randalls,yes,usda_listed
+2026-11:tx:where,tx,Texas,where,6,Food Town,yes,unverified
+2026-11:tx:where,tx,Texas,where,7,Instacart,yes,platform
+2026-11:tx:where,tx,Texas,where,8,Uber Eats,yes,platform
+2026-11:tx:where,tx,Texas,where,9,Little Red Box Grocery,yes,unverified
+2026-11:tx:where,tx,Texas,where,10,Amazon,yes,ok
+2026-11:tx:where,tx,Texas,where,11,Amazon Fresh,yes,ok
+2026-11:tx:where,tx,Texas,where,12,Whole Foods,yes,ok
+2026-11:tx:where,tx,Texas,where,13,ALDI,yes,ok
+2026-11:tx:where,tx,Texas,where,14,Sprouts Farmers Market,yes,ok
+2026-11:tx:where,tx,Texas,where,15,DoorDash,yes,platform
+2026-11:tn:where,tn,Tennessee,where,1,Walmart,yes,ok
+2026-11:tn:where,tn,Tennessee,where,2,Kroger,yes,ok
+2026-11:tn:where,tn,Tennessee,where,3,Amazon,yes,ok
+2026-11:tn:where,tn,Tennessee,where,4,Amazon Fresh,yes,ok
+2026-11:tn:where,tn,Tennessee,where,5,Whole Foods,yes,ok
+2026-11:tn:where,tn,Tennessee,where,6,Target,yes,usda_listed
+2026-11:tn:where,tn,Tennessee,where,7,Instacart,yes,platform
+2026-11:tn:where,tn,Tennessee,where,8,ALDI,yes,ok
+2026-11:tn:where,tn,Tennessee,where,9,Publix,yes,ok
+2026-11:tn:where,tn,Tennessee,where,10,Sprouts Farmers Market,yes,ok
+2026-11:tn:where,tn,Tennessee,where,11,Food Lion,yes,usda_listed
+2026-11:tn:where,tn,Tennessee,where,12,DoorDash,yes,platform
+2026-11:tn:where,tn,Tennessee,where,13,DashMart,yes,usda_listed
+2026-11:tn:where,tn,Tennessee,where,14,Thrive Market,yes,usda_listed
+2026-11:vt:nocar,vt,Vermont,nocar,1,Walmart,yes,ok
+2026-11:vt:nocar,vt,Vermont,nocar,2,ALDI,yes,wrong_city
+2026-11:vt:nocar,vt,Vermont,nocar,3,Instacart,yes,platform
+2026-11:vt:nocar,vt,Vermont,nocar,4,Amazon,yes,ok
+2026-11:vt:nocar,vt,Vermont,nocar,5,Whole Foods,unclear,wrong
+2026-11:vt:nocar,vt,Vermont,nocar,6,Hannaford,yes,usda_listed
+2026-11:vt:nocar,vt,Vermont,nocar,7,Shaw's,yes,usda_listed
+2026-11:ca:nocar,ca,California,nocar,1,Walmart,yes,ok
+2026-11:ca:nocar,ca,California,nocar,2,Amazon Fresh,yes,ok
+2026-11:ca:nocar,ca,California,nocar,3,ALDI,yes,ok
+2026-11:ca:nocar,ca,California,nocar,4,Instacart,yes,platform
+2026-11:ca:nocar,ca,California,nocar,5,Food 4 Less,yes,usda_listed
+2026-11:ca:nocar,ca,California,nocar,6,Ralphs,unclear,usda_listed
+2026-11:nm:nocar,nm,New Mexico,nocar,1,Walmart,yes,ok
+2026-11:nm:nocar,nm,New Mexico,nocar,2,Smith’s (Kroger),yes,usda_listed
+2026-11:nm:nocar,nm,New Mexico,nocar,3,Instacart,yes,platform
+2026-11:nm:nocar,nm,New Mexico,nocar,4,DoorDash,yes,platform
+2026-11:nm:nocar,nm,New Mexico,nocar,5,Uber Eats,yes,platform
+2026-11:nm:nocar,nm,New Mexico,nocar,6,Albertsons,yes,usda_listed
+2026-11:nm:nocar,nm,New Mexico,nocar,7,Sprouts,yes,ok
+2026-11:nm:nocar,nm,New Mexico,nocar,8,Amazon,yes,ok
+2026-11:or:where,or,Oregon,where,1,Fred Meyer,yes,usda_listed
+2026-11:or:where,or,Oregon,where,2,QFC,yes,usda_listed
+2026-11:or:where,or,Oregon,where,3,Kroger,yes,banner
+2026-11:or:where,or,Oregon,where,4,Safeway,yes,ok
+2026-11:or:where,or,Oregon,where,5,Albertsons,yes,usda_listed
+2026-11:or:where,or,Oregon,where,6,Walmart,yes,ok
+2026-11:or:where,or,Oregon,where,7,Target,yes,usda_listed
+2026-11:or:where,or,Oregon,where,8,Shipt,yes,platform
+2026-11:or:where,or,Oregon,where,9,Amazon,yes,ok
+2026-11:or:where,or,Oregon,where,10,Amazon Fresh,yes,ok
+2026-11:or:where,or,Oregon,where,11,Whole Foods Market,yes,ok
+2026-11:or:where,or,Oregon,where,12,Instacart,yes,platform
+2026-11:or:where,or,Oregon,where,13,Sprouts Farmers Market,yes,wrong
+2026-11:or:where,or,Oregon,where,14,Costco,yes,ok
+2026-11:or:where,or,Oregon,where,15,Natural Grocers,yes,unverified
+2026-11:or:where,or,Oregon,where,16,DoorDash,yes,platform
+2026-11:or:where,or,Oregon,where,17,Uber Eats,yes,platform
+2026-11:co:where,co,Colorado,where,1,King Soopers (Kroger),yes,usda_listed
+2026-11:co:where,co,Colorado,where,2,Safeway,yes,ok
+2026-11:co:where,co,Colorado,where,3,Walmart,yes,ok
+2026-11:co:where,co,Colorado,where,4,Amazon & Amazon Fresh,yes,usda_listed
+2026-11:co:where,co,Colorado,where,5,Target,yes,usda_listed
+2026-11:co:where,co,Colorado,where,6,Instacart,yes,platform
+2026-11:co:where,co,Colorado,where,7,Sprouts Farmers Market,yes,ok
+2026-11:co:where,co,Colorado,where,8,DoorDash,yes,platform
+2026-11:co:where,co,Colorado,where,9,Uber Eats,yes,platform
+2026-11:ms:nocar,ms,Mississippi,nocar,1,Walmart,yes,ok
+2026-11:ms:nocar,ms,Mississippi,nocar,2,Kroger,yes,ok
+2026-11:ms:nocar,ms,Mississippi,nocar,3,ALDI,yes,ok
+2026-11:ms:nocar,ms,Mississippi,nocar,4,Instacart,yes,platform
+2026-11:ms:nocar,ms,Mississippi,nocar,5,Amazon.com,yes,ok
+2026-11:nc:nocar,nc,North Carolina,nocar,1,Walmart,yes,ok
+2026-11:nc:nocar,nc,North Carolina,nocar,2,Instacart,yes,platform
+2026-11:nc:nocar,nc,North Carolina,nocar,3,ALDI,yes,ok
+2026-11:nc:nocar,nc,North Carolina,nocar,4,Food Lion,yes,usda_listed
+2026-11:nc:nocar,nc,North Carolina,nocar,5,Amazon,yes,ok
+2026-11:ia:nocar,ia,Iowa,nocar,1,Walmart,yes,ok
+2026-11:ia:nocar,ia,Iowa,nocar,2,ALDI,yes,ok
+2026-11:ia:nocar,ia,Iowa,nocar,3,Instacart,yes,platform
+2026-11:ia:nocar,ia,Iowa,nocar,4,Hy-Vee,yes,usda_listed
+2026-11:ia:nocar,ia,Iowa,nocar,5,Amazon,yes,ok
+2026-11:mt:where,mt,Montana,where,1,Walmart,yes,ok
+2026-11:mt:where,mt,Montana,where,2,Albertsons,yes,usda_listed
+2026-11:mt:where,mt,Montana,where,3,Target,yes,usda_listed
+2026-11:mt:where,mt,Montana,where,4,Amazon,yes,ok
+2026-11:mt:where,mt,Montana,where,5,Instacart,yes,platform
+2026-11:mt:where,mt,Montana,where,6,DoorDash,yes,platform
+2026-11:al:where,al,Alabama,where,1,Walmart,yes,ok
+2026-11:al:where,al,Alabama,where,2,Target,yes,usda_listed
+2026-11:al:where,al,Alabama,where,3,Amazon,yes,ok
+2026-11:al:where,al,Alabama,where,4,Kroger Delivery,yes,usda_listed
+2026-11:al:where,al,Alabama,where,5,Instacart,yes,platform
+2026-11:al:where,al,Alabama,where,6,Publix,yes,ok
+2026-11:al:where,al,Alabama,where,7,ALDI,yes,ok
+2026-11:al:where,al,Alabama,where,8,Sprouts Farmers Market,yes,ok
+2026-11:al:where,al,Alabama,where,9,Family Dollar,yes,usda_listed
+2026-11:al:where,al,Alabama,where,10,DoorDash,yes,platform
+2026-11:al:where,al,Alabama,where,11,Gopuff,yes,ok
+2026-11:mi:where,mi,Michigan,where,1,Meijer,yes,usda_listed
+2026-11:mi:where,mi,Michigan,where,2,Rivertown Market,yes,usda_listed
+2026-11:mi:where,mi,Michigan,where,3,Walmart,yes,ok
+2026-11:mi:where,mi,Michigan,where,4,Kroger,yes,ok
+2026-11:mi:where,mi,Michigan,where,5,ALDI,yes,ok
+2026-11:mi:where,mi,Michigan,where,6,Target,yes,usda_listed
+2026-11:mi:where,mi,Michigan,where,7,Gordon Food Service (GFS),yes,unverified
+2026-11:mi:where,mi,Michigan,where,8,Amazon,yes,ok
+2026-11:mi:where,mi,Michigan,where,9,Amazon Fresh,yes,ok
+2026-11:mi:where,mi,Michigan,where,10,Instacart,yes,platform
+2026-11:mi:where,mi,Michigan,where,11,Sam's Club,yes,usda_listed
+2026-11:mi:where,mi,Michigan,where,12,DoorDash,yes,platform
+2026-11:ar:where,ar,Arkansas,where,1,Walmart,yes,ok
+2026-11:ar:where,ar,Arkansas,where,2,Kroger,yes,ok
+2026-11:ar:where,ar,Arkansas,where,3,Target,yes,usda_listed
+2026-11:ar:where,ar,Arkansas,where,4,ALDI,yes,ok
+2026-11:ar:where,ar,Arkansas,where,5,Instacart,yes,platform
+2026-11:ar:where,ar,Arkansas,where,6,Amazon,yes,ok
+2026-11:ar:where,ar,Arkansas,where,7,Harps Food Stores,yes,usda_listed
+2026-11:ar:where,ar,Arkansas,where,8,Sprouts,yes,wrong
+2026-11:ar:where,ar,Arkansas,where,9,DoorDash,yes,platform
+2026-11:ar:where,ar,Arkansas,where,10,DashMart,yes,usda_listed
+2026-11:ne:where,ne,Nebraska,where,1,Baker’s (Kroger),yes,usda_listed
+2026-11:ne:where,ne,Nebraska,where,2,Hy-Vee,yes,usda_listed
+2026-11:ne:where,ne,Nebraska,where,3,Walmart,yes,ok
+2026-11:ne:where,ne,Nebraska,where,4,ALDI,yes,ok
+2026-11:ne:where,ne,Nebraska,where,5,Target,yes,usda_listed
+2026-11:ne:where,ne,Nebraska,where,6,Amazon & Amazon Fresh / Whole Foods,yes,usda_listed
+2026-11:ne:where,ne,Nebraska,where,7,Instacart,yes,platform
+2026-11:ri:nocar,ri,Rhode Island,nocar,1,Walmart,yes,ok
+2026-11:ri:nocar,ri,Rhode Island,nocar,2,Price Rite,yes,usda_listed
+2026-11:ri:nocar,ri,Rhode Island,nocar,3,ALDI,yes,ok
+2026-11:ri:nocar,ri,Rhode Island,nocar,4,Instacart,yes,platform
+2026-11:ri:nocar,ri,Rhode Island,nocar,5,Stop & Shop,yes,usda_listed
+2026-11:ri:nocar,ri,Rhode Island,nocar,6,Amazon,yes,ok
+2026-11:mt:nocar,mt,Montana,nocar,1,Walmart,yes,ok
+2026-11:mt:nocar,mt,Montana,nocar,2,Albertsons,yes,usda_listed
+2026-11:mt:nocar,mt,Montana,nocar,3,Amazon,yes,ok
+2026-11:mt:nocar,mt,Montana,nocar,4,Instacart,yes,platform
+2026-11:mt:nocar,mt,Montana,nocar,5,Costco,yes,ok
+2026-11:mt:nocar,mt,Montana,nocar,6,DoorDash,unclear,platform
+2026-11:mt:nocar,mt,Montana,nocar,7,Uber Eats,unclear,platform
+2026-11:hi:nocar,hi,Hawaii,nocar,1,Farm Link Hawaiʻi,yes,unverified
+2026-11:hi:nocar,hi,Hawaii,nocar,2,Walmart,yes,ok
+2026-11:hi:nocar,hi,Hawaii,nocar,3,Safeway,yes,ok
+2026-11:hi:nocar,hi,Hawaii,nocar,4,Instacart,yes,platform
+2026-11:hi:nocar,hi,Hawaii,nocar,5,Amazon.com,yes,ok
+2026-11:hi:nocar,hi,Hawaii,nocar,6,Amazon Fresh,unclear,ok
+2026-11:wa:where,wa,Washington,where,1,Safeway,yes,ok
+2026-11:wa:where,wa,Washington,where,2,Albertsons,yes,usda_listed
+2026-11:wa:where,wa,Washington,where,3,QFC,yes,usda_listed
+2026-11:wa:where,wa,Washington,where,4,Fred Meyer,yes,usda_listed
+2026-11:wa:where,wa,Washington,where,5,Walmart,yes,ok
+2026-11:wa:where,wa,Washington,where,6,Target,yes,usda_listed
+2026-11:wa:where,wa,Washington,where,7,Amazon Fresh,yes,ok
+2026-11:wa:where,wa,Washington,where,8,Amazon.com,yes,ok
+2026-11:wa:where,wa,Washington,where,9,Instacart,yes,platform
+2026-11:wa:where,wa,Washington,where,10,Costco,yes,ok
+2026-11:wa:where,wa,Washington,where,11,Sprouts Farmers Market,yes,ok
+2026-11:wa:where,wa,Washington,where,12,H Mart,yes,unverified
+2026-11:wa:where,wa,Washington,where,13,DoorDash,yes,platform
+2026-11:wa:where,wa,Washington,where,14,Thrive Market,yes,usda_listed
+2026-11:wa:where,wa,Washington,where,15,Gopuff,yes,ok
+2026-11:mi:nocar,mi,Michigan,nocar,1,Kroger,yes,ok
+2026-11:mi:nocar,mi,Michigan,nocar,2,Walmart,yes,ok
+2026-11:mi:nocar,mi,Michigan,nocar,3,Amazon,yes,ok
+2026-11:mi:nocar,mi,Michigan,nocar,4,ALDI,yes,ok
+2026-11:mi:nocar,mi,Michigan,nocar,5,Instacart,yes,platform
+2026-11:il:nocar,il,Illinois,nocar,1,Walmart,yes,ok
+2026-11:il:nocar,il,Illinois,nocar,2,ALDI,yes,ok
+2026-11:il:nocar,il,Illinois,nocar,3,Instacart,yes,platform
+2026-11:il:nocar,il,Illinois,nocar,4,Amazon,yes,ok
+2026-11:il:nocar,il,Illinois,nocar,5,Amazon Fresh,yes,ok
+2026-11:il:nocar,il,Illinois,nocar,6,Jewel-Osco,yes,usda_listed
+2026-11:il:nocar,il,Illinois,nocar,7,Mariano's,yes,usda_listed
+2026-11:ct:nocar,ct,Connecticut,nocar,1,Walmart,yes,ok
+2026-11:ct:nocar,ct,Connecticut,nocar,2,ALDI,yes,ok
+2026-11:ct:nocar,ct,Connecticut,nocar,3,Instacart,yes,platform
+2026-11:ct:nocar,ct,Connecticut,nocar,4,Amazon,yes,ok
+2026-11:ct:nocar,ct,Connecticut,nocar,5,Amazon Fresh,yes,ok
+2026-11:ct:nocar,ct,Connecticut,nocar,6,Stop & Shop,yes,usda_listed
+2026-11:nm:where,nm,New Mexico,where,1,Smith’s Food and Drug (Kroger),yes,usda_listed
+2026-11:nm:where,nm,New Mexico,where,2,Walmart,yes,ok
+2026-11:nm:where,nm,New Mexico,where,3,Albertsons / Albertsons Market,yes,usda_listed
+2026-11:nm:where,nm,New Mexico,where,4,Target,yes,usda_listed
+2026-11:nm:where,nm,New Mexico,where,5,Amazon / Whole Foods,yes,usda_listed
+2026-11:nm:where,nm,New Mexico,where,6,Thrive Market,yes,usda_listed
+2026-11:nm:where,nm,New Mexico,where,7,Instacart,yes,platform
+2026-11:nm:where,nm,New Mexico,where,8,Sprouts Farmers Market,yes,ok
+2026-11:nm:where,nm,New Mexico,where,9,Costco,yes,ok
+2026-11:nm:where,nm,New Mexico,where,10,DoorDash,yes,platform
+2026-11:nm:where,nm,New Mexico,where,11,DashMart,yes,usda_listed
+2026-11:sc:where,sc,South Carolina,where,1,Walmart,yes,ok
+2026-11:sc:where,sc,South Carolina,where,2,Food Lion,yes,usda_listed
+2026-11:sc:where,sc,South Carolina,where,3,Target,yes,usda_listed
+2026-11:sc:where,sc,South Carolina,where,4,Amazon,yes,ok
+2026-11:sc:where,sc,South Carolina,where,5,Kroger,yes,ok
+2026-11:sc:where,sc,South Carolina,where,6,Instacart,yes,platform
+2026-11:sc:where,sc,South Carolina,where,7,ALDI,yes,ok
+2026-11:sc:where,sc,South Carolina,where,8,Publix,yes,ok
+2026-11:sc:where,sc,South Carolina,where,9,Sprouts Farmers Market,yes,wrong_city
+2026-11:sc:where,sc,South Carolina,where,10,DoorDash,yes,platform
+2026-11:sc:where,sc,South Carolina,where,11,FoodShare South Carolina,yes,unverified
+2026-11:la:nocar,la,Louisiana,nocar,1,Walmart,yes,ok
+2026-11:la:nocar,la,Louisiana,nocar,2,Top Box Foods Louisiana,yes,unverified
+2026-11:la:nocar,la,Louisiana,nocar,3,ALDI,yes,ok
+2026-11:la:nocar,la,Louisiana,nocar,4,Instacart,yes,platform
+2026-11:la:nocar,la,Louisiana,nocar,5,Amazon.com,yes,ok
+2026-11:mn:nocar,mn,Minnesota,nocar,1,Walmart,yes,ok
+2026-11:mn:nocar,mn,Minnesota,nocar,2,ALDI,yes,ok
+2026-11:mn:nocar,mn,Minnesota,nocar,3,Instacart,yes,platform
+2026-11:mn:nocar,mn,Minnesota,nocar,4,Cub Foods,yes,usda_listed
+2026-11:mn:nocar,mn,Minnesota,nocar,5,Target,yes,usda_listed
+2026-11:mn:nocar,mn,Minnesota,nocar,6,Amazon Fresh,yes,ok
+2026-11:mn:nocar,mn,Minnesota,nocar,7,Amazon.com,yes,ok
+2026-11:co:nocar,co,Colorado,nocar,1,Walmart,yes,ok
+2026-11:co:nocar,co,Colorado,nocar,2,King Soopers,yes,usda_listed
+2026-11:co:nocar,co,Colorado,nocar,3,Instacart,yes,platform
+2026-11:co:nocar,co,Colorado,nocar,4,Uber Eats,yes,platform
+2026-11:co:nocar,co,Colorado,nocar,5,Amazon,yes,ok
+2026-11:co:nocar,co,Colorado,nocar,6,DoorDash,unclear,platform
+2026-11:co:nocar,co,Colorado,nocar,7,Safeway,yes,ok
+2026-11:co:nocar,co,Colorado,nocar,8,Sprouts,yes,ok
+2026-11:co:nocar,co,Colorado,nocar,9,Save A Lot,yes,usda_listed
+2026-11:in:nocar,in,Indiana,nocar,1,Walmart,yes,ok
+2026-11:in:nocar,in,Indiana,nocar,2,ALDI,yes,ok
+2026-11:in:nocar,in,Indiana,nocar,3,Instacart,yes,platform
+2026-11:in:nocar,in,Indiana,nocar,4,Kroger,yes,ok
+2026-11:in:nocar,in,Indiana,nocar,5,Amazon Fresh,yes,ok
+2026-11:ne:nocar,ne,Nebraska,nocar,1,Walmart,yes,ok
+2026-11:ne:nocar,ne,Nebraska,nocar,2,Instacart,yes,platform
+2026-11:ne:nocar,ne,Nebraska,nocar,3,Aldi,yes,ok
+2026-11:ne:nocar,ne,Nebraska,nocar,4,Baker’s,yes,usda_listed
+2026-11:ne:nocar,ne,Nebraska,nocar,5,Hy-Vee,yes,usda_listed
+2026-11:ne:nocar,ne,Nebraska,nocar,6,Family Fare,yes,unverified
+2026-11:dc:where,dc,District of Columbia,where,1,Giant Food (Giant of Maryland),yes,usda_listed
+2026-11:dc:where,dc,District of Columbia,where,2,Safeway,yes,ok
+2026-11:dc:where,dc,District of Columbia,where,3,Instacart,yes,platform
+2026-11:dc:where,dc,District of Columbia,where,4,ALDI,yes,ok
+2026-11:dc:where,dc,District of Columbia,where,5,Wegmans,yes,usda_listed
+2026-11:dc:where,dc,District of Columbia,where,6,Shoppers Food Warehouse,yes,usda_listed
+2026-11:dc:where,dc,District of Columbia,where,7,Amazon,yes,ok
+2026-11:dc:where,dc,District of Columbia,where,8,Amazon Fresh,yes,ok
+2026-11:dc:where,dc,District of Columbia,where,9,Whole Foods Market,yes,ok
+2026-11:dc:where,dc,District of Columbia,where,10,Target,yes,usda_listed
+2026-11:dc:where,dc,District of Columbia,where,11,Shipt,yes,platform
+2026-11:dc:where,dc,District of Columbia,where,12,Costco,yes,ok
+2026-11:dc:where,dc,District of Columbia,where,13,Walmart,yes,ok
+2026-11:dc:where,dc,District of Columbia,where,14,Thrive Market,yes,usda_listed
+2026-11:dc:where,dc,District of Columbia,where,15,DashMart,yes,usda_listed
+2026-11:dc:where,dc,District of Columbia,where,16,DoorDash,yes,platform
+2026-11:dc:where,dc,District of Columbia,where,17,Gopuff,yes,ok
+2026-11:dc:where,dc,District of Columbia,where,18,Wawa,yes,usda_listed
+2026-11:dc:where,dc,District of Columbia,where,19,Dollar General,yes,usda_listed
+2026-11:dc:where,dc,District of Columbia,where,20,Family Dollar,yes,usda_listed
+2026-11:dc:where,dc,District of Columbia,where,21,Walgreens,yes,usda_listed
+2026-11:dc:where,dc,District of Columbia,where,22,CVS,yes,usda_listed
+2026-11:wv:where,wv,West Virginia,where,1,Walmart,yes,ok
+2026-11:wv:where,wv,West Virginia,where,2,Kroger,yes,ok
+2026-11:wv:where,wv,West Virginia,where,3,ALDI,yes,ok
+2026-11:wv:where,wv,West Virginia,where,4,Instacart,yes,platform
+2026-11:wv:where,wv,West Virginia,where,5,Target,yes,usda_listed
+2026-11:wv:where,wv,West Virginia,where,6,Amazon,yes,ok
+2026-11:wv:where,wv,West Virginia,where,7,DoorDash,yes,platform
+2026-11:md:where,md,Maryland,where,1,Giant Food (Giant Direct),yes,usda_listed
+2026-11:md:where,md,Maryland,where,2,Safeway,yes,ok
+2026-11:md:where,md,Maryland,where,3,Walmart,yes,ok
+2026-11:md:where,md,Maryland,where,4,ShopRite,yes,usda_listed
+2026-11:md:where,md,Maryland,where,5,Target,yes,usda_listed
+2026-11:md:where,md,Maryland,where,6,Wegmans,yes,usda_listed
+2026-11:md:where,md,Maryland,where,7,Food Lion,yes,usda_listed
+2026-11:md:where,md,Maryland,where,8,Amazon & Amazon Fresh,yes,usda_listed
+2026-11:md:where,md,Maryland,where,9,Instacart,yes,platform
+2026-11:md:where,md,Maryland,where,10,ALDI,yes,ok
+2026-11:md:where,md,Maryland,where,11,Sprouts Farmers Market,yes,ok
+2026-11:md:where,md,Maryland,where,12,Price Rite,yes,usda_listed
+2026-11:md:where,md,Maryland,where,13,DoorDash,yes,platform
+2026-11:wa:nocar,wa,Washington,nocar,1,Walmart,yes,ok
+2026-11:wa:nocar,wa,Washington,nocar,2,Amazon Fresh,yes,ok
+2026-11:wa:nocar,wa,Washington,nocar,3,Amazon.com,yes,ok
+2026-11:wa:nocar,wa,Washington,nocar,4,Safeway,yes,ok
+2026-11:wa:nocar,wa,Washington,nocar,5,DoorDash,yes,platform
+2026-11:wa:nocar,wa,Washington,nocar,6,Instacart,yes,platform
+2026-11:wa:nocar,wa,Washington,nocar,7,QFC,yes,usda_listed
+2026-11:wa:nocar,wa,Washington,nocar,8,Uber Eats,unclear,platform
+2026-11:ut:nocar,ut,Utah,nocar,1,Walmart,yes,ok
+2026-11:ut:nocar,ut,Utah,nocar,2,Amazon,yes,ok
+2026-11:ut:nocar,ut,Utah,nocar,3,Smith’s Food and Drug (Kroger),yes,usda_listed
+2026-11:ut:nocar,ut,Utah,nocar,4,Instacart,yes,platform
+2026-11:ut:nocar,ut,Utah,nocar,5,Sprouts,yes,ok
+2026-11:ut:nocar,ut,Utah,nocar,6,Natural Grocers,yes,unverified
+2026-11:nh:where,nh,New Hampshire,where,1,Walmart,yes,ok
+2026-11:nh:where,nh,New Hampshire,where,2,Amazon,yes,ok
+2026-11:nh:where,nh,New Hampshire,where,3,Whole Foods,yes,ok
+2026-11:nh:where,nh,New Hampshire,where,4,Hannaford,yes,usda_listed
+2026-11:nh:where,nh,New Hampshire,where,5,Target,yes,usda_listed
+2026-11:nh:where,nh,New Hampshire,where,6,BJ’s Wholesale Club,yes,usda_listed
+2026-11:nh:where,nh,New Hampshire,where,7,Instacart,yes,platform
+2026-11:nh:where,nh,New Hampshire,where,8,DoorDash,yes,platform
+2026-11:nh:where,nh,New Hampshire,where,9,Uber Eats,yes,platform
+2026-11:nh:where,nh,New Hampshire,where,10,ALDI,yes,ok
+2026-11:nh:where,nh,New Hampshire,where,11,Price Rite,yes,usda_listed
+2026-11:nh:where,nh,New Hampshire,where,12,Price Chopper / Market 32,yes,usda_listed
+2026-11:nh:where,nh,New Hampshire,where,13,Market Basket,no,unverified
+2026-11:nh:nocar,nh,New Hampshire,nocar,1,Walmart,yes,ok
+2026-11:nh:nocar,nh,New Hampshire,nocar,2,ALDI,yes,ok
+2026-11:nh:nocar,nh,New Hampshire,nocar,3,Instacart,yes,platform
+2026-11:nh:nocar,nh,New Hampshire,nocar,4,Amazon,yes,ok
+2026-11:nh:nocar,nh,New Hampshire,nocar,5,Hannaford,yes,usda_listed
+2026-11:in:where,in,Indiana,where,1,Kroger,yes,ok
+2026-11:in:where,in,Indiana,where,2,Meijer,yes,usda_listed
+2026-11:in:where,in,Indiana,where,3,Walmart,yes,ok
+2026-11:in:where,in,Indiana,where,4,ALDI,yes,ok
+2026-11:in:where,in,Indiana,where,5,Instacart,yes,platform
+2026-11:in:where,in,Indiana,where,6,Target,yes,usda_listed
+2026-11:in:where,in,Indiana,where,7,Gordon Food Service (GFS),yes,unverified
+2026-11:in:where,in,Indiana,where,8,DoorDash,yes,platform
+2026-11:in:where,in,Indiana,where,9,Uber Eats,yes,platform
+2026-11:in:where,in,Indiana,where,10,DashMart,yes,usda_listed
+2026-11:in:where,in,Indiana,where,11,Amazon,yes,ok
+2026-11:in:where,in,Indiana,where,12,Gopuff,yes,ok
+2026-11:in:where,in,Indiana,where,13,Thrive Market,yes,usda_listed
+2026-11:pa:where,pa,Pennsylvania,where,1,The Fresh Grocer,yes,usda_listed
+2026-11:pa:where,pa,Pennsylvania,where,2,ShopRite,yes,usda_listed
+2026-11:pa:where,pa,Pennsylvania,where,3,ACME Markets,yes,usda_listed
+2026-11:pa:where,pa,Pennsylvania,where,4,The GIANT Company (GIANT Direct),yes,usda_listed
+2026-11:pa:where,pa,Pennsylvania,where,5,Wegmans,yes,usda_listed
+2026-11:pa:where,pa,Pennsylvania,where,6,Walmart,yes,ok
+2026-11:pa:where,pa,Pennsylvania,where,7,Amazon,yes,ok
+2026-11:pa:where,pa,Pennsylvania,where,8,Amazon Grocery / Pantry,yes,usda_listed
+2026-11:pa:where,pa,Pennsylvania,where,9,Amazon Fresh,yes,ok
+2026-11:pa:where,pa,Pennsylvania,where,10,Whole Foods Market,yes,ok
+2026-11:pa:where,pa,Pennsylvania,where,11,Target,yes,usda_listed
+2026-11:pa:where,pa,Pennsylvania,where,12,BJ’s Wholesale Club,yes,usda_listed
+2026-11:pa:where,pa,Pennsylvania,where,13,Instacart,yes,platform
+2026-11:pa:where,pa,Pennsylvania,where,14,ALDI,yes,ok
+2026-11:pa:where,pa,Pennsylvania,where,15,Price Rite,yes,usda_listed
+2026-11:pa:where,pa,Pennsylvania,where,16,Sprouts Farmers Market,yes,ok
+2026-11:pa:where,pa,Pennsylvania,where,17,DoorDash,yes,platform
+2026-11:pa:where,pa,Pennsylvania,where,18,Uber Eats,yes,platform
+2026-11:ky:where,ky,Kentucky,where,1,Kroger,yes,ok
+2026-11:ky:where,ky,Kentucky,where,2,Walmart,yes,ok
+2026-11:ky:where,ky,Kentucky,where,3,Meijer,yes,usda_listed
+2026-11:ky:where,ky,Kentucky,where,4,Target,yes,usda_listed
+2026-11:ky:where,ky,Kentucky,where,5,ALDI,yes,ok
+2026-11:ky:where,ky,Kentucky,where,6,Instacart,yes,platform
+2026-11:ky:where,ky,Kentucky,where,7,Amazon / Amazon Fresh,yes,usda_listed
+2026-11:ky:where,ky,Kentucky,where,8,Whole Foods Market,yes,ok
+2026-11:ky:where,ky,Kentucky,where,9,Gordon Food Service,yes,unverified
+2026-11:ky:where,ky,Kentucky,where,10,DoorDash,yes,platform
+2026-11:ky:where,ky,Kentucky,where,11,Walgreens,yes,usda_listed
+2026-11:ky:where,ky,Kentucky,where,12,Gopuff,yes,ok
+2026-11:ks:where,ks,Kansas,where,1,Dillons,yes,usda_listed
+2026-11:ks:where,ks,Kansas,where,2,Instacart,yes,platform
+2026-11:ks:where,ks,Kansas,where,3,DoorDash,yes,platform
+2026-11:ks:where,ks,Kansas,where,4,Walmart,yes,ok
+2026-11:ks:where,ks,Kansas,where,5,Target,yes,usda_listed
+2026-11:ks:where,ks,Kansas,where,6,Sam's Club,yes,usda_listed
+2026-11:ks:where,ks,Kansas,where,7,ALDI,yes,ok
+2026-11:ks:where,ks,Kansas,where,8,Sprouts Farmers Market,yes,wrong_city
+2026-11:ks:where,ks,Kansas,where,9,Amazon,yes,ok
+2026-11:ks:where,ks,Kansas,where,10,Whole Foods,yes,ok
+2026-11:nv:where,nv,Nevada,where,1,Walmart,yes,ok
+2026-11:nv:where,nv,Nevada,where,2,Smith’s Food and Drug (Kroger),yes,usda_listed
+2026-11:nv:where,nv,Nevada,where,3,Albertsons,yes,usda_listed
+2026-11:nv:where,nv,Nevada,where,4,Vons,yes,usda_listed
+2026-11:nv:where,nv,Nevada,where,5,Target,yes,usda_listed
+2026-11:nv:where,nv,Nevada,where,6,Smart & Final,yes,usda_listed
+2026-11:nv:where,nv,Nevada,where,7,Sam’s Club,yes,usda_listed
+2026-11:nv:where,nv,Nevada,where,8,La Bonita Supermarkets,yes,usda_listed
+2026-11:nv:where,nv,Nevada,where,9,Cardenas Markets,yes,usda_listed
+2026-11:nv:where,nv,Nevada,where,10,Mariana’s Supermarkets,yes,usda_listed
+2026-11:nv:where,nv,Nevada,where,11,El Super,yes,usda_listed
+2026-11:nv:where,nv,Nevada,where,12,Marketon,yes,usda_listed
+2026-11:nv:where,nv,Nevada,where,13,Sprouts Farmers Market,yes,ok
+2026-11:nv:where,nv,Nevada,where,14,Amazon,yes,ok
+2026-11:nv:where,nv,Nevada,where,15,Amazon Fresh,yes,ok
+2026-11:nv:where,nv,Nevada,where,16,Whole Foods,yes,ok
+2026-11:nv:where,nv,Nevada,where,17,Thrive Market,yes,usda_listed
+2026-11:nv:where,nv,Nevada,where,18,Instacart,yes,platform
+2026-11:nv:where,nv,Nevada,where,19,DoorDash,yes,platform
+2026-11:nv:where,nv,Nevada,where,20,DashMart,yes,usda_listed
+2026-11:nv:where,nv,Nevada,where,21,Gopuff,yes,ok
+2026-11:al:nocar,al,Alabama,nocar,1,Walmart,yes,ok
+2026-11:al:nocar,al,Alabama,nocar,2,Kroger,yes,city_unclear
+2026-11:al:nocar,al,Alabama,nocar,3,ALDI,yes,ok
+2026-11:al:nocar,al,Alabama,nocar,4,Instacart,yes,platform
+2026-11:al:nocar,al,Alabama,nocar,5,Amazon,yes,ok
+2026-11:ma:nocar,ma,Massachusetts,nocar,1,Daily Table,yes,unverified
+2026-11:ma:nocar,ma,Massachusetts,nocar,2,Walmart,yes,ok
+2026-11:ma:nocar,ma,Massachusetts,nocar,3,ALDI,yes,ok
+2026-11:ma:nocar,ma,Massachusetts,nocar,4,Price Rite,yes,usda_listed
+2026-11:ma:nocar,ma,Massachusetts,nocar,5,Instacart,yes,platform
+2026-11:ma:nocar,ma,Massachusetts,nocar,6,Star Market,unclear,usda_listed
+2026-11:ma:nocar,ma,Massachusetts,nocar,7,Stop & Shop,unclear,usda_listed
+2026-11:ma:nocar,ma,Massachusetts,nocar,8,Amazon Fresh,yes,ok
+2026-11:wv:nocar,wv,West Virginia,nocar,1,Walmart,yes,ok
+2026-11:wv:nocar,wv,West Virginia,nocar,2,ALDI,yes,ok
+2026-11:wv:nocar,wv,West Virginia,nocar,3,Kroger,yes,ok
+2026-11:wv:nocar,wv,West Virginia,nocar,4,Instacart,yes,platform
+2026-11:wv:nocar,wv,West Virginia,nocar,5,Amazon,yes,ok
+2026-11:nj:nocar,nj,New Jersey,nocar,1,Walmart,yes,ok
+2026-11:nj:nocar,nj,New Jersey,nocar,2,Amazon Fresh,yes,ok
+2026-11:nj:nocar,nj,New Jersey,nocar,3,ShopRite,yes,usda_listed
+2026-11:nj:nocar,nj,New Jersey,nocar,4,Instacart,yes,platform
+2026-11:nj:nocar,nj,New Jersey,nocar,5,ALDI,yes,ok
+2026-11:nj:nocar,nj,New Jersey,nocar,6,ACME,unclear,usda_listed
+2026-11:nj:nocar,nj,New Jersey,nocar,7,BJ's,unclear,usda_listed
+2026-11:ut:where,ut,Utah,where,1,Smith’s Food and Drug (Kroger),yes,usda_listed
+2026-11:ut:where,ut,Utah,where,2,Walmart,yes,ok
+2026-11:ut:where,ut,Utah,where,3,Target,yes,usda_listed
+2026-11:ut:where,ut,Utah,where,4,Associated Food Stores,yes,unverified
+2026-11:ut:where,ut,Utah,where,5,Macey's,yes,usda_listed
+2026-11:ut:where,ut,Utah,where,6,Dan's Fresh Market,yes,usda_listed
+2026-11:ut:where,ut,Utah,where,7,Fresh Market,yes,usda_listed
+2026-11:ut:where,ut,Utah,where,8,Sprouts Farmers Market,yes,ok
+2026-11:ut:where,ut,Utah,where,9,Amazon,yes,ok
+2026-11:ut:where,ut,Utah,where,10,Amazon Fresh,yes,ok
+2026-11:ut:where,ut,Utah,where,11,Instacart,yes,platform
+2026-11:ut:where,ut,Utah,where,12,Costco,yes,ok
+2026-11:ut:where,ut,Utah,where,13,DoorDash,yes,platform
+2026-11:ut:where,ut,Utah,where,14,DashMart,yes,usda_listed
+2026-11:ak:where,ak,Alaska,where,1,Walmart,yes,ok
+2026-11:ak:where,ak,Alaska,where,2,Carrs / Safeway,yes,usda_listed
+2026-11:ak:where,ak,Alaska,where,3,Fred Meyer,yes,usda_listed
+2026-11:ak:where,ak,Alaska,where,4,Target,yes,usda_listed
+2026-11:ak:where,ak,Alaska,where,5,Instacart,yes,platform
+2026-11:ak:where,ak,Alaska,where,6,Amazon,yes,ok
+2026-11:ct:where,ct,Connecticut,where,1,Stop & Shop,yes,usda_listed
+2026-11:ct:where,ct,Connecticut,where,2,ShopRite,yes,usda_listed
+2026-11:ct:where,ct,Connecticut,where,3,Price Chopper / Market 32,yes,usda_listed
+2026-11:ct:where,ct,Connecticut,where,4,Big Y,yes,usda_listed
+2026-11:ct:where,ct,Connecticut,where,5,Walmart,yes,ok
+2026-11:ct:where,ct,Connecticut,where,6,Target,yes,usda_listed
+2026-11:ct:where,ct,Connecticut,where,7,BJ’s Wholesale Club,yes,usda_listed
+2026-11:ct:where,ct,Connecticut,where,8,Sam’s Club,yes,usda_listed
+2026-11:ct:where,ct,Connecticut,where,9,Amazon,yes,ok
+2026-11:ct:where,ct,Connecticut,where,10,Instacart,yes,platform
+2026-11:ct:where,ct,Connecticut,where,11,ALDI,yes,ok
+2026-11:ct:where,ct,Connecticut,where,12,Price Rite,yes,usda_listed
+2026-11:ct:where,ct,Connecticut,where,13,Food Bazaar,yes,usda_listed
+2026-11:ct:where,ct,Connecticut,where,14,Costco,yes,ok
+2026-11:ct:where,ct,Connecticut,where,15,DoorDash,yes,platform
+2026-11:ct:where,ct,Connecticut,where,16,DashMart,yes,usda_listed
+2026-11:ct:where,ct,Connecticut,where,17,Dollar General,yes,usda_listed
+2026-11:oh:where,oh,Ohio,where,1,Kroger,yes,ok
+2026-11:oh:where,oh,Ohio,where,2,Walmart,yes,ok
+2026-11:oh:where,oh,Ohio,where,3,Giant Eagle / Market District,yes,usda_listed
+2026-11:oh:where,oh,Ohio,where,4,Meijer,yes,usda_listed
+2026-11:oh:where,oh,Ohio,where,5,Target,yes,usda_listed
+2026-11:oh:where,oh,Ohio,where,6,ALDI,yes,ok
+2026-11:oh:where,oh,Ohio,where,7,Amazon / Amazon Fresh,yes,usda_listed
+2026-11:oh:where,oh,Ohio,where,8,BJ’s Wholesale Club,yes,usda_listed
+2026-11:oh:where,oh,Ohio,where,9,Sam's Club,yes,usda_listed
+2026-11:oh:where,oh,Ohio,where,10,Instacart,yes,platform
+2026-11:oh:where,oh,Ohio,where,11,DoorDash,yes,platform
+2026-11:vt:where,vt,Vermont,where,1,Hannaford,yes,usda_listed
+2026-11:vt:where,vt,Vermont,where,2,Price Chopper / Market 32,yes,usda_listed
+2026-11:vt:where,vt,Vermont,where,3,Shaw’s,yes,usda_listed
+2026-11:vt:where,vt,Vermont,where,4,Walmart,yes,ok
+2026-11:vt:where,vt,Vermont,where,5,ALDI,yes,wrong_city
+2026-11:vt:where,vt,Vermont,where,6,Target,yes,usda_listed
+2026-11:vt:where,vt,Vermont,where,7,Instacart,yes,platform
+2026-11:vt:where,vt,Vermont,where,8,Amazon,yes,ok
+2026-11:vt:where,vt,Vermont,where,9,Thrive Market,yes,usda_listed
+2026-11:vt:where,vt,Vermont,where,10,DoorDash / DashMart,yes,usda_listed
+2026-11:vt:where,vt,Vermont,where,11,City Market Co-op,no,unverified
+2026-11:tn:nocar,tn,Tennessee,nocar,1,Walmart,yes,ok
+2026-11:tn:nocar,tn,Tennessee,nocar,2,Kroger,yes,ok
+2026-11:tn:nocar,tn,Tennessee,nocar,3,Instacart,yes,platform
+2026-11:tn:nocar,tn,Tennessee,nocar,4,ALDI,yes,ok
+2026-11:id:nocar,id,Idaho,nocar,1,Walmart,yes,ok
+2026-11:id:nocar,id,Idaho,nocar,2,Instacart,yes,platform
+2026-11:id:nocar,id,Idaho,nocar,3,Fred Meyer,yes,usda_listed
+2026-11:id:nocar,id,Idaho,nocar,4,Albertsons,yes,usda_listed
+2026-11:id:nocar,id,Idaho,nocar,5,WinCo,no,unverified
+2026-11:wy:nocar,wy,Wyoming,nocar,1,Walmart,yes,ok
+2026-11:wy:nocar,wy,Wyoming,nocar,2,King Soopers,yes,unverified
+2026-11:wy:nocar,wy,Wyoming,nocar,3,Amazon,yes,ok
+2026-11:wy:nocar,wy,Wyoming,nocar,4,Instacart,yes,platform
+2026-11:wy:nocar,wy,Wyoming,nocar,5,Albertsons,yes,usda_listed
+2026-11:wy:nocar,wy,Wyoming,nocar,6,Natural Grocers,yes,unverified
+2026-11:va:where,va,Virginia,where,1,Kroger,yes,ok
+2026-11:va:where,va,Virginia,where,2,Walmart,yes,ok
+2026-11:va:where,va,Virginia,where,3,Food Lion,yes,usda_listed
+2026-11:va:where,va,Virginia,where,4,Wegmans,yes,usda_listed
+2026-11:va:where,va,Virginia,where,5,Target,yes,usda_listed
+2026-11:va:where,va,Virginia,where,6,Instacart,yes,platform
+2026-11:va:where,va,Virginia,where,7,ALDI,yes,ok
+2026-11:va:where,va,Virginia,where,8,Publix,yes,ok
+2026-11:va:where,va,Virginia,where,9,BJ's Wholesale Club,yes,usda_listed
+2026-11:va:where,va,Virginia,where,10,Sprouts Farmers Market,yes,wrong_city
+2026-11:va:where,va,Virginia,where,11,Amazon / Amazon Fresh,yes,usda_listed
+2026-11:va:where,va,Virginia,where,12,Thrive Market,yes,usda_listed
+2026-11:va:where,va,Virginia,where,13,Gopuff,yes,ok
+2026-11:ak:nocar,ak,Alaska,nocar,1,Walmart,yes,ok
+2026-11:ak:nocar,ak,Alaska,nocar,2,Carrs (Safeway),yes,usda_listed
+2026-11:ak:nocar,ak,Alaska,nocar,3,Instacart,yes,platform
+2026-11:ak:nocar,ak,Alaska,nocar,4,Fred Meyer,yes,usda_listed
+2026-11:ak:nocar,ak,Alaska,nocar,5,Costco,yes,ok
+2026-11:ak:nocar,ak,Alaska,nocar,6,Amazon,yes,ok
+2026-11:ms:where,ms,Mississippi,where,1,Walmart,yes,ok
+2026-11:ms:where,ms,Mississippi,where,2,Kroger,yes,ok
+2026-11:ms:where,ms,Mississippi,where,3,ALDI,yes,ok
+2026-11:ms:where,ms,Mississippi,where,4,Instacart,yes,platform
+2026-11:ms:where,ms,Mississippi,where,5,DoorDash,yes,platform
+2026-11:ms:where,ms,Mississippi,where,6,Target,yes,usda_listed
+2026-11:ms:where,ms,Mississippi,where,7,The Fresh Market,yes,usda_listed
+2026-11:ms:where,ms,Mississippi,where,8,Amazon,yes,ok
+2026-11:ms:where,ms,Mississippi,where,9,Costco,yes,ok
+2026-11:ms:where,ms,Mississippi,where,10,Sam’s Club,yes,usda_listed
+2026-11:ms:where,ms,Mississippi,where,11,Thrive Market,yes,usda_listed
+2026-11:ms:where,ms,Mississippi,where,12,Sprouts,yes,wrong
+2026-11:ms:where,ms,Mississippi,where,13,Dollar General,yes,usda_listed
+2026-11:ms:where,ms,Mississippi,where,14,Walgreens,yes,usda_listed
+2026-11:ny:where,ny,New York,where,1,Wegmans,yes,usda_listed
+2026-11:ny:where,ny,New York,where,2,Instacart,yes,platform
+2026-11:ny:where,ny,New York,where,3,Tops Friendly Markets,yes,usda_listed
+2026-11:ny:where,ny,New York,where,4,Price Rite Marketplace,yes,usda_listed
+2026-11:ny:where,ny,New York,where,5,Walmart,yes,ok
+2026-11:ny:where,ny,New York,where,6,ALDI,yes,ok
+2026-11:ny:where,ny,New York,where,7,Target,yes,usda_listed
+2026-11:ny:where,ny,New York,where,8,BJ’s Wholesale Club,yes,usda_listed
+2026-11:ny:where,ny,New York,where,9,Amazon,yes,ok
+2026-11:ny:where,ny,New York,where,10,DoorDash,yes,platform
+2026-11:ny:where,ny,New York,where,11,Uber Eats,yes,platform
+2026-11:nd:where,nd,North Dakota,where,1,Walmart Supercenter,yes,usda_listed
+2026-11:nd:where,nd,North Dakota,where,2,Cash Wise Foods,yes,usda_listed
+2026-11:nd:where,nd,North Dakota,where,3,Hornbacher’s,yes,usda_listed
+2026-11:nd:where,nd,North Dakota,where,4,ALDI,yes,ok
+2026-11:nd:where,nd,North Dakota,where,5,Target,yes,usda_listed
+2026-11:nd:where,nd,North Dakota,where,6,Amazon,yes,ok
+2026-11:nd:where,nd,North Dakota,where,7,Instacart,yes,platform
+2026-11:nd:where,nd,North Dakota,where,8,Family Dollar,yes,usda_listed
+2026-11:wi:where,wi,Wisconsin,where,1,Pick ’n Save,yes,usda_listed
+2026-11:wi:where,wi,Wisconsin,where,2,Metro Market,yes,usda_listed
+2026-11:wi:where,wi,Wisconsin,where,3,Walmart,yes,ok
+2026-11:wi:where,wi,Wisconsin,where,4,ALDI,yes,ok
+2026-11:wi:where,wi,Wisconsin,where,5,Target,yes,usda_listed
+2026-11:wi:where,wi,Wisconsin,where,6,Meijer,yes,usda_listed
+2026-11:wi:where,wi,Wisconsin,where,7,Amazon,yes,ok
+2026-11:wi:where,wi,Wisconsin,where,8,Whole Foods,yes,ok
+2026-11:wi:where,wi,Wisconsin,where,9,Sam’s Club,yes,usda_listed
+2026-11:wi:where,wi,Wisconsin,where,10,Instacart,yes,platform
+2026-11:wi:where,wi,Wisconsin,where,11,Woodman’s Markets,yes,usda_listed
+2026-11:wi:where,wi,Wisconsin,where,12,Gordon Food Service,yes,unverified
+2026-11:wi:where,wi,Wisconsin,where,13,DoorDash,yes,platform
+2026-11:wi:where,wi,Wisconsin,where,14,Uber Eats,yes,platform
+2026-11:mo:where,mo,Missouri,where,1,Schnucks,yes,usda_listed
+2026-11:mo:where,mo,Missouri,where,2,Instacart,yes,platform
+2026-11:mo:where,mo,Missouri,where,3,DoorDash,yes,platform
+2026-11:mo:where,mo,Missouri,where,4,Dierbergs,yes,usda_listed
+2026-11:mo:where,mo,Missouri,where,5,Save A Lot,yes,usda_listed
+2026-11:mo:where,mo,Missouri,where,6,Ruler Foods,yes,usda_listed
+2026-11:mo:where,mo,Missouri,where,7,Walmart,yes,ok
+2026-11:mo:where,mo,Missouri,where,8,Target,yes,usda_listed
+2026-11:mo:where,mo,Missouri,where,9,Shipt,yes,platform
+2026-11:mo:where,mo,Missouri,where,10,ALDI,yes,ok
+2026-11:mo:where,mo,Missouri,where,11,Sprouts Farmers Market,yes,wrong_city
+2026-11:mo:where,mo,Missouri,where,12,Whole Foods Market,yes,ok
+2026-11:mo:where,mo,Missouri,where,13,Amazon,yes,ok
+2026-11:mo:where,mo,Missouri,where,14,Amazon Fresh,yes,ok
+2026-11:mo:where,mo,Missouri,where,15,Thrive Market,yes,usda_listed
+2026-11:wy:where,wy,Wyoming,where,1,Walmart,yes,ok
+2026-11:wy:where,wy,Wyoming,where,2,Safeway,yes,ok
+2026-11:wy:where,wy,Wyoming,where,3,Albertsons,yes,usda_listed
+2026-11:wy:where,wy,Wyoming,where,4,Target,yes,usda_listed
+2026-11:wy:where,wy,Wyoming,where,5,Amazon,yes,ok
+2026-11:wy:where,wy,Wyoming,where,6,Thrive Market,yes,usda_listed
+2026-11:wy:where,wy,Wyoming,where,7,Instacart,yes,platform
+2026-11:wy:where,wy,Wyoming,where,8,DoorDash / DashMart,yes,usda_listed
+2026-11:nyc:where,nyc,New York City,where,1,Amazon,yes,ok
+2026-11:nyc:where,nyc,New York City,where,2,Amazon Fresh,yes,ok
+2026-11:nyc:where,nyc,New York City,where,3,Whole Foods Market,yes,ok
+2026-11:nyc:where,nyc,New York City,where,4,FreshDirect,yes,unverified
+2026-11:nyc:where,nyc,New York City,where,5,Walmart,yes,ok
+2026-11:nyc:where,nyc,New York City,where,6,Target,yes,usda_listed
+2026-11:nyc:where,nyc,New York City,where,7,Wegmans,yes,usda_listed
+2026-11:nyc:where,nyc,New York City,where,8,ShopRite,yes,usda_listed
+2026-11:nyc:where,nyc,New York City,where,9,Stop & Shop,yes,usda_listed
+2026-11:nyc:where,nyc,New York City,where,10,Instacart,yes,platform
+2026-11:nyc:where,nyc,New York City,where,11,DoorDash,yes,platform
+2026-11:nyc:where,nyc,New York City,where,12,Uber Eats,yes,platform
+2026-11:nyc:where,nyc,New York City,where,13,ALDI,yes,ok
+2026-11:nyc:where,nyc,New York City,where,14,Food Bazaar,yes,usda_listed
+2026-11:nyc:where,nyc,New York City,where,15,Fairway Market,yes,usda_listed
+2026-11:nyc:where,nyc,New York City,where,16,Costco,yes,ok
+2026-11:nyc:where,nyc,New York City,where,17,Key Food,yes,usda_listed
+2026-11:nyc:where,nyc,New York City,where,18,Price Chopper,yes,usda_listed
+2026-11:de:where,de,Delaware,where,1,ShopRite,yes,usda_listed
+2026-11:de:where,de,Delaware,where,2,Walmart,yes,ok
+2026-11:de:where,de,Delaware,where,3,ACME Markets,yes,usda_listed
+2026-11:de:where,de,Delaware,where,4,Target,yes,usda_listed
+2026-11:de:where,de,Delaware,where,5,Amazon / Amazon Fresh,yes,usda_listed
+2026-11:de:where,de,Delaware,where,6,BJ’s Wholesale Club,yes,usda_listed
+2026-11:de:where,de,Delaware,where,7,Instacart,yes,platform
+2026-11:de:where,de,Delaware,where,8,DoorDash,yes,platform
+2026-11:de:where,de,Delaware,where,9,ALDI,yes,ok
+2026-11:de:where,de,Delaware,where,10,Food Lion,yes,usda_listed
+2026-11:de:where,de,Delaware,where,11,Price Rite,yes,unverified
+2026-11:de:where,de,Delaware,where,12,Sprouts Farmers Market,yes,ok
+2026-11:az:nocar,az,Arizona,nocar,1,Walmart,yes,ok
+2026-11:az:nocar,az,Arizona,nocar,2,Amazon,yes,ok
+2026-11:az:nocar,az,Arizona,nocar,3,ALDI,yes,ok
+2026-11:az:nocar,az,Arizona,nocar,4,Instacart,yes,platform
+2026-11:az:nocar,az,Arizona,nocar,5,Fry's,yes,usda_listed
+2026-11:az:nocar,az,Arizona,nocar,6,Bashas',yes,usda_listed
+2026-11:az:nocar,az,Arizona,nocar,7,Safeway,yes,ok
+2026-11:az:nocar,az,Arizona,nocar,8,Food City,yes,unverified
+2026-11:az:nocar,az,Arizona,nocar,9,DoorDash,unclear,platform
+2026-11:tx:nocar,tx,Texas,nocar,1,Walmart,yes,ok
+2026-11:tx:nocar,tx,Texas,nocar,2,Amazon.com,yes,ok
+2026-11:tx:nocar,tx,Texas,nocar,3,Amazon Fresh,yes,ok
+2026-11:tx:nocar,tx,Texas,nocar,4,H-E-B,yes,usda_listed
+2026-11:tx:nocar,tx,Texas,nocar,5,Aldi,yes,ok
+2026-11:tx:nocar,tx,Texas,nocar,6,Instacart,yes,platform
+2026-11:nv:nocar,nv,Nevada,nocar,1,Walmart,yes,ok
+2026-11:nv:nocar,nv,Nevada,nocar,2,Amazon / Amazon Fresh,yes,usda_listed
+2026-11:nv:nocar,nv,Nevada,nocar,3,Smith’s (Kroger),yes,usda_listed
+2026-11:nv:nocar,nv,Nevada,nocar,4,Aldi,yes,ok
+2026-11:nv:nocar,nv,Nevada,nocar,5,Albertsons,yes,usda_listed
+2026-11:nv:nocar,nv,Nevada,nocar,6,Sprouts,yes,ok
+2026-11:nv:nocar,nv,Nevada,nocar,7,Instacart,yes,platform
+2026-11:la:where,la,Louisiana,where,1,Rouses Markets,yes,usda_listed
+2026-11:la:where,la,Louisiana,where,2,Walmart,yes,ok
+2026-11:la:where,la,Louisiana,where,3,Winn-Dixie,yes,usda_listed
+2026-11:la:where,la,Louisiana,where,4,Whole Foods Market,yes,ok
+2026-11:la:where,la,Louisiana,where,5,Amazon,yes,ok
+2026-11:la:where,la,Louisiana,where,6,The Fresh Market,yes,usda_listed
+2026-11:la:where,la,Louisiana,where,7,Veggi Farmers Cooperative,yes,usda_listed
+2026-11:la:where,la,Louisiana,where,8,River Queen Greens,yes,usda_listed
+2026-11:la:where,la,Louisiana,where,9,Amazon Fresh,yes,ok
+2026-11:la:where,la,Louisiana,where,10,Instacart,yes,platform
+2026-11:la:where,la,Louisiana,where,11,ALDI,yes,ok
+2026-11:la:where,la,Louisiana,where,12,Costco,yes,ok
+2026-11:la:where,la,Louisiana,where,13,Sprouts,yes,wrong_city
+2026-11:la:where,la,Louisiana,where,14,DoorDash,yes,platform
+2026-11:la:where,la,Louisiana,where,15,DashMart,yes,usda_listed
+2026-11:la:where,la,Louisiana,where,16,Gopuff,yes,ok
+2026-11:la:where,la,Louisiana,where,17,Thrive Market,yes,usda_listed
+2026-11:hi:where,hi,Hawaii,where,1,Walmart,yes,ok
+2026-11:hi:where,hi,Hawaii,where,2,Safeway,yes,ok
+2026-11:hi:where,hi,Hawaii,where,3,Target,yes,usda_listed
+2026-11:hi:where,hi,Hawaii,where,4,Amazon,yes,ok
+2026-11:hi:where,hi,Hawaii,where,5,Whole Foods Market,yes,ok
+2026-11:hi:where,hi,Hawaii,where,6,Costco,yes,ok
+2026-11:hi:where,hi,Hawaii,where,7,Sam’s Club,yes,usda_listed
+2026-11:hi:where,hi,Hawaii,where,8,Farm Link Hawaiʻi,yes,unverified
+2026-11:hi:where,hi,Hawaii,where,9,Down to Earth Organic & Natural,yes,usda_listed
+2026-11:hi:where,hi,Hawaii,where,10,DashMart (DoorDash),yes,usda_listed
+2026-11:hi:where,hi,Hawaii,where,11,Walgreens,yes,usda_listed
+2026-11:hi:where,hi,Hawaii,where,12,CVS,yes,usda_listed
+2026-11:hi:where,hi,Hawaii,where,13,Military Commissaries (DeCA),yes,unverified
+2026-11:me:nocar,me,Maine,nocar,1,Walmart,yes,ok
+2026-11:me:nocar,me,Maine,nocar,2,ALDI,yes,ok
+2026-11:me:nocar,me,Maine,nocar,3,Instacart,yes,platform
+2026-11:me:nocar,me,Maine,nocar,4,Shaw's,yes,usda_listed
+2026-11:me:nocar,me,Maine,nocar,5,Amazon,yes,ok
+2026-11:id:where,id,Idaho,where,1,Albertsons,yes,usda_listed
+2026-11:id:where,id,Idaho,where,2,Fred Meyer (Kroger),yes,usda_listed
+2026-11:id:where,id,Idaho,where,3,Safeway,yes,wrong_city
+2026-11:id:where,id,Idaho,where,4,Whole Foods Market,yes,ok
+2026-11:id:where,id,Idaho,where,5,Walmart,yes,ok
+2026-11:id:where,id,Idaho,where,6,Target,yes,usda_listed
+2026-11:id:where,id,Idaho,where,7,Amazon / Amazon Fresh,yes,usda_listed
+2026-11:id:where,id,Idaho,where,8,Costco,yes,ok
+2026-11:id:where,id,Idaho,where,9,Thrive Market,yes,usda_listed
+2026-11:id:where,id,Idaho,where,10,Instacart,yes,platform
+2026-11:id:where,id,Idaho,where,11,Sprouts,yes,wrong
+2026-11:id:where,id,Idaho,where,12,DoorDash & DashMart,yes,platform
+2026-11:va:nocar,va,Virginia,nocar,1,Walmart,yes,ok
+2026-11:va:nocar,va,Virginia,nocar,2,Instacart,yes,platform
+2026-11:va:nocar,va,Virginia,nocar,3,Aldi,yes,ok
+2026-11:va:nocar,va,Virginia,nocar,4,Food Lion,yes,usda_listed
+2026-11:va:nocar,va,Virginia,nocar,5,Amazon,yes,ok
+2026-11:va:nocar,va,Virginia,nocar,6,Amazon Fresh,yes,ok
+2026-11:va:nocar,va,Virginia,nocar,7,Kroger,unclear,ok

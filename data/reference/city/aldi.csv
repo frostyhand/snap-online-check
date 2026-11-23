@@ -1,0 +1,43 @@
+retailer,place,city,state,serves,nearest_store,source_url
+aldi,al,Birmingham,AL,yes,"Birmingham (7400 Crestwood Blvd), about 6 mi",https://storelocators.com/store-lists/aldi/alabama
+aldi,ar,Little Rock,AR,yes,"North Little Rock (4220 E McCain Blvd), about 8 mi",https://storelocators.com/store-lists/aldi/arkansas
+aldi,az,Phoenix,AZ,yes,"Tempe (1717 E Southern Ave), about 10 mi; also Phoenix and Laveen",https://storelocators.com/store-lists/aldi/arizona
+aldi,ca,Los Angeles,CA,yes,"Alhambra (2121 W Main St), about 8 mi; also Inglewood and South Gate",https://storelocators.com/store-lists/aldi/california
+aldi,ct,Hartford,CT,yes,"West Hartford (511 New Park Ave), about 3 mi",https://storelocators.com/store-lists/aldi/connecticut
+aldi,dc,Washington,DC,yes,"Washington (801 H St NE), about 1 mi",https://storelocators.com/store-lists/aldi/district-of-columbia
+aldi,de,Wilmington,DE,yes,"Wilmington (4130 Concord Pike), about 5 mi",https://storelocators.com/store-lists/aldi/delaware
+aldi,fl,Miami,FL,yes,"Miami (249 NW 6th St, downtown), about 1 mi; nine Miami stores",https://storelocators.com/store-lists/aldi/florida
+aldi,ga,Atlanta,GA,yes,"Atlanta (1461 Moreland Ave SE), about 4 mi",https://storelocators.com/store-lists/aldi/georgia
+aldi,ia,Des Moines,IA,yes,"Des Moines (2543 E University Ave), about 3 mi",https://storelocators.com/store-lists/aldi/iowa
+aldi,il,Chicago,IL,yes,"Chicago (30 W Huron St), about 1 mi",https://storelocators.com/store-lists/aldi/illinois
+aldi,in,Indianapolis,IN,yes,"Indianapolis (2955 Madison Ave), about 3 mi",https://storelocators.com/store-lists/aldi/indiana
+aldi,ks,Wichita,KS,yes,"Wichita (2323 N Amidon Ave), about 3 mi",https://storelocators.com/store-lists/aldi/kansas
+aldi,ky,Louisville,KY,yes,"Louisville (3442 Preston Hwy), about 4 mi",https://storelocators.com/store-lists/aldi/kentucky
+aldi,la,New Orleans,LA,yes,"New Orleans (3008 Holiday Dr, Algiers), about 5 mi; also Metairie, about 7 mi",https://storelocators.com/store-lists/aldi/louisiana
+aldi,ma,Boston,MA,yes,"Medford (630 Fellsway), about 5 mi",https://storelocators.com/store-lists/aldi/massachusetts
+aldi,md,Baltimore,MD,yes,"Baltimore (3250 E Fayette St), about 2 mi",https://storelocators.com/store-lists/aldi/maryland
+aldi,me,Portland,ME,yes,"Portland (1100 Brighton Ave), about 3 mi; first Maine store, opened 26 Mar 2026",https://corporate.aldi.us/newsroom/news/aldi-americas-fastest-growing-grocer-expands-to-portland-opening-first-store-in-maine
+aldi,mi,Detroit,MI,yes,"Detroit (14708 Mack Ave), about 7 mi",https://storelocators.com/store-lists/aldi/michigan
+aldi,mn,Minneapolis,MN,yes,"Minneapolis (1311 E Franklin Ave), about 2 mi",https://storelocators.com/store-lists/aldi/minnesota
+aldi,mo,St. Louis,MO,yes,"St. Louis (702 N Kingshighway), about 4 mi",https://storelocators.com/store-lists/aldi/missouri
+aldi,ms,Jackson,MS,yes,"Flowood (101 Primos Rd), about 7 mi; Ridgeland (750 Highland Colony Pkwy), about 10 mi, opened 25 Sep 2025",https://storelocators.com/store-lists/aldi/mississippi
+aldi,nc,Charlotte,NC,yes,"Charlotte (2526 Freedom Dr), about 3 mi",https://storelocators.com/store-lists/aldi/north-carolina
+aldi,nd,Fargo,ND,yes,"Fargo (4304 13th Ave S), about 4 mi",https://storelocators.com/store-lists/aldi/north-dakota
+aldi,ne,Omaha,NE,yes,"Omaha (885 S 72nd St), about 5 mi",https://storelocators.com/store-lists/aldi/nebraska
+aldi,nh,Manchester,NH,yes,"Manchester (1111 S Willow St), about 3 mi",https://storelocators.com/store-lists/aldi/new-hampshire
+aldi,nj,Newark,NJ,yes,"Bloomfield (244 Bloomfield Ave), about 5 mi",https://storelocators.com/store-lists/aldi/new-jersey
+aldi,nv,Las Vegas,NV,yes,"Las Vegas (1200 S Decatur Blvd), about 4 mi; first Nevada stores opened Apr to May 2025",https://www.ktnv.com/news/aldi-sets-opening-date-for-two-of-three-planned-las-vegas-area-grocery-stores
+aldi,ny,Buffalo,NY,yes,"Buffalo (998 Broadway St), about 2 mi",https://storelocators.com/store-lists/aldi/new-york
+aldi,nyc,New York City,NY,yes,"New York (311 W 42nd St, Manhattan), about 1 mi from Midtown",https://storelocators.com/store-lists/aldi/new-york
+aldi,oh,Columbus,OH,yes,"Columbus (1331 W Mound St), about 2 mi",https://storelocators.com/store-lists/aldi/ohio
+aldi,ok,Oklahoma City,OK,yes,"Oklahoma City (4805 N May Ave), about 6 mi",https://storelocators.com/store-lists/aldi/oklahoma
+aldi,pa,Philadelphia,PA,yes,"Philadelphia (2103 Washington Ave), about 1.5 mi",https://storelocators.com/store-lists/aldi/pennsylvania
+aldi,ri,Providence,RI,yes,"Providence (539 Smith St), about 1.5 mi",https://storelocators.com/store-lists/aldi/rhode-island
+aldi,sc,Columbia,SC,yes,"Columbia (7610 Garners Ferry Rd), about 6 mi",https://storelocators.com/store-lists/aldi/south-carolina
+aldi,sd,Sioux Falls,SD,yes,"Sioux Falls (2808 S Louise Ave), about 4 mi",https://storelocators.com/store-lists/aldi/south-dakota
+aldi,tn,Nashville,TN,yes,"Nashville (615 Gallatin Ave), about 2 mi",https://storelocators.com/store-lists/aldi/tennessee
+aldi,tx,Houston,TX,yes,"Houston (3618 Old Spanish Trail), about 5 mi",https://storelocators.com/store-lists/aldi/texas
+aldi,va,Richmond,VA,yes,"Richmond (927 Myers St), about 4 mi",https://storelocators.com/store-lists/aldi/virginia
+aldi,vt,Burlington,VT,no,"Rutland (263 S Main St), about 67 mi; Vermont stores are only Bennington, Brattleboro and Rutland",https://storelocators.com/store-lists/aldi/vermont
+aldi,wi,Milwaukee,WI,yes,"Milwaukee (225 E Capitol Dr), about 3 mi",https://storelocators.com/store-lists/aldi/wisconsin
+aldi,wv,Charleston,WV,yes,"Charleston (2810 Mountaineer Blvd), about 6 mi",https://storelocators.com/store-lists/aldi/west-virginia

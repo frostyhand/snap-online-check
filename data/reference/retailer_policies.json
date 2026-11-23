@@ -1,0 +1,660 @@
+{
+  "compiled": "2026-11-22",
+  "retailers": {
+    "walmart": {
+      "name": "Walmart",
+      "accepts_ebt_online": true,
+      "channels": "walmart.com and the Walmart app: pickup, delivery and shipping (shipping only for items sold and shipped by Walmart.com)",
+      "limits": "Only items bought in store or marked 'sold & shipped by Walmart.com'; Marketplace (third-party) seller items excluded. SNAP cannot pay delivery fees or tips. State-specific item restrictions apply. Pickup/delivery availability depends on the local store.",
+      "states": [
+        "AK",
+        "AL",
+        "AR",
+        "AZ",
+        "CA",
+        "CO",
+        "CT",
+        "DC",
+        "DE",
+        "FL",
+        "GA",
+        "HI",
+        "IA",
+        "ID",
+        "IL",
+        "IN",
+        "KS",
+        "KY",
+        "LA",
+        "MA",
+        "MD",
+        "ME",
+        "MI",
+        "MN",
+        "MO",
+        "MS",
+        "MT",
+        "NC",
+        "ND",
+        "NE",
+        "NH",
+        "NJ",
+        "NM",
+        "NV",
+        "NY",
+        "OH",
+        "OK",
+        "OR",
+        "PA",
+        "RI",
+        "SC",
+        "SD",
+        "TN",
+        "TX",
+        "UT",
+        "VA",
+        "VT",
+        "WA",
+        "WI",
+        "WV",
+        "WY"
+      ],
+      "banner_states": [],
+      "sources": [
+        {
+          "url": "https://www.walmart.com/cp/snap-online/1465096",
+          "what": "Walmart SNAP Online FAQ (opened 22 Nov 2026): 'You can use your SNAP EBT card at all participating Walmart stores and online for pickup, delivery, or shipping'; 'SNAP EBT benefits cannot be used to buy items sold by Marketplace sellers'."
+        },
+        {
+          "url": "https://corporate.walmart.com/about/location-facts",
+          "what": "Walmart location facts (as of 31 Oct 2026): US location list covers all 50 states plus DC (and Puerto Rico)."
+        }
+      ],
+      "confidence": "high",
+      "note": "Because shipped Walmart.com orders also take SNAP, coverage is effectively nationwide. Location-facts page lists DC but gives no per-state count, so the DC store count was not checked; DC residents can still use shipping."
+    },
+    "amazon": {
+      "name": "Amazon (incl. Amazon Fresh)",
+      "accepts_ebt_online": true,
+      "channels": "Amazon.com shipped orders, Amazon Fresh delivery and pickup, and Whole Foods Market delivery/pickup on Amazon; no Prime needed",
+      "limits": "SNAP cannot pay shipping, delivery fees or tips. Per secondary sources, SNAP only covers SNAP-eligible items sold by Amazon (Amazon.com, Amazon Fresh, Whole Foods); third-party seller items are excluded (Cash EBT, a separate benefit, can buy third-party items in 22 states plus DC). Amazon Fresh delivery/pickup exists only in some metros; elsewhere it is shipped Amazon.com orders. Some states restrict items such as soda and candy from 1 Jan 2026.",
+      "states": [
+        "AK",
+        "AL",
+        "AR",
+        "AZ",
+        "CA",
+        "CO",
+        "CT",
+        "DC",
+        "DE",
+        "FL",
+        "GA",
+        "HI",
+        "IA",
+        "ID",
+        "IL",
+        "IN",
+        "KS",
+        "KY",
+        "LA",
+        "MA",
+        "MD",
+        "ME",
+        "MI",
+        "MN",
+        "MO",
+        "MS",
+        "MT",
+        "NC",
+        "ND",
+        "NE",
+        "NH",
+        "NJ",
+        "NM",
+        "NV",
+        "NY",
+        "OH",
+        "OK",
+        "OR",
+        "PA",
+        "RI",
+        "SC",
+        "SD",
+        "TN",
+        "TX",
+        "UT",
+        "VA",
+        "VT",
+        "WA",
+        "WI",
+        "WV",
+        "WY"
+      ],
+      "banner_states": [],
+      "sources": [
+        {
+          "url": "https://www.aboutamazon.com/news/retail/snap-ebt-benefits-amazon",
+          "what": "Amazon newsroom (published 13 Sep 2023, updated 29 Dec 2025): SNAP EBT offering 'is available to those eligible nationwide' on Amazon.com, Amazon Fresh and Whole Foods Market; card cannot pay shipping, delivery fees or tips."
+        },
+        {
+          "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GRT2YNE98NUVKPM3",
+          "what": "Amazon 'Pay with EBT' help page. Opened 22 Nov 2026 but amazon.com served an 'Access restricted' notice to automated agents, so its text was not read."
+        },
+        {
+          "url": "https://propel.app/snap/can-you-use-ebt-on-amazon",
+          "what": "Secondary source (from search result, not opened): third-party seller items do not qualify for SNAP; used only to fill the third-party-seller gap."
+        }
+      ],
+      "confidence": "high",
+      "note": "Acceptance and nationwide reach come from Amazon's own newsroom. The third-party-seller exclusion comes from secondary sources, since amazon.com blocks automated reading of its help page."
+    },
+    "aldi": {
+      "name": "ALDI (US)",
+      "accepts_ebt_online": true,
+      "channels": "aldi.us website and ALDI app (Instacart-powered storefront): delivery and pickup at participating stores; also ALDI on the Instacart app",
+      "limits": "Only items sold by ALDI.us qualify. SNAP cannot pay tips, fees or non-eligible items; a credit/debit card is needed for those. Only participating online pickup/delivery locations.",
+      "states": [
+        "AL",
+        "AR",
+        "AZ",
+        "CA",
+        "CT",
+        "DC",
+        "DE",
+        "FL",
+        "GA",
+        "IA",
+        "IL",
+        "IN",
+        "KS",
+        "KY",
+        "LA",
+        "MA",
+        "MD",
+        "ME",
+        "MI",
+        "MN",
+        "MO",
+        "MS",
+        "NC",
+        "ND",
+        "NE",
+        "NH",
+        "NJ",
+        "NV",
+        "NY",
+        "OH",
+        "OK",
+        "PA",
+        "RI",
+        "SC",
+        "SD",
+        "TN",
+        "TX",
+        "VA",
+        "VT",
+        "WI",
+        "WV"
+      ],
+      "banner_states": [],
+      "sources": [
+        {
+          "url": "https://aldi.us/about-us/snap-ebt-payment",
+          "what": "ALDI SNAP EBT payment page (opened 22 Nov 2026): 'ALDI accepts SNAP benefits via EBT cards at all participating ALDI online pickup & delivery locations'; 'Only items sold by ALDI.us are eligible to be paid with SNAP'."
+        },
+        {
+          "url": "https://www.aldi.us/store/aldi/pages/locator",
+          "what": "ALDI store locator (opened 22 Nov 2026; stores.aldi.us redirects here): stores in 40 states plus DC, e.g. Maine (1), Nevada (5), DC (3)."
+        },
+        {
+          "url": "https://www.instacart.com/ebt-snap",
+          "what": "Instacart EBT SNAP page names ALDI among participating retailers."
+        }
+      ],
+      "confidence": "high",
+      "note": "State list is the store footprint; a few new single-store states (ME, NV) may not yet offer pickup/delivery. Some converted Southeastern Grocers stores may be mid-rebrand."
+    },
+    "costco": {
+      "name": "Costco",
+      "accepts_ebt_online": true,
+      "channels": "Costco Same-Day delivery only (sameday.costco.com and Costco on the Instacart app, fulfilled by Instacart); membership required",
+      "limits": "EBT is NOT accepted on Costco.com (shipped and 2-day CostcoGrocery orders). Same-Day only; SNAP cannot pay fees or tips. Costco's own customer-service FAQ confirms EBT in all warehouses but says nothing about online use.",
+      "states": [
+        "AK",
+        "AL",
+        "AR",
+        "AZ",
+        "CA",
+        "CO",
+        "CT",
+        "DC",
+        "DE",
+        "FL",
+        "GA",
+        "HI",
+        "IA",
+        "ID",
+        "IL",
+        "IN",
+        "KS",
+        "KY",
+        "LA",
+        "MA",
+        "MD",
+        "ME",
+        "MI",
+        "MN",
+        "MO",
+        "MS",
+        "MT",
+        "NC",
+        "ND",
+        "NE",
+        "NH",
+        "NJ",
+        "NM",
+        "NV",
+        "NY",
+        "OH",
+        "OK",
+        "OR",
+        "PA",
+        "SC",
+        "SD",
+        "TN",
+        "TX",
+        "UT",
+        "VA",
+        "VT",
+        "WA",
+        "WI"
+      ],
+      "banner_states": [],
+      "sources": [
+        {
+          "url": "https://www.instacart.com/ebt-snap",
+          "what": "Instacart EBT SNAP page (opened 22 Nov 2026) names Costco among participating retailers."
+        },
+        {
+          "url": "https://www.aol.com/finance/food-stamps-costco-16-more-164040424.html",
+          "what": "News (GOBankingRates via AOL, 2 Feb 2024): Instacart spokesperson says 'Costco will be accepting EBT SNAP via Instacart and through sameday.costco.com'. Used to fill the gap left by Costco's own pages."
+        },
+        {
+          "url": "https://customerservice.costco.com/app/answers/list/kw/EBT",
+          "what": "Costco customer service search for EBT (opened 22 Nov 2026): 'All our warehouse locations accept EBT cards'; no online statement."
+        },
+        {
+          "url": "https://www.costco.com/sitemaps/warehouses-by-state",
+          "what": "Costco warehouses by state (opened 22 Nov 2026): warehouses in 47 states; none in RI, WV or WY; DC not listed."
+        }
+      ],
+      "confidence": "medium",
+      "note": "No Costco-owned page says Same-Day takes EBT (sameday.costco.com help sits behind a sign-in/guest gate). DC is included because Same-Day delivers there from nearby MD/VA warehouses (USDA also lists Costco for DC). RI/WV/WY border addresses might get delivery but are excluded. Same-Day coverage in AK and HI not verified."
+    },
+    "whole_foods": {
+      "name": "Whole Foods Market",
+      "accepts_ebt_online": true,
+      "channels": "Delivery and pickup ordered through Amazon (amazon.com/wholefoods, the Whole Foods tab in the Amazon app, or wholefoodsmarket.com which hands off to Amazon)",
+      "limits": "Only SNAP-eligible products; SNAP cannot pay shipping, delivery or service fees. Not every in-store item is sold online.",
+      "states": [
+        "AL",
+        "AR",
+        "AZ",
+        "CA",
+        "CO",
+        "CT",
+        "DC",
+        "FL",
+        "GA",
+        "HI",
+        "IA",
+        "ID",
+        "IL",
+        "IN",
+        "KS",
+        "KY",
+        "LA",
+        "MA",
+        "MD",
+        "ME",
+        "MI",
+        "MN",
+        "MO",
+        "MS",
+        "MT",
+        "NC",
+        "NE",
+        "NH",
+        "NJ",
+        "NM",
+        "NV",
+        "NY",
+        "OH",
+        "OK",
+        "OR",
+        "PA",
+        "RI",
+        "SC",
+        "TN",
+        "TX",
+        "UT",
+        "VA",
+        "WA",
+        "WI",
+        "WY"
+      ],
+      "banner_states": [],
+      "sources": [
+        {
+          "url": "https://www.wholefoodsmarket.com/customer-service/topics/grocery-delivery-and-pickup",
+          "what": "Whole Foods FAQ (opened 22 Nov 2026): 'SNAP EBT payments are accepted for SNAP eligible products on delivery and pickup orders in U.S. Whole Foods Market locations'; links to Amazon SNAP page; fees not payable with SNAP."
+        },
+        {
+          "url": "https://www.aboutamazon.com/news/retail/snap-ebt-benefits-amazon",
+          "what": "Amazon newsroom: SNAP works for Whole Foods Market grocery delivery and pickup on Amazon."
+        },
+        {
+          "url": "https://www.tastingtable.com/1591009/states-without-whole-foods/",
+          "what": "Secondary footprint source (1 Jun 2024): only AK, DE, ND, SD, VT and WV have no Whole Foods."
+        },
+        {
+          "url": "https://financebuzz.com/news/cities-just-got-a-whole-foods-2",
+          "what": "Secondary (from search result, not opened; dated 19 Oct 2026): the same six states still lack a store."
+        }
+      ],
+      "confidence": "medium",
+      "note": "Acceptance is official. The footprint comes from secondary sources because the Whole Foods store locator has no state list readable without JavaScript. Single-store states (e.g. MT, MS, WY, ID, IA, ME) are the least certain."
+    },
+    "kroger": {
+      "name": "Kroger",
+      "accepts_ebt_online": true,
+      "channels": "kroger.com and the Kroger app: Pickup and Delivery (Kroger's own delivery or Instacart-fulfilled delivery booked through Kroger)",
+      "limits": "No SNAP for Ship (shipped) orders. SNAP cannot pay tips, delivery, ordering or convenience fees. SNAP is no longer taken at curbside; you must pay online at checkout. WIC is not accepted online.",
+      "states": [
+        "AL",
+        "AR",
+        "GA",
+        "IL",
+        "IN",
+        "KY",
+        "LA",
+        "MI",
+        "MO",
+        "MS",
+        "OH",
+        "SC",
+        "TN",
+        "TX",
+        "VA",
+        "WV"
+      ],
+      "banner_states": [
+        "AK",
+        "AZ",
+        "CA",
+        "CO",
+        "DC",
+        "DE",
+        "FL",
+        "ID",
+        "KS",
+        "MD",
+        "MT",
+        "NC",
+        "NE",
+        "NM",
+        "NV",
+        "OR",
+        "UT",
+        "WA",
+        "WI",
+        "WY"
+      ],
+      "sources": [
+        {
+          "url": "https://www.kroger.com/i/snap-ebt-faq",
+          "what": "Kroger SNAP EBT FAQ (opened 22 Nov 2026): 'The Kroger Co. Family of Stores accepts SNAP EBT at all participating pickup locations and through delivery on the Kroger website and Kroger mobile app'; 'we currently don't support SNAP EBT payment for ship orders'."
+        },
+        {
+          "url": "https://ir.kroger.com/news/news-details/2023/Kroger-Expands-Fresh-Food-Access-with-EBT-Payment-Acceptance-for-SNAP-Online-Grocery-Orders-Nationwide/default.aspx",
+          "what": "Kroger press release (25 Oct 2023): EBT 'enabled for Pickup and Delivery orders at every Kroger Family of Stores location'."
+        },
+        {
+          "url": "https://www.kroger.com/stores/grocery",
+          "what": "Kroger-banner store directory (opened 22 Nov 2026): 'Kroger has 1234 grocery stores in 16 states': AL, AR, GA, IL, IN, KY, LA, MI, MO, MS, OH, SC, TN, TX, VA, WV."
+        },
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/56873/000110465926037723/kr-20260131x10k.htm",
+          "what": "Kroger 10-K FY2025 (filed 31 Mar 2026): supermarkets 'under a variety of local banner names in 35 states and the District of Columbia'."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Kroger",
+          "what": "Last resort: Nov 2025 announcement closing Groveland FL, Pleasant Prairie WI and Frederick MD fulfillment centers and ending Kroger delivery in Florida."
+        }
+      ],
+      "confidence": "high",
+      "note": "The Kroger-named state list comes straight from Kroger's directory. banner_states (19 states plus DC) is 10-K total footprint minus the Kroger states, with banners mapped from general knowledge: Fred Meyer AK/ID/OR/WA, Fry's AZ, Ralphs/Food 4 Less CA, King Soopers/City Market CO/WY, Smith's NV/NM/UT/MT/ID/WY, Dillons KS, Baker's NE, Harris Teeter DE/DC/FL/MD/NC, Pick 'n Save/Metro Market WI. That mapping is medium confidence. Kroger-branded delivery in FL (Ocado) ended 2025 to 2026."
+    },
+    "safeway": {
+      "name": "Safeway",
+      "accepts_ebt_online": true,
+      "channels": "safeway.com and the Safeway app: delivery and Drive Up & Go pickup; also Safeway on the Instacart app",
+      "limits": "SNAP cannot pay delivery or service fees, tips or non-eligible items; a backup card is required. WIC is not accepted online. Only where the store offers delivery or Drive Up & Go.",
+      "states": [
+        "AK",
+        "AZ",
+        "CA",
+        "CO",
+        "DC",
+        "DE",
+        "HI",
+        "ID",
+        "MD",
+        "MT",
+        "NE",
+        "NM",
+        "NV",
+        "OR",
+        "SD",
+        "VA",
+        "WA",
+        "WY"
+      ],
+      "banner_states": [
+        "AR",
+        "CT",
+        "IA",
+        "IL",
+        "IN",
+        "LA",
+        "MA",
+        "ME",
+        "ND",
+        "NH",
+        "NJ",
+        "NY",
+        "OK",
+        "PA",
+        "RI",
+        "TX",
+        "UT",
+        "VT"
+      ],
+      "sources": [
+        {
+          "url": "https://www.safeway.com/shopping-guides/services-and-information/how-to-use-snap-ebt-at-safeway-in-store-online-and-drive-up-go-x1ejqp",
+          "what": "Safeway SNAP guide (updated Apr 2026; safeway.com returned HTTP 403 to automated access, so this is taken from a search-result summary): Safeway accepts SNAP EBT for delivery and Drive Up & Go wherever it offers those services."
+        },
+        {
+          "url": "https://www.albertsonscompanies.com/newsroom/press-releases/news-details/2022/Albertsons-Companies-Accepts-EBT-Payments-Online-for-SNAP-Benefits/default.aspx",
+          "what": "Albertsons Cos. press release (25 Jul 2022): EBT SNAP online via its websites and apps and its Instacart virtual stores, launched at Albertsons, Safeway, Jewel-Osco, Vons and Pavilions."
+        },
+        {
+          "url": "https://local.safeway.com/safeway.html",
+          "what": "Safeway store directory (fetched 22 Nov 2026): Safeway-banner stores in AK, AZ, CA, CO, DE, HI, ID, MD, MT, NE, NV, NM, OR, SD, VA, WA, WY and DC."
+        },
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/1646972/000164697226000032/aci-20260228.htm",
+          "what": "Albertsons Cos. 10-K FY2025 (as of 28 Feb 2026): 2,244 stores in 35 states plus DC, with per-state counts (basis for banner_states)."
+        },
+        {
+          "url": "https://www.instacart.com/ebt-snap",
+          "what": "Instacart EBT SNAP page marks Safeway stores 'Accepts EBT'."
+        }
+      ],
+      "confidence": "high",
+      "note": "Safeway's own SNAP pages block automated access, so the acceptance wording comes from a search snippet plus the 2022 Albertsons release. banner_states are states in the 10-K with no Safeway-banner store: e.g. Albertsons/Randalls/Tom Thumb TX, Jewel-Osco IL/IN/IA, ACME NJ/NY/PA/CT, Shaw's/Star Market New England, Albertsons AR/LA/ND/OK/UT."
+    },
+    "publix": {
+      "name": "Publix",
+      "accepts_ebt_online": true,
+      "channels": "Publix delivery and curbside pickup, fulfilled by Instacart (Publix site/app ordering hands off to Instacart; also the Instacart app)",
+      "limits": "Through Instacart only: SNAP and SUN Bucks yes, EBT Cash no. SNAP cannot pay fees, tips, taxes or deposits; a credit/debit card is required. Online prices are higher than in-store.",
+      "states": [
+        "AL",
+        "FL",
+        "GA",
+        "KY",
+        "NC",
+        "SC",
+        "TN",
+        "VA"
+      ],
+      "banner_states": [],
+      "sources": [
+        {
+          "url": "https://www.instacart.com/ebt-snap",
+          "what": "Instacart EBT SNAP page (opened 22 Nov 2026) names Publix among participating EBT SNAP retailers; EBT cash not accepted."
+        },
+        {
+          "url": "https://company.instacart.com/pressreleases/instacart-announces-expansion-of-ebt-snap-payment-to-three-new-retailers-for-same-day-grocery-delivery-and-pickup",
+          "what": "Instacart press release (Apr 2021, from search result): EBT SNAP live at Publix chainwide for delivery and pickup."
+        },
+        {
+          "url": "https://www.publix.com/faq/instacart",
+          "what": "Publix FAQ URL (opened 22 Nov 2026): automated access got Publix's generic page, which has no EBT wording but names the 8 states with stores (FL, GA, AL, SC, NC, TN, VA, KY). The Instacart delivery/pickup wording comes from a search-result snippet of this URL."
+        }
+      ],
+      "confidence": "medium",
+      "note": "No publix.com page found that itself states EBT is accepted online; acceptance rests on Instacart's pages. Kentucky (newest state) is not on USDA's list and its online availability was not separately checked."
+    },
+    "sprouts": {
+      "name": "Sprouts Farmers Market",
+      "accepts_ebt_online": true,
+      "channels": "shop.sprouts.com and the Sprouts app (Instacart-powered): pickup and delivery; also Sprouts on the Instacart app",
+      "limits": "No EBT Cash online. A credit/debit card must also be on the account for fees, bottle deposits, taxes, tips and non-eligible items. Holiday meals and catering bought with EBT must be paid in store.",
+      "states": [
+        "AL",
+        "AZ",
+        "CA",
+        "CO",
+        "DE",
+        "FL",
+        "GA",
+        "KS",
+        "LA",
+        "MD",
+        "MO",
+        "NC",
+        "NJ",
+        "NM",
+        "NV",
+        "NY",
+        "OK",
+        "PA",
+        "SC",
+        "TN",
+        "TX",
+        "UT",
+        "VA",
+        "WA",
+        "WY"
+      ],
+      "banner_states": [],
+      "sources": [
+        {
+          "url": "https://www.sprouts.com/faqs/page/5/",
+          "what": "Sprouts FAQ (opened 22 Nov 2026): 'Sprouts customers can pay for online orders with a valid EBT card, in full or in part in all Sprouts locations'; no EBT Cash online."
+        },
+        {
+          "url": "https://www.sprouts.com/stores/",
+          "what": "Sprouts store directory (opened 22 Nov 2026): stores in 25 states, including New York (2) and Wyoming (1)."
+        },
+        {
+          "url": "https://about.sprouts.com/press-release/sprouts-farmers-market-announces-launch-of-ebt-snap-acceptance-for-same-day-delivery-and-pickup-via-instacart/",
+          "what": "Sprouts press release (2022, from search result): EBT SNAP for same-day delivery and pickup via Instacart, then 23 states."
+        }
+      ],
+      "confidence": "high",
+      "note": "NY and WY are newer markets, added since the 2022 launch (23 states). The FAQ says all locations accept it, but online service at the newest stores was not separately checked."
+    },
+    "gopuff": {
+      "name": "Gopuff",
+      "accepts_ebt_online": true,
+      "channels": "Gopuff app (iOS/Android), gopuff.com, and the Gopuff Convenience store on Uber Eats: delivery only",
+      "limits": "SNAP-eligible items only, combined with another card for the rest. Not accepted on Gopuff Liquor & More storefronts in Uber Eats. Only where Gopuff has a nearby micro-fulfillment center (metro areas, not statewide).",
+      "states": [
+        "AL",
+        "AZ",
+        "CA",
+        "CO",
+        "CT",
+        "DC",
+        "DE",
+        "FL",
+        "GA",
+        "IA",
+        "IL",
+        "IN",
+        "KY",
+        "LA",
+        "MA",
+        "MD",
+        "ME",
+        "MI",
+        "MN",
+        "MO",
+        "NC",
+        "NE",
+        "NH",
+        "NJ",
+        "NV",
+        "NY",
+        "OH",
+        "OK",
+        "OR",
+        "PA",
+        "RI",
+        "SC",
+        "TN",
+        "TX",
+        "VA",
+        "WA",
+        "WI",
+        "WV"
+      ],
+      "banner_states": [],
+      "sources": [
+        {
+          "url": "https://www.gopuff.com/newsroom/community-impact/gopuff-becomes-first-instant-commerce-company-to-accept-snap-ebt-nationwide",
+          "what": "Gopuff newsroom (1 Nov 2024): SNAP accepted for eligible online purchases 'at Gopuff locations nationwide' across several hundred micro-fulfillment centers."
+        },
+        {
+          "url": "https://www.gopuff.com/newsroom/community-impact/gopuff-strong-snap-growth-expands-ebt-payment-options",
+          "what": "Gopuff newsroom (16 Jul 2025): SNAP on the website, apps and the Gopuff store on Uber Eats; not on Liquor & More storefronts."
+        },
+        {
+          "url": "https://gopuff.com/blog/news/where-does-gopuff-deliver",
+          "what": "Gopuff blog (30 Dec 2025): sample city links in AZ, CA, CO, FL, GA, IL, MD, MA, NV, NY, NC, PA, TN, TX, WA, DC; not a full list."
+        },
+        {
+          "url": "https://web.archive.org/web/20260514195804/https://www.fns.usda.gov/snap/snap-online-retailers/Alabama",
+          "what": "USDA FNS state retailer pages, Wayback snapshots Dec 2025 to May 2026 already saved in this repo (data/reference/usda_snap_online.csv and snapshots/; this URL is one example row, not refetched today). They list 'Go-Puff' in 37 states plus DC. Used as the state list because Gopuff publishes none."
+        }
+      ],
+      "confidence": "low",
+      "note": "Gopuff says 'nationwide' but publishes no state list, and its location directory sits behind a Cloudflare bot check. The states are USDA's Go-Puff listings, which agree with Gopuff's sample cities. Coverage is metro-only, so most of each state may be unserved."
+    }
+  }
+}

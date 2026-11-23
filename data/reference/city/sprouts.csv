@@ -1,0 +1,26 @@
+retailer,place,city,state,serves,nearest_store,source_url
+sprouts,al,Birmingham,AL,yes,"Hoover (5250 Medford Dr), about 12 mi; also Birmingham (5265 US Hwy 280), about 15 mi",https://www.sprouts.com/stores/al/
+sprouts,az,Phoenix,AZ,yes,"Phoenix (Glendale Ave store), about 7 mi",https://www.sprouts.com/stores/az/
+sprouts,ca,Los Angeles,CA,yes,"Los Angeles (Echo Park store), about 3 mi",https://www.sprouts.com/stores/ca/
+sprouts,co,Denver,CO,yes,"Denver (Colfax Ave store), about 3 mi",https://www.sprouts.com/stores/co/
+sprouts,de,Wilmington,DE,yes,"Wilmington (19803), about 5 mi",https://www.sprouts.com/stores/de/
+sprouts,fl,Miami,FL,yes,"Miami (Coconut Grove store), about 4 mi",https://www.sprouts.com/stores/fl/
+sprouts,ga,Atlanta,GA,yes,"Atlanta (Morningside store), about 4 mi",https://www.sprouts.com/stores/ga/
+sprouts,ks,Wichita,KS,no,"Edmond OK, about 150 mi; Kansas stores are only Overland Park, Lenexa and Lawrence (about 160 mi)",https://www.sprouts.com/stores/ks/
+sprouts,la,New Orleans,LA,no,"Baton Rouge (4841 Rouzan Square Ave), about 80 mi; only Louisiana store",https://www.sprouts.com/stores/la/
+sprouts,md,Baltimore,MD,yes,"Baltimore (21224), about 3 mi",https://www.sprouts.com/stores/md/
+sprouts,mo,St. Louis,MO,no,"Kansas City area (Lee's Summit), about 230 mi; Missouri stores are only Kansas City area",https://www.sprouts.com/stores/mo/
+sprouts,nc,Charlotte,NC,yes,"Charlotte (NoDa store), about 3 mi",https://www.sprouts.com/stores/nc/
+sprouts,nj,Newark,NJ,yes,"Avenel, Woodbridge (1002 St Georges Ave), about 12 mi; opened 3 Oct 2025",https://about.sprouts.com/press-release/sprouts-farmers-market-celebrates-new-store-opening-in-woodbridge-nj/
+sprouts,nm,Albuquerque,NM,yes,"Albuquerque (Lomas Blvd store), about 4 mi",https://www.sprouts.com/stores/nm/
+sprouts,nv,Las Vegas,NV,yes,"Las Vegas (Flamingo Rd store), about 5 mi",https://www.sprouts.com/stores/nv/
+sprouts,nyc,New York City,NY,unclear,"Hartsdale, Westchester (393 N Central Park Ave), about 20 mi from Midtown, opened 4 Sep 2026; also Avenel NJ, about 20 mi; no store in the five boroughs",https://massmarketretailers.com/sprouts-farmers-market-opens-new-store-in-hartsdale-new-york/
+sprouts,ok,Oklahoma City,OK,yes,"Oklahoma City (73116), about 5 mi",https://www.sprouts.com/stores/ok/
+sprouts,pa,Philadelphia,PA,yes,"Philadelphia (19146 store), about 2 mi",https://www.sprouts.com/stores/pa/
+sprouts,sc,Columbia,SC,no,"Augusta GA, about 75 mi; South Carolina stores are only Greenville and Simpsonville; Columbia store at 3818 Devine St announced for 2027",https://whatnow.com/charleston/retail/sprouts-farmers-market-to-make-columbia-debut-at-devine-crossing/
+sprouts,tn,Nashville,TN,yes,"Nashville (Nolensville store), about 6 mi",https://www.sprouts.com/stores/tn/
+sprouts,tx,Houston,TX,yes,"Houston (The Heights store), about 4 mi",https://www.sprouts.com/stores/tx/
+sprouts,ut,Salt Lake City,UT,yes,"Salt Lake City (84102), about 2 mi",https://www.sprouts.com/stores/ut/
+sprouts,va,Richmond,VA,no,"Manassas, about 90 mi; Virginia stores are only in Northern Virginia",https://www.sprouts.com/stores/va/
+sprouts,wa,Seattle,WA,yes,"Seattle (98133, Aurora Ave N), about 8 mi",https://www.sprouts.com/stores/wa/
+sprouts,wy,Cheyenne,WY,yes,"Cheyenne (5214 Rue Terre), about 4 mi; opened 22 Nov 2024",https://www.sprouts.com/stores/wy/

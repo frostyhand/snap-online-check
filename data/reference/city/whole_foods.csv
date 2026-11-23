@@ -1,0 +1,46 @@
+retailer,place,city,state,serves,nearest_store,source_url
+whole_foods,al,Birmingham,AL,yes,"Birmingham (Mountain Brook), 3100 Cahaba Village Plz, about 5 mi",https://www.wholefoodsmarket.com/stores/birmingham
+whole_foods,ar,Little Rock,AR,yes,"Little Rock (West Little Rock), 501 S Bowman Rd, about 10 mi",https://www.wholefoodsmarket.com/stores/bowman
+whole_foods,az,Phoenix,AZ,yes,"Phoenix (Camelback), 4701 N 20th St, about 5 mi",https://www.wholefoodsmarket.com/stores/camelback
+whole_foods,ca,Los Angeles,CA,yes,"Los Angeles (Downtown), 788 S Grand Ave, about 1 mi",https://www.wholefoodsmarket.com/stores/downtownlosangeles
+whole_foods,co,Denver,CO,yes,"Denver (Cherry Creek), 2375 E 1st Ave, about 3 mi",https://www.wholefoodsmarket.com/stores/cherrycreek
+whole_foods,ct,Hartford,CT,yes,"West Hartford, 50 Raymond Rd, about 4 mi",https://www.wholefoodsmarket.com/stores/westhartford
+whole_foods,dc,Washington,DC,yes,"Washington (Foggy Bottom), 2201 I St NW, about 2 mi",https://www.wholefoodsmarket.com/stores/foggybottom
+whole_foods,fl,Miami,FL,yes,"Miami (Downtown), 299 SE 3rd Ave, under 1 mi",https://www.wholefoodsmarket.com/stores/downtownmiami
+whole_foods,ga,Atlanta,GA,yes,"Atlanta (Midtown), 22 14th St NW, about 2 mi",https://www.wholefoodsmarket.com/stores/midtownatlanta
+whole_foods,hi,Honolulu,HI,yes,"Honolulu (Queen, Kakaako), 388 Kamakee St, about 1 mi",https://www.wholefoodsmarket.com/stores/queen
+whole_foods,ia,Des Moines,IA,yes,"West Des Moines, 4100 University Ave, about 6 mi",https://www.wholefoodsmarket.com/stores/westdesmoines
+whole_foods,id,Boise,ID,yes,"Boise (Downtown), 401 S Broadway Ave, under 1 mi",https://www.wholefoodsmarket.com/stores/boise
+whole_foods,il,Chicago,IL,yes,"Chicago (South Loop), 1101 S Canal St, about 1 mi",https://www.wholefoodsmarket.com/stores/southloop
+whole_foods,in,Indianapolis,IN,yes,"Indianapolis (86th St), 1300 E 86th St, about 10 mi",https://www.wholefoodsmarket.com/stores/eightysixthst
+whole_foods,ks,Wichita,KS,yes,"Wichita, 1423 N Webb Rd, about 7 mi",https://www.wholefoodsmarket.com/stores/wichita
+whole_foods,ky,Louisville,KY,yes,"Louisville (St. Matthews), 4944 Shelbyville Rd, about 6 mi",https://www.wholefoodsmarket.com/stores/louisville
+whole_foods,la,New Orleans,LA,yes,"New Orleans (Broad Street), 300 N Broad St, about 2 mi",https://www.wholefoodsmarket.com/stores/broadstreet
+whole_foods,ma,Boston,MA,yes,"Boston (Symphony), 15 Westland Ave, about 1.5 mi",https://www.wholefoodsmarket.com/stores/symphony
+whole_foods,md,Baltimore,MD,yes,"Baltimore (Harbor East), 711 S Central Ave, about 1 mi",https://www.wholefoodsmarket.com/stores/harboreast
+whole_foods,me,Portland,ME,yes,"Portland, 2 Somerset St, under 1 mi",https://www.wholefoodsmarket.com/stores/portland-me
+whole_foods,mi,Detroit,MI,yes,"Detroit (Midtown), 115 Mack Ave, about 1.5 mi",https://www.wholefoodsmarket.com/stores/detroit
+whole_foods,mn,Minneapolis,MN,yes,"Minneapolis (Uptown), 3060 Excelsior Blvd, about 3 mi",https://www.wholefoodsmarket.com/stores/uptownminneapolis
+whole_foods,mo,St. Louis,MO,yes,"Brentwood (Galleria), 1601 S Brentwood Blvd, about 9 mi",https://www.wholefoodsmarket.com/stores/st-louis
+whole_foods,ms,Jackson,MS,yes,"Jackson (Highland Village), 4500 I-55 N, about 5 mi; store still anchoring the centre at its July 2026 sale",https://rebusinessonline.com/newmark-arranges-sale-of-whole-foods-anchored-shopping-center-in-jackson/
+whole_foods,nc,Charlotte,NC,yes,"Charlotte (Sharon Road), 6610 Fairview Rd, about 7 mi",https://www.wholefoodsmarket.com/stores/charlotte
+whole_foods,ne,Omaha,NE,yes,"Omaha (Regency), 10020 Regency Cir, about 8 mi",https://www.wholefoodsmarket.com/stores/omaha
+whole_foods,nh,Manchester,NH,yes,"Bedford, 121 S River Rd, about 4 mi",https://www.wholefoodsmarket.com/stores/bedfordnewhampshire
+whole_foods,nj,Newark,NJ,yes,"Newark, 633 Broad St, under 1 mi",https://www.wholefoodsmarket.com/stores/newark
+whole_foods,nm,Albuquerque,NM,yes,"Albuquerque, 2100 Carlisle Blvd NE, about 4 mi",https://www.wholefoodsmarket.com/stores/albuquerque
+whole_foods,nv,Las Vegas,NV,yes,"Las Vegas (Tenaya), 7250 W Lake Mead Blvd, about 8 mi",https://www.wholefoodsmarket.com/stores/tenaya
+whole_foods,ny,Buffalo,NY,yes,"Amherst, 3139 Sheridan Dr, about 7 mi",https://www.wholefoodsmarket.com/stores/buffalo
+whole_foods,nyc,New York City,NY,yes,"Manhattan (Bryant Park), 1095 6th Ave, in city (many NYC stores)",https://www.wholefoodsmarket.com/stores/bryantpark
+whole_foods,oh,Columbus,OH,yes,"Upper Arlington (West Lane), 1555 W Lane Ave, about 5 mi",https://www.wholefoodsmarket.com/stores/upperarlington
+whole_foods,ok,Oklahoma City,OK,yes,"Oklahoma City, 6001 N Western Ave, about 6 mi",https://www.wholefoodsmarket.com/stores/oklahomacity
+whole_foods,or,Portland,OR,yes,"Portland (Pearl), 1210 NW Couch St, about 1 mi",https://www.wholefoodsmarket.com/stores/pearl
+whole_foods,pa,Philadelphia,PA,yes,"Philadelphia (Center City), 2101 Pennsylvania Ave, about 1 mi",https://www.wholefoodsmarket.com/stores/phillycentercity
+whole_foods,ri,Providence,RI,yes,"Providence, 261 Waterman St, about 1.5 mi",https://www.wholefoodsmarket.com/stores/providence
+whole_foods,sc,Columbia,SC,yes,"Columbia (Cross Hill), 702 Cross Hill Rd, about 3 mi",https://www.wholefoodsmarket.com/stores/columbia
+whole_foods,tn,Nashville,TN,yes,"Nashville (Green Hills), 4021 Hillsboro Pike, about 5 mi",https://www.wholefoodsmarket.com/stores/greenhills
+whole_foods,tx,Houston,TX,yes,"Houston (Kirby), 2955 Kirby Dr, about 4 mi",https://www.wholefoodsmarket.com/stores/kirby
+whole_foods,ut,Salt Lake City,UT,yes,"Salt Lake City (Sugar House), 1131 E Wilmington Ave, about 4 mi",https://www.wholefoodsmarket.com/stores/sugarhouse
+whole_foods,va,Richmond,VA,yes,"Richmond, 2024 W Broad St, about 1.5 mi",https://www.wholefoodsmarket.com/stores/richmond-va
+whole_foods,wa,Seattle,WA,yes,"Seattle (Interbay), 2001 15th Ave W, about 3 mi",https://www.wholefoodsmarket.com/stores/interbay
+whole_foods,wi,Milwaukee,WI,yes,"Milwaukee, 2305 N Prospect Ave, about 3 mi",https://www.wholefoodsmarket.com/stores/mlw
+whole_foods,wy,Cheyenne,WY,no,"Fort Collins CO, 2201 S College Ave, about 45 mi (only Wyoming store is Jackson WY, about 430 mi)",https://www.wholefoodsmarket.com/stores/fortcollins

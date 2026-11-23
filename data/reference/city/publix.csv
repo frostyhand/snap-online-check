@@ -1,0 +1,9 @@
+retailer,place,city,state,serves,nearest_store,source_url
+publix,al,Birmingham,AL,yes,"Birmingham (Marketplace at Birmingham Village and others in the city), about 3 mi",https://www.publix.com/locations/1060-the-marketplace-at-birmingham-village
+publix,fl,Miami,FL,yes,"Miami (Publix at Brickell Village and dozens more in the city), about 1 mi",https://www.publix.com/locations/581-publix-at-brickell-village
+publix,ga,Atlanta,GA,yes,"Atlanta (Publix at Summerhill and others in the city), about 1 mi",https://www.publix.com/locations/1825-publix-at-summerhill
+publix,ky,Louisville,KY,yes,"Louisville (Terra Crossing, Marshall Commons, Flat Rock in the east end), about 13 to 17 mi",https://www.publix.com/locations/1846-terra-crossing
+publix,nc,Charlotte,NC,yes,"Charlotte (several stores in the city, including Quail Commons), about 11 mi",https://corporate.publix.com/newsroom/news-stories/03122025---publix-opens-new-store-in-charlotte-north-carolina
+publix,sc,Columbia,SC,yes,"Columbia (Rosewood Shopping Center), about 2 mi",https://www.publix.com/locations/67-rosewood-shopping-center
+publix,tn,Nashville,TN,yes,"Nashville (Capitol View and Melrose), about 1 to 2 mi",https://www.publix.com/locations/1665-publix-at-melrose
+publix,va,Richmond,VA,yes,"Richmond (White Oak Village, Three Chopt Rd), about 6 mi",https://www.publix.com/locations/1596-white-oak-village

@@ -1,0 +1,520 @@
+run_id,place,page,retailer,truth,usda,verdict,outcome,city_serves,truth_final,final,confidence
+2026-11:tx:check:kroger,tx,Texas,kroger,yes,no,yes,correct,yes,yes,correct,high
+2026-11:sc:check:sprouts,sc,South Carolina,sprouts,yes,yes,no,false_no,no,no,correct,high
+2026-11:ma:check:whole_foods,ma,Massachusetts,whole_foods,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:tn:check:publix,tn,Tennessee,publix,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:mn:check:sprouts,mn,Minnesota,sprouts,no,no,no,correct,,no,correct,high
+2026-11:mn:check:aldi,mn,Minnesota,aldi,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:wi:check:walmart,wi,Wisconsin,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:oh:check:kroger,oh,Ohio,kroger,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:nd:check:costco,nd,North Dakota,costco,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:wi:check:amazon,wi,Wisconsin,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ms:check:publix,ms,Mississippi,publix,no,no,no,correct,,no,correct,medium
+2026-11:sc:check:amazon,sc,South Carolina,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ne:check:publix,ne,Nebraska,publix,no,no,no,correct,,no,correct,medium
+2026-11:id:check:aldi,id,Idaho,aldi,no,no,no,correct,,no,correct,high
+2026-11:ne:check:aldi,ne,Nebraska,aldi,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:va:check:costco,va,Virginia,costco,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:id:check:sprouts,id,Idaho,sprouts,no,no,no,correct,,no,correct,high
+2026-11:mo:check:walmart,mo,Missouri,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:al:check:costco,al,Alabama,costco,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:nd:check:kroger,nd,North Dakota,kroger,no,no,no,correct,,no,correct,high
+2026-11:ca:check:publix,ca,California,publix,no,no,no,correct,,no,correct,medium
+2026-11:hi:check:aldi,hi,Hawaii,aldi,no,no,no,correct,,no,correct,high
+2026-11:mi:check:costco,mi,Michigan,costco,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:nyc:check:gopuff,nyc,New York City,gopuff,yes,yes,yes,correct,,yes,correct,low
+2026-11:ia:check:gopuff,ia,Iowa,gopuff,yes,yes,yes,correct,,yes,correct,low
+2026-11:mt:check:walmart,mt,Montana,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:sc:check:aldi,sc,South Carolina,aldi,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:al:check:safeway,al,Alabama,safeway,no,no,no,correct,,no,correct,high
+2026-11:az:check:amazon,az,Arizona,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ma:check:amazon,ma,Massachusetts,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:me:check:safeway,me,Maine,safeway,banner,no,no,banner,,banner,banner,high
+2026-11:id:check:kroger,id,Idaho,kroger,banner,banner,yes,banner,,banner,banner,high
+2026-11:ky:check:publix,ky,Kentucky,publix,yes,no,yes,correct,yes,yes,correct,medium
+2026-11:va:check:kroger,va,Virginia,kroger,yes,no,yes,correct,yes,yes,correct,high
+2026-11:ak:check:safeway,ak,Alaska,safeway,yes,yes,yes,correct,no,no,false_yes,high
+2026-11:ak:check:publix,ak,Alaska,publix,no,no,no,correct,,no,correct,medium
+2026-11:or:check:costco,or,Oregon,costco,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:fl:check:publix,fl,Florida,publix,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:nyc:check:amazon,nyc,New York City,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ne:check:gopuff,ne,Nebraska,gopuff,yes,yes,yes,correct,,yes,correct,low
+2026-11:dc:check:gopuff,dc,District of Columbia,gopuff,yes,yes,yes,correct,,yes,correct,low
+2026-11:mi:check:safeway,mi,Michigan,safeway,no,no,no,correct,,no,correct,high
+2026-11:oh:check:publix,oh,Ohio,publix,no,no,no,correct,,no,correct,medium
+2026-11:wv:check:costco,wv,West Virginia,costco,no,no,no,correct,,no,correct,medium
+2026-11:nd:check:walmart,nd,North Dakota,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:nd:check:sprouts,nd,North Dakota,sprouts,no,no,no,correct,,no,correct,high
+2026-11:nh:check:walmart,nh,New Hampshire,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:in:check:walmart,in,Indiana,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:nm:check:amazon,nm,New Mexico,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:sd:check:publix,sd,South Dakota,publix,no,no,no,correct,,no,correct,medium
+2026-11:wv:check:sprouts,wv,West Virginia,sprouts,no,no,no,correct,,no,correct,high
+2026-11:nv:check:walmart,nv,Nevada,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ga:check:aldi,ga,Georgia,aldi,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:sc:check:walmart,sc,South Carolina,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:mn:check:costco,mn,Minnesota,costco,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:nj:check:publix,nj,New Jersey,publix,no,no,no,correct,,no,correct,medium
+2026-11:ms:check:gopuff,ms,Mississippi,gopuff,no,no,yes,false_yes,,no,false_yes,low
+2026-11:me:check:amazon,me,Maine,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:nyc:check:publix,nyc,New York City,publix,no,no,no,correct,,no,correct,medium
+2026-11:nh:check:kroger,nh,New Hampshire,kroger,no,no,no,correct,,no,correct,high
+2026-11:la:check:aldi,la,Louisiana,aldi,yes,no,yes,correct,yes,yes,correct,high
+2026-11:id:check:publix,id,Idaho,publix,no,no,no,correct,,no,correct,medium
+2026-11:va:check:amazon,va,Virginia,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:nj:check:kroger,nj,New Jersey,kroger,no,no,no,correct,,no,correct,high
+2026-11:il:check:sprouts,il,Illinois,sprouts,no,no,no,correct,,no,correct,high
+2026-11:de:check:amazon,de,Delaware,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:me:check:walmart,me,Maine,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:wv:check:gopuff,wv,West Virginia,gopuff,yes,yes,yes,correct,,yes,correct,low
+2026-11:pa:check:gopuff,pa,Pennsylvania,gopuff,yes,yes,yes,correct,,yes,correct,low
+2026-11:ny:check:amazon,ny,New York,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ga:check:safeway,ga,Georgia,safeway,no,no,no,correct,,no,correct,high
+2026-11:il:check:publix,il,Illinois,publix,no,no,no,correct,,no,correct,medium
+2026-11:nm:check:walmart,nm,New Mexico,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:md:check:publix,md,Maryland,publix,no,no,no,correct,,no,correct,medium
+2026-11:ct:check:whole_foods,ct,Connecticut,whole_foods,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:tn:check:kroger,tn,Tennessee,kroger,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:nyc:check:costco,nyc,New York City,costco,yes,yes,depends,hedged,yes,yes,hedged,medium
+2026-11:vt:check:whole_foods,vt,Vermont,whole_foods,no,no,yes,false_yes,,no,false_yes,medium
+2026-11:ks:check:walmart,ks,Kansas,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:nc:check:safeway,nc,North Carolina,safeway,no,no,no,correct,,no,correct,high
+2026-11:ms:check:costco,ms,Mississippi,costco,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:wi:check:gopuff,wi,Wisconsin,gopuff,yes,yes,yes,correct,,yes,correct,low
+2026-11:ny:check:aldi,ny,New York,aldi,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:tx:check:aldi,tx,Texas,aldi,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ny:check:publix,ny,New York,publix,no,no,no,correct,,no,correct,medium
+2026-11:az:check:whole_foods,az,Arizona,whole_foods,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:nm:check:gopuff,nm,New Mexico,gopuff,no,no,yes,false_yes,,no,false_yes,low
+2026-11:ca:check:kroger,ca,California,kroger,banner,banner,yes,banner,,banner,banner,high
+2026-11:ak:check:aldi,ak,Alaska,aldi,no,no,no,correct,,no,correct,high
+2026-11:ne:check:kroger,ne,Nebraska,kroger,banner,no,yes,banner,,banner,banner,high
+2026-11:la:check:kroger,la,Louisiana,kroger,yes,no,no,false_no,,no,correct,high
+2026-11:wa:check:gopuff,wa,Washington,gopuff,yes,yes,yes,correct,,yes,correct,low
+2026-11:mi:check:walmart,mi,Michigan,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:md:check:amazon,md,Maryland,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:nc:check:aldi,nc,North Carolina,aldi,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:va:check:gopuff,va,Virginia,gopuff,yes,yes,yes,correct,,yes,correct,low
+2026-11:ar:check:costco,ar,Arkansas,costco,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:nv:check:gopuff,nv,Nevada,gopuff,yes,yes,yes,correct,,yes,correct,low
+2026-11:sc:check:costco,sc,South Carolina,costco,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:nd:check:safeway,nd,North Dakota,safeway,banner,no,no,banner,,banner,banner,high
+2026-11:al:check:kroger,al,Alabama,kroger,yes,yes,yes,correct,unclear,unclear,unclear,high
+2026-11:wv:check:kroger,wv,West Virginia,kroger,yes,no,yes,correct,yes,yes,correct,high
+2026-11:sd:check:whole_foods,sd,South Dakota,whole_foods,no,no,no,correct,,no,correct,medium
+2026-11:de:check:gopuff,de,Delaware,gopuff,yes,yes,yes,correct,,yes,correct,low
+2026-11:mo:check:publix,mo,Missouri,publix,no,no,no,correct,,no,correct,medium
+2026-11:nj:check:whole_foods,nj,New Jersey,whole_foods,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:nd:check:whole_foods,nd,North Dakota,whole_foods,no,no,no,correct,,no,correct,medium
+2026-11:va:check:safeway,va,Virginia,safeway,yes,yes,no,false_no,,no,correct,high
+2026-11:ok:check:safeway,ok,Oklahoma,safeway,banner,no,no,banner,,banner,banner,high
+2026-11:mt:check:gopuff,mt,Montana,gopuff,no,no,yes,false_yes,,no,false_yes,low
+2026-11:oh:check:aldi,oh,Ohio,aldi,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:sc:check:safeway,sc,South Carolina,safeway,no,no,no,correct,,no,correct,high
+2026-11:nj:check:walmart,nj,New Jersey,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:al:check:publix,al,Alabama,publix,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:ne:check:amazon,ne,Nebraska,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ny:check:sprouts,ny,New York,sprouts,yes,no,no,false_no,,no,correct,high
+2026-11:nc:check:amazon,nc,North Carolina,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ca:check:aldi,ca,California,aldi,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ma:check:aldi,ma,Massachusetts,aldi,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:wa:check:costco,wa,Washington,costco,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:mo:check:safeway,mo,Missouri,safeway,no,no,no,correct,,no,correct,high
+2026-11:la:check:whole_foods,la,Louisiana,whole_foods,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:md:check:costco,md,Maryland,costco,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:hi:check:gopuff,hi,Hawaii,gopuff,no,no,no,correct,,no,correct,low
+2026-11:ga:check:amazon,ga,Georgia,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:nv:check:publix,nv,Nevada,publix,no,no,no,correct,,no,correct,medium
+2026-11:tn:check:aldi,tn,Tennessee,aldi,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ky:check:safeway,ky,Kentucky,safeway,no,no,no,correct,,no,correct,high
+2026-11:tn:check:sprouts,tn,Tennessee,sprouts,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:id:check:whole_foods,id,Idaho,whole_foods,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:co:check:publix,co,Colorado,publix,no,no,no,correct,,no,correct,medium
+2026-11:wa:check:walmart,wa,Washington,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:il:check:gopuff,il,Illinois,gopuff,yes,yes,yes,correct,,yes,correct,low
+2026-11:tn:check:costco,tn,Tennessee,costco,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:vt:check:costco,vt,Vermont,costco,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:pa:check:costco,pa,Pennsylvania,costco,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:sd:check:sprouts,sd,South Dakota,sprouts,no,no,no,correct,,no,correct,high
+2026-11:ut:check:walmart,ut,Utah,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:hi:check:whole_foods,hi,Hawaii,whole_foods,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:in:check:kroger,in,Indiana,kroger,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ri:check:amazon,ri,Rhode Island,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:fl:check:safeway,fl,Florida,safeway,no,no,no,correct,,no,correct,high
+2026-11:al:check:amazon,al,Alabama,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:nm:check:aldi,nm,New Mexico,aldi,no,no,no,correct,,no,correct,high
+2026-11:ma:check:kroger,ma,Massachusetts,kroger,no,no,no,correct,,no,correct,high
+2026-11:mn:check:safeway,mn,Minnesota,safeway,no,no,no,correct,,no,correct,high
+2026-11:co:check:aldi,co,Colorado,aldi,no,no,no,correct,,no,correct,high
+2026-11:ct:check:gopuff,ct,Connecticut,gopuff,yes,yes,yes,correct,,yes,correct,low
+2026-11:oh:check:gopuff,oh,Ohio,gopuff,yes,yes,yes,correct,,yes,correct,low
+2026-11:or:check:safeway,or,Oregon,safeway,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ny:check:kroger,ny,New York,kroger,no,no,no,correct,,no,correct,high
+2026-11:nm:check:costco,nm,New Mexico,costco,yes,yes,depends,hedged,yes,yes,hedged,medium
+2026-11:mt:check:publix,mt,Montana,publix,no,no,no,correct,,no,correct,medium
+2026-11:ma:check:sprouts,ma,Massachusetts,sprouts,no,no,no,correct,,no,correct,high
+2026-11:dc:check:kroger,dc,District of Columbia,kroger,banner,no,yes,banner,,banner,banner,high
+2026-11:nm:check:safeway,nm,New Mexico,safeway,yes,yes,no,false_no,,no,correct,high
+2026-11:il:check:safeway,il,Illinois,safeway,banner,no,no,banner,,banner,banner,high
+2026-11:mt:check:kroger,mt,Montana,kroger,banner,banner,no,banner,,banner,banner,high
+2026-11:al:check:aldi,al,Alabama,aldi,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:az:check:safeway,az,Arizona,safeway,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:sc:check:gopuff,sc,South Carolina,gopuff,yes,yes,yes,correct,,yes,correct,low
+2026-11:me:check:aldi,me,Maine,aldi,yes,no,yes,correct,yes,yes,correct,high
+2026-11:dc:check:sprouts,dc,District of Columbia,sprouts,no,no,yes,false_yes,,unclear,unclear,high
+2026-11:fl:check:aldi,fl,Florida,aldi,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:nj:check:sprouts,nj,New Jersey,sprouts,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ma:check:gopuff,ma,Massachusetts,gopuff,yes,yes,yes,correct,,yes,correct,low
+2026-11:al:check:whole_foods,al,Alabama,whole_foods,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:ct:check:amazon,ct,Connecticut,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:fl:check:amazon,fl,Florida,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:oh:check:whole_foods,oh,Ohio,whole_foods,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:de:check:publix,de,Delaware,publix,no,no,no,correct,,no,correct,medium
+2026-11:wi:check:kroger,wi,Wisconsin,kroger,banner,banner,yes,banner,,banner,banner,high
+2026-11:ny:check:whole_foods,ny,New York,whole_foods,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:de:check:whole_foods,de,Delaware,whole_foods,no,no,yes,false_yes,,unclear,unclear,medium
+2026-11:id:check:safeway,id,Idaho,safeway,yes,yes,no,false_no,no,no,correct,high
+2026-11:wa:check:publix,wa,Washington,publix,no,no,no,correct,,no,correct,medium
+2026-11:hi:check:walmart,hi,Hawaii,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ks:check:amazon,ks,Kansas,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ga:check:gopuff,ga,Georgia,gopuff,yes,yes,yes,correct,,yes,correct,low
+2026-11:tn:check:safeway,tn,Tennessee,safeway,no,no,no,correct,,no,correct,high
+2026-11:co:check:kroger,co,Colorado,kroger,banner,banner,yes,banner,,banner,banner,high
+2026-11:hi:check:sprouts,hi,Hawaii,sprouts,no,no,no,correct,,no,correct,high
+2026-11:co:check:costco,co,Colorado,costco,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:fl:check:gopuff,fl,Florida,gopuff,yes,yes,yes,correct,,yes,correct,low
+2026-11:wy:check:gopuff,wy,Wyoming,gopuff,no,no,no,correct,,no,correct,low
+2026-11:al:check:walmart,al,Alabama,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ky:check:kroger,ky,Kentucky,kroger,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ar:check:walmart,ar,Arkansas,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:in:check:publix,in,Indiana,publix,no,no,no,correct,,no,correct,medium
+2026-11:ak:check:kroger,ak,Alaska,kroger,banner,banner,yes,banner,,banner,banner,high
+2026-11:nyc:check:sprouts,nyc,New York City,sprouts,yes,no,yes,correct,unclear,unclear,unclear,high
+2026-11:nc:check:whole_foods,nc,North Carolina,whole_foods,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:fl:check:whole_foods,fl,Florida,whole_foods,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:ks:check:aldi,ks,Kansas,aldi,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:md:check:walmart,md,Maryland,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ky:check:whole_foods,ky,Kentucky,whole_foods,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:ia:check:amazon,ia,Iowa,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:az:check:costco,az,Arizona,costco,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:ca:check:gopuff,ca,California,gopuff,yes,yes,yes,correct,,yes,correct,low
+2026-11:ok:check:gopuff,ok,Oklahoma,gopuff,yes,yes,yes,correct,,yes,correct,low
+2026-11:va:check:walmart,va,Virginia,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:tx:check:costco,tx,Texas,costco,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:wv:check:amazon,wv,West Virginia,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ia:check:publix,ia,Iowa,publix,no,no,no,correct,,no,correct,medium
+2026-11:ut:check:publix,ut,Utah,publix,no,no,no,correct,,no,correct,medium
+2026-11:dc:check:amazon,dc,District of Columbia,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:la:check:amazon,la,Louisiana,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:de:check:safeway,de,Delaware,safeway,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ky:check:sprouts,ky,Kentucky,sprouts,no,no,no,correct,,no,correct,high
+2026-11:ar:check:sprouts,ar,Arkansas,sprouts,no,no,no,correct,,no,correct,high
+2026-11:vt:check:kroger,vt,Vermont,kroger,no,no,no,correct,,no,correct,high
+2026-11:sc:check:whole_foods,sc,South Carolina,whole_foods,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:tn:check:walmart,tn,Tennessee,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:mo:check:whole_foods,mo,Missouri,whole_foods,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:ri:check:sprouts,ri,Rhode Island,sprouts,no,no,no,correct,,no,correct,high
+2026-11:la:check:costco,la,Louisiana,costco,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:ne:check:whole_foods,ne,Nebraska,whole_foods,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:nv:check:sprouts,nv,Nevada,sprouts,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ut:check:safeway,ut,Utah,safeway,banner,banner,no,banner,,banner,banner,high
+2026-11:wa:check:amazon,wa,Washington,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:sc:check:publix,sc,South Carolina,publix,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:nc:check:publix,nc,North Carolina,publix,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:nh:check:gopuff,nh,New Hampshire,gopuff,yes,yes,yes,correct,,yes,correct,low
+2026-11:mo:check:gopuff,mo,Missouri,gopuff,yes,yes,yes,correct,,yes,correct,low
+2026-11:vt:check:sprouts,vt,Vermont,sprouts,no,no,no,correct,,no,correct,high
+2026-11:pa:check:amazon,pa,Pennsylvania,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:md:check:aldi,md,Maryland,aldi,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:az:check:gopuff,az,Arizona,gopuff,yes,yes,yes,correct,,yes,correct,low
+2026-11:pa:check:walmart,pa,Pennsylvania,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:nh:check:whole_foods,nh,New Hampshire,whole_foods,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:nyc:check:safeway,nyc,New York City,safeway,banner,no,no,banner,,banner,banner,high
+2026-11:sd:check:kroger,sd,South Dakota,kroger,no,no,no,correct,,no,correct,high
+2026-11:ak:check:walmart,ak,Alaska,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:wy:check:kroger,wy,Wyoming,kroger,banner,banner,yes,banner,,banner,banner,high
+2026-11:nyc:check:walmart,nyc,New York City,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:or:check:whole_foods,or,Oregon,whole_foods,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:nm:check:sprouts,nm,New Mexico,sprouts,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ok:check:sprouts,ok,Oklahoma,sprouts,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:de:check:sprouts,de,Delaware,sprouts,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ks:check:sprouts,ks,Kansas,sprouts,yes,yes,no,false_no,no,no,correct,high
+2026-11:ut:check:gopuff,ut,Utah,gopuff,no,no,yes,false_yes,,no,false_yes,low
+2026-11:dc:check:aldi,dc,District of Columbia,aldi,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:mo:check:costco,mo,Missouri,costco,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:ut:check:amazon,ut,Utah,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:pa:check:whole_foods,pa,Pennsylvania,whole_foods,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:ms:check:kroger,ms,Mississippi,kroger,yes,no,yes,correct,yes,yes,correct,high
+2026-11:ny:check:gopuff,ny,New York,gopuff,yes,yes,yes,correct,,yes,correct,low
+2026-11:nm:check:publix,nm,New Mexico,publix,no,no,no,correct,,no,correct,medium
+2026-11:la:check:gopuff,la,Louisiana,gopuff,yes,yes,yes,correct,,yes,correct,low
+2026-11:ut:check:sprouts,ut,Utah,sprouts,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:dc:check:whole_foods,dc,District of Columbia,whole_foods,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:nj:check:aldi,nj,New Jersey,aldi,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:nm:check:whole_foods,nm,New Mexico,whole_foods,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:ok:check:aldi,ok,Oklahoma,aldi,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:nv:check:whole_foods,nv,Nevada,whole_foods,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:vt:check:safeway,vt,Vermont,safeway,banner,no,no,banner,,banner,banner,high
+2026-11:wa:check:whole_foods,wa,Washington,whole_foods,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:wy:check:whole_foods,wy,Wyoming,whole_foods,yes,yes,yes,correct,no,no,false_yes,medium
+2026-11:ri:check:walmart,ri,Rhode Island,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ny:check:safeway,ny,New York,safeway,banner,no,no,banner,,banner,banner,high
+2026-11:mi:check:whole_foods,mi,Michigan,whole_foods,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:dc:check:costco,dc,District of Columbia,costco,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:ia:check:safeway,ia,Iowa,safeway,banner,no,no,banner,,banner,banner,high
+2026-11:tx:check:publix,tx,Texas,publix,no,no,no,correct,,no,correct,medium
+2026-11:co:check:amazon,co,Colorado,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ca:check:amazon,ca,California,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:mo:check:amazon,mo,Missouri,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:md:check:safeway,md,Maryland,safeway,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:nj:check:safeway,nj,New Jersey,safeway,banner,no,no,banner,,banner,banner,high
+2026-11:hi:check:amazon,hi,Hawaii,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ri:check:aldi,ri,Rhode Island,aldi,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:sc:check:kroger,sc,South Carolina,kroger,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ct:check:sprouts,ct,Connecticut,sprouts,no,no,no,correct,,no,correct,high
+2026-11:wy:check:walmart,wy,Wyoming,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:vt:check:publix,vt,Vermont,publix,no,no,no,correct,,no,correct,medium
+2026-11:ri:check:whole_foods,ri,Rhode Island,whole_foods,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:ak:check:costco,ak,Alaska,costco,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:ri:check:publix,ri,Rhode Island,publix,no,no,no,correct,,no,correct,medium
+2026-11:ct:check:safeway,ct,Connecticut,safeway,banner,no,no,banner,,banner,banner,high
+2026-11:va:check:sprouts,va,Virginia,sprouts,yes,yes,no,false_no,no,no,correct,high
+2026-11:wa:check:aldi,wa,Washington,aldi,no,no,no,correct,,no,correct,high
+2026-11:de:check:aldi,de,Delaware,aldi,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:hi:check:publix,hi,Hawaii,publix,no,no,no,correct,,no,correct,medium
+2026-11:ms:check:sprouts,ms,Mississippi,sprouts,no,no,no,correct,,no,correct,high
+2026-11:id:check:walmart,id,Idaho,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ok:check:whole_foods,ok,Oklahoma,whole_foods,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:sd:check:costco,sd,South Dakota,costco,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:nd:check:aldi,nd,North Dakota,aldi,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ca:check:sprouts,ca,California,sprouts,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ga:check:walmart,ga,Georgia,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:or:check:walmart,or,Oregon,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:il:check:whole_foods,il,Illinois,whole_foods,yes,no,yes,correct,yes,yes,correct,medium
+2026-11:id:check:costco,id,Idaho,costco,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:mn:check:kroger,mn,Minnesota,kroger,no,no,no,correct,,no,correct,high
+2026-11:az:check:walmart,az,Arizona,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ok:check:amazon,ok,Oklahoma,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ne:check:walmart,ne,Nebraska,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:or:check:gopuff,or,Oregon,gopuff,yes,yes,yes,correct,,yes,correct,low
+2026-11:fl:check:kroger,fl,Florida,kroger,banner,no,yes,banner,,banner,banner,high
+2026-11:tx:check:walmart,tx,Texas,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:wy:check:aldi,wy,Wyoming,aldi,no,no,no,correct,,no,correct,high
+2026-11:sd:check:safeway,sd,South Dakota,safeway,yes,yes,no,false_no,,no,correct,high
+2026-11:tn:check:amazon,tn,Tennessee,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:mo:check:kroger,mo,Missouri,kroger,yes,yes,yes,correct,no,no,false_yes,high
+2026-11:in:check:sprouts,in,Indiana,sprouts,no,no,no,correct,,no,correct,high
+2026-11:ia:check:aldi,ia,Iowa,aldi,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:or:check:kroger,or,Oregon,kroger,banner,banner,yes,banner,,banner,banner,high
+2026-11:pa:check:aldi,pa,Pennsylvania,aldi,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ms:check:safeway,ms,Mississippi,safeway,no,no,no,correct,,no,correct,high
+2026-11:ar:check:amazon,ar,Arkansas,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:mi:check:kroger,mi,Michigan,kroger,yes,no,yes,correct,yes,yes,correct,high
+2026-11:tx:check:amazon,tx,Texas,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:mn:check:gopuff,mn,Minnesota,gopuff,yes,yes,yes,correct,,yes,correct,low
+2026-11:nj:check:amazon,nj,New Jersey,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:me:check:publix,me,Maine,publix,no,no,no,correct,,no,correct,medium
+2026-11:nj:check:gopuff,nj,New Jersey,gopuff,yes,yes,yes,correct,,yes,correct,low
+2026-11:ms:check:aldi,ms,Mississippi,aldi,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ia:check:walmart,ia,Iowa,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:dc:check:safeway,dc,District of Columbia,safeway,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ut:check:aldi,ut,Utah,aldi,no,no,no,correct,,no,correct,high
+2026-11:de:check:walmart,de,Delaware,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:in:check:safeway,in,Indiana,safeway,banner,no,no,banner,,banner,banner,high
+2026-11:nd:check:publix,nd,North Dakota,publix,no,no,no,correct,,no,correct,medium
+2026-11:nv:check:costco,nv,Nevada,costco,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:ny:check:costco,ny,New York,costco,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:wy:check:safeway,wy,Wyoming,safeway,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:mi:check:sprouts,mi,Michigan,sprouts,no,no,no,correct,,no,correct,high
+2026-11:oh:check:sprouts,oh,Ohio,sprouts,no,no,no,correct,,no,correct,high
+2026-11:wi:check:sprouts,wi,Wisconsin,sprouts,no,no,no,correct,,no,correct,high
+2026-11:id:check:gopuff,id,Idaho,gopuff,no,no,yes,false_yes,,no,false_yes,low
+2026-11:de:check:costco,de,Delaware,costco,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:ct:check:walmart,ct,Connecticut,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:wa:check:kroger,wa,Washington,kroger,banner,banner,yes,banner,,banner,banner,high
+2026-11:nh:check:publix,nh,New Hampshire,publix,no,no,no,correct,,no,correct,medium
+2026-11:ar:check:whole_foods,ar,Arkansas,whole_foods,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:ms:check:amazon,ms,Mississippi,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:mi:check:publix,mi,Michigan,publix,no,no,no,correct,,no,correct,medium
+2026-11:co:check:sprouts,co,Colorado,sprouts,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ar:check:aldi,ar,Arkansas,aldi,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:or:check:sprouts,or,Oregon,sprouts,no,no,yes,false_yes,,no,false_yes,high
+2026-11:fl:check:walmart,fl,Florida,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:wv:check:aldi,wv,West Virginia,aldi,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:id:check:amazon,id,Idaho,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ar:check:gopuff,ar,Arkansas,gopuff,no,no,yes,false_yes,,no,false_yes,low
+2026-11:mt:check:whole_foods,mt,Montana,whole_foods,yes,no,no,false_no,,no,correct,medium
+2026-11:al:check:sprouts,al,Alabama,sprouts,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:il:check:costco,il,Illinois,costco,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:or:check:publix,or,Oregon,publix,no,no,no,correct,,no,correct,medium
+2026-11:mn:check:whole_foods,mn,Minnesota,whole_foods,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:ut:check:costco,ut,Utah,costco,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:ne:check:safeway,ne,Nebraska,safeway,yes,yes,no,false_no,,no,correct,high
+2026-11:nc:check:kroger,nc,North Carolina,kroger,banner,banner,yes,banner,,banner,banner,high
+2026-11:ky:check:amazon,ky,Kentucky,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:pa:check:publix,pa,Pennsylvania,publix,no,no,no,correct,,no,correct,medium
+2026-11:ga:check:kroger,ga,Georgia,kroger,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ky:check:costco,ky,Kentucky,costco,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:nd:check:amazon,nd,North Dakota,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:in:check:aldi,in,Indiana,aldi,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ky:check:walmart,ky,Kentucky,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ms:check:walmart,ms,Mississippi,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ar:check:safeway,ar,Arkansas,safeway,banner,banner,no,banner,,banner,banner,high
+2026-11:sd:check:walmart,sd,South Dakota,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ca:check:whole_foods,ca,California,whole_foods,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:ak:check:gopuff,ak,Alaska,gopuff,no,no,no,correct,,no,correct,low
+2026-11:wy:check:amazon,wy,Wyoming,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:or:check:aldi,or,Oregon,aldi,no,no,no,correct,,no,correct,high
+2026-11:tx:check:safeway,tx,Texas,safeway,banner,banner,no,banner,,banner,banner,high
+2026-11:sd:check:aldi,sd,South Dakota,aldi,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:va:check:whole_foods,va,Virginia,whole_foods,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:nv:check:aldi,nv,Nevada,aldi,yes,no,yes,correct,yes,yes,correct,high
+2026-11:mt:check:amazon,mt,Montana,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ri:check:safeway,ri,Rhode Island,safeway,banner,no,no,banner,,banner,banner,high
+2026-11:ia:check:kroger,ia,Iowa,kroger,no,no,no,correct,,no,correct,high
+2026-11:co:check:whole_foods,co,Colorado,whole_foods,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:mt:check:aldi,mt,Montana,aldi,no,no,no,correct,,no,correct,high
+2026-11:oh:check:amazon,oh,Ohio,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:mn:check:walmart,mn,Minnesota,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:or:check:amazon,or,Oregon,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:mn:check:publix,mn,Minnesota,publix,no,no,no,correct,,no,correct,medium
+2026-11:nv:check:kroger,nv,Nevada,kroger,banner,banner,yes,banner,,banner,banner,high
+2026-11:me:check:sprouts,me,Maine,sprouts,no,no,no,correct,,no,correct,high
+2026-11:ks:check:publix,ks,Kansas,publix,no,no,no,correct,,no,correct,medium
+2026-11:il:check:amazon,il,Illinois,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:va:check:aldi,va,Virginia,aldi,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:md:check:gopuff,md,Maryland,gopuff,yes,yes,yes,correct,,yes,correct,low
+2026-11:nc:check:costco,nc,North Carolina,costco,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:md:check:whole_foods,md,Maryland,whole_foods,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:wy:check:costco,wy,Wyoming,costco,no,no,no,correct,,no,correct,medium
+2026-11:ga:check:publix,ga,Georgia,publix,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:ar:check:kroger,ar,Arkansas,kroger,yes,banner,yes,correct,yes,yes,correct,high
+2026-11:nyc:check:whole_foods,nyc,New York City,whole_foods,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:nh:check:aldi,nh,New Hampshire,aldi,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:de:check:kroger,de,Delaware,kroger,banner,no,no,banner,,banner,banner,high
+2026-11:ma:check:safeway,ma,Massachusetts,safeway,banner,no,no,banner,,banner,banner,high
+2026-11:nv:check:amazon,nv,Nevada,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:fl:check:sprouts,fl,Florida,sprouts,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:il:check:aldi,il,Illinois,aldi,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ct:check:costco,ct,Connecticut,costco,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:ne:check:costco,ne,Nebraska,costco,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:ky:check:aldi,ky,Kentucky,aldi,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ga:check:costco,ga,Georgia,costco,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:ks:check:safeway,ks,Kansas,safeway,no,no,no,correct,,no,correct,high
+2026-11:nh:check:safeway,nh,New Hampshire,safeway,banner,no,no,banner,,banner,banner,high
+2026-11:ma:check:publix,ma,Massachusetts,publix,no,no,no,correct,,no,correct,medium
+2026-11:ks:check:gopuff,ks,Kansas,gopuff,no,no,yes,false_yes,,no,false_yes,low
+2026-11:va:check:publix,va,Virginia,publix,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:sd:check:gopuff,sd,South Dakota,gopuff,no,no,no,correct,,no,correct,low
+2026-11:nh:check:costco,nh,New Hampshire,costco,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:pa:check:sprouts,pa,Pennsylvania,sprouts,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ri:check:kroger,ri,Rhode Island,kroger,no,no,no,correct,,no,correct,high
+2026-11:ct:check:kroger,ct,Connecticut,kroger,no,no,no,correct,,no,correct,high
+2026-11:wi:check:whole_foods,wi,Wisconsin,whole_foods,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:wv:check:safeway,wv,West Virginia,safeway,no,no,no,correct,,no,correct,high
+2026-11:mi:check:amazon,mi,Michigan,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:tx:check:gopuff,tx,Texas,gopuff,yes,yes,yes,correct,,yes,correct,low
+2026-11:hi:check:costco,hi,Hawaii,costco,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:in:check:amazon,in,Indiana,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:oh:check:walmart,oh,Ohio,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ia:check:whole_foods,ia,Iowa,whole_foods,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:wi:check:costco,wi,Wisconsin,costco,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:co:check:safeway,co,Colorado,safeway,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ca:check:costco,ca,California,costco,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:wi:check:aldi,wi,Wisconsin,aldi,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ks:check:costco,ks,Kansas,costco,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:vt:check:amazon,vt,Vermont,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ma:check:costco,ma,Massachusetts,costco,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:me:check:kroger,me,Maine,kroger,no,no,no,correct,,no,correct,high
+2026-11:ky:check:gopuff,ky,Kentucky,gopuff,yes,yes,yes,correct,,yes,correct,low
+2026-11:md:check:kroger,md,Maryland,kroger,banner,no,no,banner,,banner,banner,high
+2026-11:ia:check:sprouts,ia,Iowa,sprouts,no,no,no,correct,,no,correct,high
+2026-11:nj:check:costco,nj,New Jersey,costco,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:ok:check:walmart,ok,Oklahoma,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ks:check:kroger,ks,Kansas,kroger,banner,banner,yes,banner,,banner,banner,high
+2026-11:in:check:whole_foods,in,Indiana,whole_foods,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:nh:check:sprouts,nh,New Hampshire,sprouts,no,no,no,correct,,no,correct,high
+2026-11:me:check:costco,me,Maine,costco,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:mo:check:aldi,mo,Missouri,aldi,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:oh:check:safeway,oh,Ohio,safeway,no,no,no,correct,,no,correct,high
+2026-11:az:check:kroger,az,Arizona,kroger,banner,banner,yes,banner,,banner,banner,high
+2026-11:il:check:walmart,il,Illinois,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:nc:check:walmart,nc,North Carolina,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:pa:check:kroger,pa,Pennsylvania,kroger,no,no,no,correct,,no,correct,high
+2026-11:ca:check:safeway,ca,California,safeway,yes,yes,no,false_no,,no,correct,high
+2026-11:tx:check:sprouts,tx,Texas,sprouts,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ak:check:whole_foods,ak,Alaska,whole_foods,no,no,no,correct,,no,correct,medium
+2026-11:wa:check:sprouts,wa,Washington,sprouts,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:nd:check:gopuff,nd,North Dakota,gopuff,no,no,no,correct,,no,correct,low
+2026-11:ct:check:publix,ct,Connecticut,publix,no,no,no,correct,,no,correct,medium
+2026-11:md:check:sprouts,md,Maryland,sprouts,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:mi:check:gopuff,mi,Michigan,gopuff,yes,yes,yes,correct,,yes,correct,low
+2026-11:nm:check:kroger,nm,New Mexico,kroger,banner,banner,yes,banner,,banner,banner,high
+2026-11:wa:check:safeway,wa,Washington,safeway,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:il:check:kroger,il,Illinois,kroger,yes,yes,yes,correct,no,no,false_yes,high
+2026-11:sd:check:amazon,sd,South Dakota,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ga:check:sprouts,ga,Georgia,sprouts,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ri:check:costco,ri,Rhode Island,costco,no,no,yes,false_yes,,unclear,unclear,medium
+2026-11:ok:check:costco,ok,Oklahoma,costco,yes,yes,no,false_no,,no,correct,medium
+2026-11:la:check:walmart,la,Louisiana,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:me:check:whole_foods,me,Maine,whole_foods,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:in:check:costco,in,Indiana,costco,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:ak:check:amazon,ak,Alaska,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ks:check:whole_foods,ks,Kansas,whole_foods,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:nc:check:sprouts,nc,North Carolina,sprouts,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:wv:check:walmart,wv,West Virginia,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:wi:check:safeway,wi,Wisconsin,safeway,no,no,no,correct,,no,correct,high
+2026-11:oh:check:costco,oh,Ohio,costco,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:mo:check:sprouts,mo,Missouri,sprouts,yes,yes,no,false_no,no,no,correct,high
+2026-11:pa:check:safeway,pa,Pennsylvania,safeway,banner,no,no,banner,,banner,banner,high
+2026-11:mt:check:safeway,mt,Montana,safeway,yes,yes,no,false_no,,no,correct,high
+2026-11:ok:check:publix,ok,Oklahoma,publix,no,no,no,correct,,no,correct,medium
+2026-11:ca:check:walmart,ca,California,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:hi:check:safeway,hi,Hawaii,safeway,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ri:check:gopuff,ri,Rhode Island,gopuff,yes,yes,yes,correct,,yes,correct,low
+2026-11:ut:check:whole_foods,ut,Utah,whole_foods,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:ar:check:publix,ar,Arkansas,publix,no,no,no,correct,,no,correct,medium
+2026-11:wy:check:sprouts,wy,Wyoming,sprouts,yes,no,yes,correct,yes,yes,correct,high
+2026-11:ma:check:walmart,ma,Massachusetts,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:tn:check:whole_foods,tn,Tennessee,whole_foods,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:wv:check:publix,wv,West Virginia,publix,no,no,no,correct,,no,correct,medium
+2026-11:mt:check:costco,mt,Montana,costco,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:mn:check:amazon,mn,Minnesota,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:vt:check:walmart,vt,Vermont,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ok:check:kroger,ok,Oklahoma,kroger,no,no,no,correct,,no,correct,high
+2026-11:tn:check:gopuff,tn,Tennessee,gopuff,yes,yes,yes,correct,,yes,correct,low
+2026-11:la:check:sprouts,la,Louisiana,sprouts,yes,yes,no,false_no,no,no,correct,high
+2026-11:me:check:gopuff,me,Maine,gopuff,yes,yes,yes,correct,,yes,correct,low
+2026-11:co:check:walmart,co,Colorado,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ny:check:walmart,ny,New York,walmart,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:nv:check:safeway,nv,Nevada,safeway,yes,yes,no,false_no,,no,correct,high
+2026-11:al:check:gopuff,al,Alabama,gopuff,yes,yes,yes,correct,,yes,correct,low
+2026-11:ak:check:sprouts,ak,Alaska,sprouts,no,no,no,correct,,no,correct,high
+2026-11:nyc:check:aldi,nyc,New York City,aldi,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ga:check:whole_foods,ga,Georgia,whole_foods,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:ne:check:sprouts,ne,Nebraska,sprouts,no,no,no,correct,,no,correct,high
+2026-11:wv:check:whole_foods,wv,West Virginia,whole_foods,no,no,no,correct,,no,correct,medium
+2026-11:nyc:check:kroger,nyc,New York City,kroger,no,no,no,correct,,no,correct,high
+2026-11:fl:check:costco,fl,Florida,costco,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:vt:check:aldi,vt,Vermont,aldi,yes,yes,yes,correct,no,no,false_yes,high
+2026-11:ut:check:kroger,ut,Utah,kroger,banner,banner,yes,banner,,banner,banner,high
+2026-11:wy:check:publix,wy,Wyoming,publix,no,no,no,correct,,no,correct,medium
+2026-11:mt:check:sprouts,mt,Montana,sprouts,no,no,no,correct,,no,correct,high
+2026-11:co:check:gopuff,co,Colorado,gopuff,yes,yes,yes,correct,,yes,correct,low
+2026-11:dc:check:walmart,dc,District of Columbia,walmart,yes,no,yes,correct,yes,yes,correct,high
+2026-11:la:check:publix,la,Louisiana,publix,no,no,no,correct,,no,correct,medium
+2026-11:nh:check:amazon,nh,New Hampshire,amazon,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:tx:check:whole_foods,tx,Texas,whole_foods,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:wi:check:publix,wi,Wisconsin,publix,no,no,no,correct,,no,correct,medium
+2026-11:ms:check:whole_foods,ms,Mississippi,whole_foods,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:az:check:aldi,az,Arizona,aldi,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:ia:check:costco,ia,Iowa,costco,yes,yes,yes,correct,yes,yes,correct,medium
+2026-11:az:check:sprouts,az,Arizona,sprouts,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:dc:check:publix,dc,District of Columbia,publix,no,no,no,correct,,no,correct,medium
+2026-11:mi:check:aldi,mi,Michigan,aldi,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:hi:check:kroger,hi,Hawaii,kroger,no,no,no,correct,,no,correct,high
+2026-11:vt:check:gopuff,vt,Vermont,gopuff,no,no,yes,false_yes,,no,false_yes,low
+2026-11:in:check:gopuff,in,Indiana,gopuff,yes,yes,yes,correct,,yes,correct,low
+2026-11:nc:check:gopuff,nc,North Carolina,gopuff,yes,yes,yes,correct,,yes,correct,low
+2026-11:ct:check:aldi,ct,Connecticut,aldi,yes,yes,yes,correct,yes,yes,correct,high
+2026-11:la:check:safeway,la,Louisiana,safeway,banner,banner,no,banner,,banner,banner,high

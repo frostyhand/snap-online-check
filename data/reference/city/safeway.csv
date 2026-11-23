@@ -1,0 +1,12 @@
+retailer,place,city,state,serves,nearest_store,source_url
+safeway,ak,Anchorage,AK,no,"No Safeway-branded store in Anchorage (local stores are the Carrs banner); nearest Safeway is Seward, 1907 Seward Hwy, about 125 road mi",https://local.safeway.com/safeway/ak.html
+safeway,az,Phoenix,AZ,yes,"Phoenix, several stores in city, under 10 mi",https://local.safeway.com/safeway/az.html
+safeway,co,Denver,CO,yes,"Denver, several stores in city, under 10 mi",https://local.safeway.com/safeway/co.html
+safeway,dc,Washington,DC,yes,"Washington, 11 stores in city (e.g. 1100 4th St SW), under 5 mi",https://local.safeway.com/safeway/dc/washington.html
+safeway,de,Wilmington,DE,yes,"Newark DE, 2400 Peoples Plaza, about 14 mi; store lists delivery and DriveUp and Go",https://local.safeway.com/safeway/de/newark.html
+safeway,hi,Honolulu,HI,yes,"Honolulu, stores in city, under 5 mi",https://local.safeway.com/safeway/hi.html
+safeway,id,Boise,ID,no,"No Safeway-branded store in southern Idaho (Idaho stores are in the Panhandle, Moscow about 300 mi); nearest is La Grande OR, about 170 road mi",https://local.safeway.com/safeway/id.html
+safeway,md,Baltimore,MD,yes,"Baltimore, 5 stores in city (e.g. 2401 N Charles St), under 5 mi",https://local.safeway.com/safeway/md/baltimore.html
+safeway,or,Portland,OR,yes,"Portland, stores in city, under 5 mi",https://local.safeway.com/safeway/or.html
+safeway,wa,Seattle,WA,yes,"Seattle, stores in city, under 5 mi",https://local.safeway.com/safeway/wa.html
+safeway,wy,Cheyenne,WY,yes,"Cheyenne, 700 S Greeley Hwy, about 2 mi",https://local.safeway.com/safeway/wy.html

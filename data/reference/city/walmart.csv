@@ -1,0 +1,53 @@
+retailer,place,city,state,serves,nearest_store,source_url
+walmart,ak,Anchorage,AK,yes,"Anchorage, Walmart Supercenter 3101 A St (#2070), about 2 miles; two more Anchorage Supercenters list pickup and delivery",https://www.walmart.com/store/2070
+walmart,al,Birmingham,AL,yes,"Birmingham, Walmart Supercenter 1600 Montclair Rd (#1711), about 5 miles",https://www.walmart.com/store/1711
+walmart,ar,Little Rock,AR,yes,"North Little Rock Supercenter (#4460), about 6 miles; several Little Rock Supercenters also list pickup and delivery",https://www.walmart.com/store/4460-north-little%20rock-ar/shopping-services
+walmart,az,Phoenix,AZ,yes,"Phoenix, Walmart Supercenter 3721 E Thomas Rd (#2515), about 5 miles",https://www.walmart.com/store/2515-phoenix-az/shopping-services
+walmart,ca,Los Angeles,CA,yes,"Panorama City (Los Angeles), Walmart 8333 Van Nuys Blvd (#2568), about 18 miles; Burbank and Paramount stores are nearer, about 12 to 13 miles",https://www.walmart.com/store/2568-panorama-city-ca/home-services
+walmart,co,Denver,CO,yes,"Denver, several Walmart Supercenters inside the city (Smith Rd, E Hampden Ave, W Evans Ave), under 10 miles",https://www.walmart.com/store/3533-denver-co
+walmart,ct,Hartford,CT,yes,"Hartford, Walmart Supercenter 495 Flatbush Ave, about 2 miles (CT DSS list marks pickup and delivery)",https://portal.ct.gov/-/media/Departments-and-Agencies/DSS/Communications/Walmart-Participating.pdf
+walmart,dc,Washington,DC,yes,"Washington, Walmart Supercenters at 310 Riggs Rd NE and 5929 Georgia Ave NW, about 5 to 6 miles; H Street store closed 2023",https://www.walmart.com/store/5968-washington-dc
+walmart,de,Wilmington,DE,yes,"Wilmington, Walmart 1251 Centerville Rd (#5436), about 5 miles",https://www.walmart.com/store/5436
+walmart,fl,Miami,FL,yes,"Miami, Walmart Supercenter 8400 Coral Way (#5854), about 8 miles",https://www.walmart.com/store/5854
+walmart,ga,Atlanta,GA,yes,"Atlanta, Walmart store #3741 (30314), about 3 miles; several other Atlanta stores list pickup and delivery",https://www.walmart.com/store/3741-atlanta-ga
+walmart,hi,Honolulu,HI,yes,"Honolulu, Walmart 700 Keeaumoku St (#3478), about 2 miles; store page lists grocery pickup and delivery (discount store format, not a Supercenter)",https://www.walmart.com/store/3478-honolulu-hi
+walmart,ia,Des Moines,IA,yes,"Des Moines, Walmart Supercenter 5101 SE 14th St (#1723), about 4 miles",https://www.walmart.com/store/1723
+walmart,id,Boise,ID,yes,"Boise, Walmart Supercenter 8300 W Overland Rd (#2508), about 6 miles",https://www.walmart.com/store/2508
+walmart,il,Chicago,IL,yes,"Chicago, Walmart Supercenter 4626 W Diversey Ave (#5617), about 9 miles",https://www.walmart.com/store/5617
+walmart,in,Indianapolis,IN,yes,"Indianapolis, Walmart Supercenter 4650 S Emerson Ave (#5443), about 7 miles",https://www.walmart.com/store/5443
+walmart,ks,Wichita,KS,yes,"Wichita, Walmart Supercenter 501 E Pawnee St (#1099), about 3 miles",https://www.walmart.com/store/1099
+walmart,ky,Louisville,KY,yes,"Louisville, Walmart Supercenter 2020 Bashford Manor Ln (#5418), about 6 miles",https://www.walmart.com/store/5418
+walmart,la,New Orleans,LA,yes,"New Orleans, Walmart Supercenter 1901 Tchoupitoulas St (#5022), about 1 mile",https://www.walmart.com/store/5022-new-orleans-la
+walmart,ma,Boston,MA,yes,"Quincy, Walmart 301 Falls Blvd (#2341), about 9 miles; no store inside Boston",https://www.walmart.com/store/2341
+walmart,md,Baltimore,MD,yes,"Baltimore, Walmart Supercenter (#3481), under 10 miles; Dundalk, Glen Burnie and Catonsville also nearby",https://www.walmart.com/store/3481-baltimore-md
+walmart,me,Portland,ME,yes,"Falmouth, Walmart 206 US Route 1 (#2659), about 6 miles; Scarborough Supercenter (#1788) about 7 miles",https://www.walmart.com/store/2659
+walmart,mi,Detroit,MI,yes,"Warren, Walmart Supercenter 29176 Van Dyke Ave (#4424), about 13 miles; other suburban Supercenters nearby",https://www.walmart.com/store/4424-warren-mi/shopping-services
+walmart,mn,Minneapolis,MN,yes,"West St. Paul, Walmart Supercenter 1644 Robert St S (#3364), about 11 miles; Bloomington Supercenter (#2198) about 10 miles",https://www.walmart.com/store/3364
+walmart,mo,St. Louis,MO,yes,"St. Louis, Walmart Supercenter 3270 Telegraph Rd (#2213), about 10 miles",https://www.walmart.com/store/2213
+walmart,ms,Jackson,MS,yes,"Jackson, Walmart Supercenter 2711 Greenway Dr (#903), about 5 miles",https://www.walmart.com/store/903
+walmart,mt,Billings,MT,yes,"Billings, Walmart Supercenter 2525 King Ave W (#1956), about 4 miles",https://www.walmart.com/store/1956-billings-mt/shopping-services
+walmart,nc,Charlotte,NC,yes,"Charlotte, several Walmart stores inside the city (for example #2134, #5879), under 10 miles",https://www.walmart.com/store/2134
+walmart,nd,Fargo,ND,yes,"Fargo, Walmart Supercenter 4731 13th Ave S (#1581), about 4 miles",https://www.walmart.com/store/1581
+walmart,ne,Omaha,NE,yes,"Omaha, Walmart Supercenter 5018 Ames Ave (#3151), about 4 miles",https://www.walmart.com/store/3151
+walmart,nh,Manchester,NH,yes,"Manchester, Walmart Supercenter 725 Gold St (#2399), about 2 miles",https://www.walmart.com/store/2399
+walmart,nj,Newark,NJ,yes,"Kearny, Walmart Supercenter 150 Harrison Ave (#5447), about 2 miles",https://www.walmart.com/store/5447-kearny-nj
+walmart,nm,Albuquerque,NM,yes,"Albuquerque, Walmart Supercenter 2550 Coors Blvd NW (#2924), about 5 miles",https://www.walmart.com/store/2924
+walmart,nv,Las Vegas,NV,yes,"Las Vegas, Walmart Supercenter 4505 W Charleston Blvd (#3473), about 4 miles",https://www.walmart.com/store/3473
+walmart,ny,Buffalo,NY,yes,"Cheektowaga, Walmart Supercenter 2500 Walden Ave (#2586), about 7 miles",https://www.walmart.com/store/2586
+walmart,nyc,New York City,NY,yes,"Secaucus NJ, Walmart Supercenter 400 Park Pl (#3520), about 5 miles from Midtown; no store inside NYC; delivery covers parts of Brooklyn, Queens and the Bronx from suburban stores, Manhattan and Staten Island delivery not confirmed",https://www.walmart.com/store/3520
+walmart,oh,Columbus,OH,yes,"Columbus, Walmart Supercenter Westpointe Plaza Dr (#5185), about 8 miles",https://www.walmart.com/store/5185
+walmart,ok,Oklahoma City,OK,yes,"Oklahoma City, Walmart Supercenter 3301 SW 104th St (#7326), about 10 miles; NW Expressway Supercenter (#622) about 9 miles",https://www.walmart.com/store/7326-oklahoma-city-ok/shopping-services
+walmart,or,Portland,OR,yes,"Tigard, Walmart Supercenter (#5935), about 9 miles; Walmart closed its Portland city stores in 2023",https://www.walmart.com/store/5935
+walmart,pa,Philadelphia,PA,yes,"Philadelphia, Walmart Supercenter 4301 Byberry Rd (#2650), about 14 miles; other Philadelphia stores also list pickup and delivery",https://www.walmart.com/store/2650
+walmart,ri,Providence,RI,yes,"Cranston, Walmart Supercenter 1776 Plainfield Pike, about 7 miles; a smaller Walmart at 51 Silver Spring St, Providence, is about 2 miles",https://www.mystore411.com/store/view/3502/Walmart-Cranston
+walmart,sc,Columbia,SC,yes,"Columbia, Walmart Supercenter Garners Ferry Rd (#1286), about 6 miles",https://www.walmart.com/store/1286
+walmart,sd,Sioux Falls,SD,yes,"Sioux Falls, Walmart Supercenter 7821 S Minnesota Ave (#2443), about 5 miles",https://www.walmart.com/store/2443
+walmart,tn,Nashville,TN,yes,"Nashville, Walmart Supercenter 4040 Nolensville Pike (#688), about 6 miles",https://www.walmart.com/store/688-nashville-tn
+walmart,tx,Houston,TX,yes,"Houston, Walmart Supercenter 4412 North Fwy (#4526), about 5 miles",https://www.walmart.com/store/4526
+walmart,ut,Salt Lake City,UT,yes,"Salt Lake City, Walmart Supercenter S 900 E (#5350), about 6 miles",https://www.walmart.com/store/5350
+walmart,va,Richmond,VA,yes,"Richmond, Walmart Supercenter 6920 Forest Ave (#4191), about 7 miles",https://www.walmart.com/store/4191/richmond-va
+walmart,vt,Burlington,VT,yes,"Williston, Walmart (#2224), about 7 miles; discount store format, not a Supercenter, but its store page lists grocery pickup and delivery",https://www.walmart.com/store/2224-williston-vt
+walmart,wa,Seattle,WA,yes,"Renton, Walmart Supercenter 743 Rainier Ave S (#2516), about 11 miles; no store inside Seattle",https://www.walmart.com/store/2516
+walmart,wi,Milwaukee,WI,yes,"Milwaukee, Walmart Supercenter 3355 S 27th St (#2828), about 5 miles",https://www.walmart.com/store/2828
+walmart,wv,Charleston,WV,yes,"South Charleston, Walmart Supercenter 2700 Mountaineer Blvd (#2036), about 6 miles",https://www.walmart.com/store/2036
+walmart,wy,Cheyenne,WY,yes,"Cheyenne, Walmart Supercenter 2032 Dell Range Blvd (#1315), about 3 miles",https://www.walmart.com/store/1315-cheyenne-wy/shopping-services

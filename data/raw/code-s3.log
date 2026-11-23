@@ -1,0 +1,19 @@
+18 answers to code
+[1/18] 2026-11:mn:check:aldi: 2 stores, verdict=yes
+[2/18] 2026-11:oh:check:kroger: 1 stores, verdict=yes
+[3/18] 2026-11:nd:check:costco: 2 stores, verdict=yes
+[4/18] 2026-11:ne:check:publix: 8 stores, verdict=no
+[5/18] 2026-11:mo:check:walmart: 1 stores, verdict=yes
+[6/18] 2026-11:al:check:costco: 2 stores, verdict=yes
+error on 2026-11:nd:check:kroger: gemini-flash-latest failed after 6 tries: ReadTimeout: The read operation timed out
+[8/18] 2026-11:az:check:amazon: 3 stores, verdict=yes
+[9/18] 2026-11:ma:check:amazon: 3 stores, verdict=yes
+[10/18] 2026-11:ak:check:publix: 5 stores, verdict=no
+[11/18] 2026-11:pa:nocar: 6 stores, verdict=not_applicable
+[12/18] 2026-11:nyc:check:amazon: 3 stores, verdict=yes
+[13/18] 2026-11:ne:check:gopuff: 1 stores, verdict=yes
+[14/18] 2026-11:mn:where: 15 stores, verdict=not_applicable
+[15/18] 2026-11:nh:check:walmart: 1 stores, verdict=yes
+[16/18] 2026-11:wv:check:sprouts: 6 stores, verdict=no
+[17/18] 2026-11:nj:check:publix: 8 stores, verdict=no
+[18/18] 2026-11:ms:check:gopuff: 6 stores, verdict=yes

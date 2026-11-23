@@ -1,0 +1,16 @@
+retailer,place,city,state,serves,nearest_store,source_url
+kroger,al,Birmingham,AL,unclear,"No Kroger store in the Birmingham metro; nearest stores Hartselle and Decatur, about 75 miles. Kroger Delivery has served Birmingham since 2022 from a spoke at 30 W Oxmoor Rd fed by the Atlanta (Forest Park) fulfillment center; not on the 2025 to 2026 closure lists, but late 2026 status and SNAP acceptance on that service not confirmed",https://www.supermarketnews.com/independents-regional-grocers/kroger-opens-ocado-automated-spoke-site-in-alabama
+kroger,ar,Little Rock,AR,yes,"Little Rock, several Kroger stores in the city (Cantrell Marketplace, Colony West, The Heights), under 10 miles",https://www.kroger.com/stores/pickup/ar/little-rock
+kroger,ga,Atlanta,GA,yes,"Atlanta, about 15 Kroger stores in the city, under 10 miles",https://www.kroger.com/stores/grocery/ga/atlanta
+kroger,il,Chicago,IL,no,"No Kroger-branded store in the Chicago metro (Kroger runs Mariano's there, which does not count); nearest Kroger is Bourbonnais, about 55 miles. Kroger Delivery from the Pleasant Prairie WI fulfillment center ended when it closed on 1 Feb 2026",https://www.fox6now.com/news/pleasant-prairie-kroger-fulfillment-center-closing
+kroger,in,Indianapolis,IN,yes,"Indianapolis, multiple Kroger stores in the city (for example 10th and Shortridge), under 10 miles",https://www.kroger.com/stores/grocery/in/indianapolis/10th-shortridge/021/00100
+kroger,ky,Louisville,KY,yes,"Louisville, multiple Kroger stores in the city, under 10 miles",https://www.kroger.com/stores/grocery/ky/louisville
+kroger,mi,Detroit,MI,yes,"Dearborn (Eastborn and Westborn) and Ferndale (8 Mile Rd) Kroger stores, about 9 to 10 miles; Romulus fulfillment center remains open",https://www.kroger.com/stores/grocery/mi/dearborn/eastborn/018/00443
+kroger,mo,St. Louis,MO,no,"No Kroger-branded store in the St. Louis area (Kroger left in 1986; Ruler Foods there is a separate banner); nearest Kroger stores are Troy MO and Nashville IL, about 50 to 55 miles",https://storelocators.com/store-lists/kroger/missouri
+kroger,ms,Jackson,MS,yes,"Jackson, Kroger at 4910 I-55 N, about 4 miles; also Clinton, Ridgeland and Brandon",https://www.kroger.com/stores/grocery/ms/jackson
+kroger,oh,Columbus,OH,yes,"Columbus, many Kroger stores in the city, under 10 miles",https://www.kroger.com/stores/grocery/oh
+kroger,sc,Columbia,SC,yes,"Columbia, Kroger Forest Acres (3403 Forest Dr), about 4 miles; also Two Notch Rd and Killian's Crossing",https://www.kroger.com/stores/grocery/sc/columbia/forest-acres/011/00012
+kroger,tn,Nashville,TN,yes,"Nashville, multiple Kroger stores in the city, under 10 miles",https://www.kroger.com/stores/grocery/tn/nashville
+kroger,tx,Houston,TX,yes,"Houston, many Kroger stores in the city (for example El Dorado, Cypresswood), under 15 miles",https://www.kroger.com/stores/grocery/tx/houston
+kroger,va,Richmond,VA,yes,"Richmond, 7 Kroger stores in the city (for example Carytown, 3507 W Cary St), about 2 miles",https://www.kroger.com/stores/grocery/va/richmond
+kroger,wv,Charleston,WV,yes,"Charleston and South Charleston Kroger stores (Kanawha City; 5 River Walk Mall), under 5 miles",https://www.kroger.com/stores/pickup/wv/charleston

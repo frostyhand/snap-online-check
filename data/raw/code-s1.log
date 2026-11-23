@@ -1,0 +1,15 @@
+14 answers to code
+[1/14] 2026-11:tx:check:kroger: 3 stores, verdict=yes
+[2/14] 2026-11:ma:check:whole_foods: 3 stores, verdict=yes
+[3/14] 2026-11:ar:nocar: 5 stores, verdict=not_applicable
+[4/14] 2026-11:ms:check:publix: 7 stores, verdict=no
+[5/14] 2026-11:ok:nocar: 5 stores, verdict=not_applicable
+[6/14] 2026-11:ga:nocar: 4 stores, verdict=not_applicable
+[7/14] 2026-11:ca:check:publix: 13 stores, verdict=no
+[8/14] 2026-11:me:check:safeway: 6 stores, verdict=no
+[9/14] 2026-11:id:check:kroger: 2 stores, verdict=yes
+[10/14] 2026-11:dc:check:gopuff: 2 stores, verdict=yes
+[11/14] 2026-11:mi:check:safeway: 7 stores, verdict=no
+[12/14] 2026-11:nd:check:sprouts: 7 stores, verdict=no
+[13/14] 2026-11:in:check:walmart: 1 stores, verdict=yes
+[14/14] 2026-11:mn:check:costco: 2 stores, verdict=yes

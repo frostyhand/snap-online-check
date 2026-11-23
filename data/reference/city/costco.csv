@@ -1,0 +1,49 @@
+retailer,place,city,state,serves,nearest_store,source_url
+costco,ak,Anchorage,AK,yes,"Anchorage (Dimond Blvd and NE Anchorage DeBarr Rd), about 4 mi",https://www.costco.com/w/-/ak/anchorage-anchorage/10
+costco,al,Birmingham,AL,yes,"Hoover, about 10 mi",https://www.costco.com/w/-/al/hoover/362
+costco,ar,Little Rock,AR,yes,"Little Rock (west Little Rock), about 10 mi",https://www.costco.com/w/-/ar/little-rock/1442
+costco,az,Phoenix,AZ,yes,"Phoenix (Thomas Road), about 5 mi",https://www.costco.com/w/-/az/phoenix/465
+costco,ca,Los Angeles,CA,yes,"Los Angeles (Los Feliz), about 5 mi",https://www.costco.com/w/-/ca/los-angeles/130
+costco,co,Denver,CO,yes,"Denver (NE Denver), about 8 mi; Sheridan about 7 mi",https://www.costco.com/w/-/co/denver/1652
+costco,ct,Hartford,CT,yes,"New Britain, about 9 mi; South Windsor about 8 mi",https://www.costco.com/w/-/ct/new-britain/1196
+costco,dc,Washington,DC,yes,"Washington (Fort Lincoln, 2441 Market St NE), about 4 mi",https://www.costco.com/w/-/DC/WASHINGTON/1120
+costco,de,Wilmington,DE,yes,"Newark DE (Christiana), about 9 mi",https://www.costco.com/w/-/de/newark/246
+costco,fl,Miami,FL,yes,"Miami, Kendall and North Miami warehouses, about 9 to 15 mi",https://www.costco.com/sitemaps/warehouses-by-state/FL
+costco,ga,Atlanta,GA,yes,"Atlanta (Brookhaven), about 8 mi",https://www.costco.com/w/-/ga/atlanta/1084
+costco,hi,Honolulu,HI,yes,"Honolulu (Iwilei), about 2 mi",https://www.costco.com/w/-/hi/honolulu/687
+costco,ia,Des Moines,IA,yes,"West Des Moines, about 8 mi",https://www.costco.com/w/-/ia/west-des-moines/788
+costco,id,Boise,ID,yes,"Boise, about 5 mi",https://www.costco.com/w/-/id/boise/761
+costco,il,Chicago,IL,yes,"Chicago (South Loop), about 2 mi",https://www.costco.com/w/-/il/chicago/1107
+costco,in,Indianapolis,IN,yes,"Indianapolis (Castleton, Fortune Park, S Indianapolis), about 10 mi",https://www.costco.com/sitemaps/warehouses-by-state/IN
+costco,ks,Wichita,KS,yes,"Wichita, about 9 mi",https://www.costco.com/w/-/ks/wichita/1200
+costco,ky,Louisville,KY,yes,"Louisville (two warehouses), about 8 mi",https://www.costco.com/w/-/ky/louisville/1238
+costco,la,New Orleans,LA,yes,"New Orleans, about 3 mi",https://www.costco.com/w/-/la/new-orleans/1147
+costco,ma,Boston,MA,yes,"Everett, about 4 mi",https://www.costco.com/w/-/ma/everett/333
+costco,md,Baltimore,MD,yes,"Glen Burnie, about 8 mi; White Marsh about 11 mi",https://www.costco.com/sitemaps/warehouses-by-state/MD
+costco,me,Portland,ME,yes,"Scarborough, about 7 mi",https://www.costco.com/w/-/me/scarborough/1657
+costco,mi,Detroit,MI,yes,"Madison Heights, about 12 mi",https://www.costco.com/w/-/mi/madison-heights/393
+costco,mn,Minneapolis,MN,yes,"St Louis Park, about 6 mi",https://www.costco.com/w/-/mn/saint-louis-park/377
+costco,mo,St. Louis,MO,yes,"St. Louis (S St Louis and University City), about 8 mi",https://www.costco.com/sitemaps/warehouses-by-state/MO
+costco,ms,Jackson,MS,yes,"Ridgeland (only Mississippi warehouse), about 10 mi",https://www.costco.com/w/-/MS/ridgeland/1366
+costco,mt,Billings,MT,yes,"Billings, about 4 mi",https://www.costco.com/w/-/mt/billings/1644
+costco,nc,Charlotte,NC,yes,"Charlotte, about 10 mi; Matthews about 11 mi",https://www.costco.com/w/-/nc/charlotte/359
+costco,nd,Fargo,ND,yes,"West Fargo, about 5 mi",https://www.costco.com/w/-/nd/west-fargo/1119
+costco,ne,Omaha,NE,yes,"Omaha (two warehouses), about 8 mi",https://www.costco.com/w/-/ne/omaha/1012
+costco,nh,Manchester,NH,yes,"Nashua (only NH warehouse), about 19 mi; Instacart lists Costco delivery in Manchester",https://www.instacart.com/costco-delivery/manchester-nh
+costco,nj,Newark,NJ,yes,"Union, about 6 mi; Bayonne about 6 mi",https://www.costco.com/w/-/nj/union/320
+costco,nm,Albuquerque,NM,yes,"Albuquerque (three warehouses), about 5 mi",https://www.costco.com/sitemaps/warehouses-by-state/NM
+costco,nv,Las Vegas,NV,yes,"Las Vegas (Summerlin, Spring Valley, Centennial), about 8 mi",https://www.costco.com/sitemaps/warehouses-by-state/NV
+costco,ny,Buffalo,NY,yes,"Amherst, about 9 mi",https://www.costco.com/w/-/ny/amherst/1685
+costco,nyc,New York City,NY,yes,"Manhattan (East Harlem), Brooklyn, Queens and others, about 2 to 6 mi",https://www.costco.com/w/-/ny/new-york/1062
+costco,oh,Columbus,OH,yes,"Columbus (Easton and Columbus), about 8 mi",https://www.costco.com/sitemaps/warehouses-by-state/OH
+costco,or,Portland,OR,yes,"Portland (NE Portland), about 10 mi; Tigard and Clackamas about 10 mi",https://www.costco.com/w/-/or/portland/2
+costco,pa,Philadelphia,PA,yes,"No warehouse in the city; King of Prussia PA about 17 mi, Warminster PA about 18 mi, Cherry Hill NJ about 8 mi",https://www.costco.com/sitemaps/warehouses-by-state/PA
+costco,sc,Columbia,SC,yes,"Columbia, about 8 mi",https://www.costco.com/w/-/sc/columbia/1232
+costco,sd,Sioux Falls,SD,yes,"Sioux Falls, about 4 mi",https://www.costco.com/w/-/sd/sioux-falls/1159
+costco,tn,Nashville,TN,yes,"Nashville (W Nashville), about 8 mi",https://www.costco.com/w/-/tn/nashville/630
+costco,tx,Houston,TX,yes,"Houston (Galleria, Bunker Hill, Willowbrook), about 6 mi",https://www.costco.com/w/-/tx/houston/1018
+costco,ut,Salt Lake City,UT,yes,"Salt Lake City, about 3 mi",https://www.costco.com/w/-/ut/salt-lake-city/113
+costco,va,Richmond,VA,yes,"North Chesterfield, about 10 mi; Glen Allen (W Henrico) about 12 mi",https://www.costco.com/sitemaps/warehouses-by-state/VA
+costco,vt,Burlington,VT,yes,"Colchester (only Vermont warehouse), about 6 mi",https://www.costco.com/w/-/vt/colchester/314
+costco,wa,Seattle,WA,yes,"Seattle (SoDo), about 2 mi",https://www.costco.com/w/-/wa/seattle/1
+costco,wi,Milwaukee,WI,yes,"New Berlin, about 12 mi; Menomonee Falls about 14 mi",https://www.costco.com/w/-/wi/new-berlin/1212

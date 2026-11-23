@@ -1,0 +1,34 @@
+# SNAP Online Check: results
+
+Answers scored: 623
+
+## Open questions (where, nocar)
+
+* Stores the assistant said take EBT online: 803
+* ...wrong by the retailer's own policy in that state: 5 (0.7% of those that could be checked)
+* ...not confirmed by the retailer table or the USDA page (hand-check sample): 33
+* Answers naming at least one wrong store: 5 of 104 (4.8%)
+* Says SNAP can pay delivery or service fees: 0; says it cannot: 104; silent: 0
+* Points to USDA, the state agency or the retailer to confirm: 3
+* Parent-chain mentions where USDA lists a banner (not scored): 2; delivery-app mentions (not scored): 173
+
+## Named-retailer questions (check)
+
+* Questions scored: 428 (Gopuff left out: low-confidence answer key); accuracy 94.4%
+* False yes (said yes where the retailer's own policy says no): 4.2%
+* False no (said no where the retailer's policy says yes): 5.5%
+* Hedged with no bottom line: 2
+* Questions where USDA's state page disagrees with the retailer's own policy: 17
+
+| Retailer | Scored | Accuracy | False yes | False no | Hedged |
+| --- | --- | --- | --- | --- | --- |
+| ALDI | 52 | 100.0% | 0.0% | 0.0% | 0 |
+| Amazon | 52 | 100.0% | n/a | 0.0% | 0 |
+| Costco | 52 | 92.3% | 33.3% | 2.0% | 2 |
+| Gopuff | 52 | 84.6% | 61.5% | 0.0% | 0 |
+| Kroger | 32 | 96.9% | 0.0% | 6.2% | 0 |
+| Publix | 51 | 100.0% | 0.0% | 0.0% | 0 |
+| Safeway | 33 | 75.8% | 0.0% | 44.4% | 0 |
+| Sprouts | 52 | 84.6% | 7.7% | 23.1% | 0 |
+| Walmart | 52 | 100.0% | n/a | 0.0% | 0 |
+| Whole Foods | 52 | 94.2% | 33.3% | 2.2% | 0 |

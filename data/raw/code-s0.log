@@ -1,0 +1,18 @@
+17 answers to code
+[1/17] 2026-11:sc:check:sprouts: 6 stores, verdict=no
+[2/17] 2026-11:sd:where: 11 stores, verdict=not_applicable
+[3/17] 2026-11:id:check:sprouts: 7 stores, verdict=no
+[4/17] 2026-11:hi:check:aldi: 6 stores, verdict=no
+[5/17] 2026-11:mo:nocar: 4 stores, verdict=not_applicable
+[6/17] 2026-11:nyc:check:gopuff: 2 stores, verdict=yes
+[7/17] 2026-11:mt:check:walmart: 1 stores, verdict=yes
+[8/17] 2026-11:al:check:safeway: 9 stores, verdict=no
+[9/17] 2026-11:va:check:kroger: 1 stores, verdict=yes
+[10/17] 2026-11:dc:nocar: 7 stores, verdict=not_applicable
+[11/17] 2026-11:or:check:costco: 2 stores, verdict=yes
+[12/17] 2026-11:oh:check:publix: 8 stores, verdict=no
+[13/17] 2026-11:wv:check:costco: 6 stores, verdict=no
+[14/17] 2026-11:nd:check:walmart: 1 stores, verdict=yes
+[15/17] 2026-11:md:nocar: 7 stores, verdict=not_applicable
+[16/17] 2026-11:sd:check:publix: 6 stores, verdict=no
+[17/17] 2026-11:sc:check:walmart: 1 stores, verdict=yes
